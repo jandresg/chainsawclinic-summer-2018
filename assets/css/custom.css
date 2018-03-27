@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'Hq Sans Pro TT';
+	src: url('./assets/fonts/HqSansProTT-Bold.eot'); 
+	src: url('./assets/fonts/HqSansProTT-Bold.woff') format('woff'),
+		url('./assets/fonts/HqSansProTT-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sofachrome Rg';
+	src: url('./assets/fonts/SofachromeRg-Regular.eot');
+	src: url('./assets/fonts/SofachromeRg-Regular.woff') format('woff'), 
+		url('./assets/fonts/SofachromeRg-Regular.ttf') format('truetype');
+}
+
+* {
+	font-family: 'Hq Sans Pro TT';
+}
+
+navbar {
+	color: white;
+}
+
+a.navbar-brand {
+	font-family: 'Sofachrome Rg';
+	color: : white;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
