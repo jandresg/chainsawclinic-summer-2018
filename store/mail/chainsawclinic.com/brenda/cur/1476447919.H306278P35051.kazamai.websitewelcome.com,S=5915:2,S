@@ -1,0 +1,97 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 14 Oct 2016 07:25:19 -0500
+Received: from mail-io0-f176.google.com ([209.85.223.176]:33513)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1bv1Y7-00094V-4N
+	for brenda@chainsawclinic.com; Fri, 14 Oct 2016 07:25:19 -0500
+Received: by mail-io0-f176.google.com with SMTP id q192so119225104iod.0
+        for <brenda@chainsawclinic.com>; Fri, 14 Oct 2016 05:25:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=DLr47My+qvI47h0vYpzZiPdMjVD/iHRKz30hN85uqiw=;
+        b=CfhnEgh/kpdyRLQms4Z7MwS/ZgX4GMYwVUS6uw9392MTG0LNa8i6Q4fr1sTeCp+S7P
+         jUtRu9N4jfKp5GOgeaGdpKY/RGApAZBapsF/KWB+qE+QSlQtih8WPdr6SBm2qzZTjHsJ
+         kVv29F6VhSuHrxrqD8YiQkGrSr0frblghZ3JQQtRNYe09S54yy8ipCa5oOGMbO9TOsbZ
+         wcxwFQpYA4hOn6y5HGRGTDb1uTfZJRhwFVA+DgPtECfwyivLJ7yINuaiLJ0Mx6+XFdxq
+         rF3o9qtvVftzGkRU+yP5Lf0BcwRwuVRTgu3GBNNk6uinhQ/aQQbD9qfc9GE4R27a8Avx
+         W4jQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=DLr47My+qvI47h0vYpzZiPdMjVD/iHRKz30hN85uqiw=;
+        b=ZikUTgOH79QPY04rQml7PA5g3l5t0Z/f5WeJvP6wC+ypjFgYPoIZ0bYUO5TkGl9ydY
+         ZOivFGO/2Ddt7BU4P/HNzPmhQ2DoAKu/xjo/83ui9ace48o9WTLszwEO/gw0yt/IeCIP
+         MU8rjR0MxBqVnRFjj6h5pfdWmkFLAawb4Cb/IDQ+odTo47UaDY3T8ijjmudJsi5um+KD
+         0kimPM6aF+oqdwK9hL4HjMXT6oAuyWWybzJihn/ULeDuTSFngqV6kGszuRLEWnU1nrYY
+         0eM+ZfzrOu6S0Y01jGKVLcYUuWmL/nepT0m9B2L035KEYlLatVRr874Hb1jVqT8xoMKk
+         D/XQ==
+X-Gm-Message-State: AA6/9RmZpVmPWe4ghq2++KgfssrdMkRycCNAMN9a0fMjNM2/c3hzYb0CW1KkW+5Gbnr+Eu/NM4ZjmuY3+wI/MA==
+X-Received: by 10.107.137.138 with SMTP id t10mr11855115ioi.13.1476447908182;
+ Fri, 14 Oct 2016 05:25:08 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.64.126.136 with HTTP; Fri, 14 Oct 2016 05:24:37 -0700 (PDT)
+From: John Parete <john.parete@gmail.com>
+Date: Fri, 14 Oct 2016 08:24:37 -0400
+Message-ID: <CAL7=TmmewbN-HC3_xHP6fNWFG3i0K+wA5WxdGmaka6ik0HSB2Q@mail.gmail.com>
+Subject: Elli Eleftheriou's sister
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Chris Ghangas <chris.ghangas@gmail.com>, Darrin Hollmann <dvhollmann@gmail.com>, 
+	David Fowler <uniteddave@aol.com>, David Junnola <junnolahomes@gmail.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Dinuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	"Filipo & Catarina Zambri" <zamfilcat@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Fiorellino <frankfiorellino@hotmail.com>, Frank Rucchetta <frucchetta@yahoo.ca>, 
+	"Gary & Lucy Blunt" <lucyablunt@gmail.com>, Giulio Pace <gppp_us@yahoo.com>, 
+	Grace Lopes <lopes.grace@ymail.com>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Jennifer Perusini <jlperusini@gmail.com>, Jessica Mclean <jessicamclean78@gmail.com>, 
+	Joe Loggia <joe.loggia@vitran.com>, Joe Venezia <jvenezia72@rogers.com>, 
+	John Lommano <jlommano@yahoo.ca>, Joseph Yu <josephydw@gmail.com>, 
+	Joshua Mclean <joshua.4.mclean@gmail.com>, Julie Mclean <Julie.mclean05@live.ca>, 
+	Karin Teti <karinteti@hotmail.com>, Laura Casavant <laura.casavant@gmail.com>, 
+	Luigi Panigas <sensory5@gmail.com>, Marilena DiMatteo <marilena@rogers.com>, 
+	Marina Lancia <marinalancia@gmail.com>, Marisa Panaroni <mpanaroni@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, Mary Varkaris <maryvarkaris@yahoo.com>, 
+	Michelle Annarilli <santelicesm@hotmail.com>, Nick - Cell Zambri <nick_zambri@hotmail.com>, 
+	Nick Smith <mossberg303@gmail.com>, Nina Junnola <njunnola@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=001a113f94ac18c77c053ed25117
+
+--001a113f94ac18c77c053ed25117
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers,
+
+In case you have not heard, Sister Eleftheriou's sister in Cypress has just
+recently passed away. She was a Witness.
+
+John Parete
+
+--001a113f94ac18c77c053ed25117
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Brothers,<div><br><div>In case you have not heard, Si=
+ster=C2=A0Eleftheriou&#39;s sister in Cypress has just recently passed away=
+. She was a Witness.</div><div><br clear=3D"all"><div><div class=3D"gmail_s=
+ignature"><font face=3D"georgia, serif">John Parete</font></div></div>
+</div></div></div>
+
+--001a113f94ac18c77c053ed25117--

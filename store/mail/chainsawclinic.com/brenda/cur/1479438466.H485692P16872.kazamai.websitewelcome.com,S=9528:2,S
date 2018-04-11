@@ -1,0 +1,146 @@
+Return-path: <rfranske@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 17 Nov 2016 21:07:46 -0600
+Received: from mail-yw0-f193.google.com ([209.85.161.193]:32900)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <rfranske@gmail.com>)
+	id 1c7ZWk-0004Kv-Dx
+	for brenda@chainsawclinic.com; Thu, 17 Nov 2016 21:07:46 -0600
+Received: by mail-yw0-f193.google.com with SMTP id s68so18909901ywg.0
+        for <brenda@chainsawclinic.com>; Thu, 17 Nov 2016 19:07:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:cc;
+        bh=VsCBrLZuX3iMMZFtAmCv3PC5Sn4c1i9cEhajnEPaDD8=;
+        b=zBWs4l+MqadQkeQM5tdVmVtsagEQo5o6wD3Ddd4mGW/MKNGnxpZVMck7+7yix63um8
+         oqyHPVY5VLhB9pZ3T2Z/0X9yGSOV9pUdoxjBVVeAqdJf+b1dRn/pgWemVXS7xxOtvxkp
+         lQAzwGB1YdSzkqC38Lki8r0SibC4K3v/YMz4QJ4V4U8/ooA6C6WVZIBR06xESDO0vcAY
+         sPjtNgZ/oHm7VH9a7DuewMnGHvBeVmN8VDuKt0iz9ftu5ERINYSomuWmJ025yCu+LwdH
+         g0Q4TN7xcylJZFlXM3tQGUX+Z2sS7CSNO0YHY1zFQnsNZszCbZu9ueqK068QHemh2qHV
+         MYdg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:cc;
+        bh=VsCBrLZuX3iMMZFtAmCv3PC5Sn4c1i9cEhajnEPaDD8=;
+        b=HVsLsI+is8r2LZ1ApjXjw8oGiitNCmYde+Y/29YbV7Rpa4zjWbUS4GUZZyPsnV6fFt
+         YB/guuv2qR9hznGr+4XTaxPMkbf+e7jTWOUbxXl/BGeIBEaA9f8H9+94Y/fImjWhZyhe
+         lW1q7TUjaZIDFLGuGAinrxOYUXwmTUgEpUDxRluqu8ebWUTjAvXhoQfiv0kpPe0XMbqh
+         Cu6jDePT5RzGrLxLQFOk0Q4Zcrz7rIS4IN/+sG4ccypd/Rxfoem5f/ybS+KMipoeVoPv
+         e2b71n4hV+2xEc2CFO0mVwoLjvmSTz9U/qx+jAef3jySj7iKD/KJG4yZY52kgttzcAhg
+         FxXg==
+X-Gm-Message-State: AKaTC03E5Ys0Nj1fwzXwh6T47i4lEPG7bST0mZzylSvh8amIEwAr5hUU/3KLFEr+n5TTDFmNV8QoN+qWI2ByOQ==
+X-Received: by 10.13.255.65 with SMTP id p62mt5563168ywf.327.1479438454996;
+ Thu, 17 Nov 2016 19:07:34 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.83.12.214 with HTTP; Thu, 17 Nov 2016 19:07:34 -0800 (PST)
+From: Randall Franske <rfranske@gmail.com>
+Date: Thu, 17 Nov 2016 22:07:34 -0500
+Message-ID: <CAFGvh3+hi=NWMdD6k8WHW6Y_VDZCXZCX-Qr-9aebu+yo-PFycQ@mail.gmail.com>
+Subject: Woodbridge Kingdom hall renovation work Monday and Tue Nov 21,22
+Cc: Alessandro Vorobyov <alexvorobyov@hotmail.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Bernie Marchio <Bmarchio@hotmail.com>, Bill Ariko <margaretariko@gmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Casavant Laura <laura.casavant@gmail.com>, 
+	Caterina Zambri <zamfilcat@hotmail.com>, Darrin Hollmann <dvhollmann@gmail.com>, 
+	Dave Fowler <uniteddave@aol.com>, Dave Junnola <Junnolahomes@gmail.com>, 
+	Derick Smerchansky <smerchansky@hotmail.com>, Dino Vilardo <dinovilardo@yahoo.com>, 
+	Dinuzzo Elvi <edinuzzo@alumni.uoguelph.ca>, Filippo Zambri <zamfilippo@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, Frank Stalteri <stalteri_f@hotmail.com>, 
+	Franske RS <rsfranske@gmail.com>, Franske S <sfranske@yahoo.com>, 
+	Franske S wtbts <SFranske@jw.org>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	John Parete <john.parete@gmail.com>, Joseph Yu <josephydw@gmail.com>, 
+	Julio Pace <gppp_us@yahoo.com>, Lucy Blunt <lucyablunt@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	Nina Junnola <njunnola@gmail.com>, Panaroni Marisa <mpanaroni@gmail.com>, 
+	Paul Losacco <plosacco@rogers.com>, Peter Rothman <rothmanspainting@gmail.com>, 
+	Pierluca Belsito <pierluca.belsito@gmail.com>, Ron Robinson <brenda@chainsawclinic.com>, 
+	Rose Lommano <roselommano@yahoo.ca>, Stephanie Rucchetta <srucchetta@yahoo.com>, 
+	Teneson Floro <tenesonfloro@gmail.com>, Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, 
+	Tony Alcamo <talcamo@gmail.com>, Tony Fiorellino <tony@insureitgroup.com>, 
+	Wally Mabayoje <amabayoje@yahoo.com>, Walter Panaroni <wpanaroni@gmail.com>
+Content-Type: multipart/alternative; boundary=94eb2c08650894902905418a9b4a
+
+--94eb2c08650894902905418a9b4a
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers
+We have just received a request to share in some renovation work Monday and
+Tue Nov 21,22.   The work on these days involves assisting to help remove
+old furnace and installation of new. Only one or two total are needed for
+these days. If you have any HVAC experience that would be an asset,
+although not necessary.     If you can help please let me know at your
+earliest convenience so I can forward you name.
+Thank you so much for your help and willing spirit of cooperation.
+Your Brother,
+ Randall
+
+--94eb2c08650894902905418a9b4a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Brothers<br><div><font face=3D"Arial, sans-serif"><fo=
+nt style=3D"font-size:11pt" size=3D"2"><span style=3D"font-variant:normal">=
+<font color=3D"#000000"><span style=3D"text-decoration:none"><font style=3D=
+"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:=
+normal"><span style=3D"font-weight:normal"><span style=3D"background:transp=
+arent none repeat scroll 0% 0%">We
+have just received a request to share</span></span></span></span></font></s=
+pan></font></span><span style=3D"font-variant:normal"><font color=3D"#00000=
+0"><span style=3D"text-decoration:none"><font style=3D"font-size:10pt" size=
+=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><span style=
+=3D"font-weight:normal"><span style=3D"background:transparent none repeat s=
+croll 0% 0%"></span></span></span></span></font></span></font></span><span =
+style=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"text-d=
+ecoration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-=
+GB"><span style=3D"font-style:normal"><span style=3D"font-weight:normal"><s=
+pan style=3D"background:transparent none repeat scroll 0% 0%"> in some reno=
+vation work Monday and Tue Nov 21,22. =C2=A0 </span></span></span></span></=
+font></span></font></span></font></font><font face=3D"Arial, sans-serif"><f=
+ont style=3D"font-size:11pt" size=3D"2"><span style=3D"font-variant:normal"=
+><font color=3D"#000000"><span style=3D"text-decoration:none"><font style=
+=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-sty=
+le:normal"><span style=3D"font-weight:normal"><span style=3D"background:tra=
+nsparent none repeat scroll 0% 0%">The work on these days involves assistin=
+g to help remove old furnace and installation of new. Only one or two total=
+ are needed for these days. </span></span></span></span></font></span></fon=
+t></span></font></font><font face=3D"Arial, sans-serif"><font style=3D"font=
+-size:11pt" size=3D"2"><span style=3D"font-variant:normal"><font color=3D"#=
+000000"><span style=3D"text-decoration:none"><font style=3D"font-size:10pt"=
+ size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><span st=
+yle=3D"font-weight:normal"><span style=3D"background:transparent none repea=
+t scroll 0% 0%">If you have any HVAC experience that would be an asset, alt=
+hough not
+ necessary. =C2=A0 </span></span></span></span></font></span></font></span>=
+<span style=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"=
+text-decoration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=
+=3D"en-GB"><span style=3D"font-style:normal"><span style=3D"font-weight:nor=
+mal"><span style=3D"background:transparent none repeat scroll 0% 0%">=C2=A0=
+ </span></span></span></span></font></span></font></span><span style=3D"fon=
+t-variant:normal"><font color=3D"#000000"><span style=3D"text-decoration:no=
+ne"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span st=
+yle=3D"font-style:normal"><span style=3D"font-weight:normal"><span style=3D=
+"background:transparent none repeat scroll 0% 0%">
+ </span></span></span></span></font></span></font></span><span style=3D"fon=
+t-variant:normal"><font color=3D"#000000"><span style=3D"text-decoration:no=
+ne"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span st=
+yle=3D"font-style:normal"><span style=3D"font-weight:normal"><span style=3D=
+"background:transparent none repeat scroll 0% 0%">If
+you can help please<b> </b>let me know at your earliest convenience so I ca=
+n forward you name.=C2=A0 <br></span></span></span></span></font></span></f=
+ont></span></font></font><font face=3D"Arial, sans-serif"><font style=3D"fo=
+nt-size:11pt" size=3D"2"><span style=3D"font-variant:normal"><font color=3D=
+"#000000"><span style=3D"text-decoration:none"><font style=3D"font-size:10p=
+t" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><span =
+style=3D"font-weight:normal"><span style=3D"background:transparent none rep=
+eat scroll 0% 0%">Thank you so much for your help and willing spirit of coo=
+peration. <b><br></b>Your Brother,<br></span></span></span></span></font></=
+span></font></span></font></font></div><font face=3D"Arial, sans-serif"><fo=
+nt style=3D"font-size:11pt" size=3D"2"><span style=3D"font-variant:normal">=
+<font color=3D"#000000"><span style=3D"text-decoration:none"><font style=3D=
+"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:=
+normal"><span style=3D"font-weight:normal"><span style=3D"background:transp=
+arent none repeat scroll 0% 0%">=C2=A0Randall<br><br><br></span></span></sp=
+an></span></font></span></font></span></font></font><br><br></div>
+
+--94eb2c08650894902905418a9b4a--

@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 08 Nov 2016 13:24:56 -0600
+Received: from mailnull by kazamai.websitewelcome.com with local (Exim 4.87)
+	id 1c4C0t-0003fb-Uc
+	for brenda@chainsawclinic.com; Tue, 08 Nov 2016 13:24:55 -0600
+X-Failed-Recipients: nick_pollice@ch.honda.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@kazamai.websitewelcome.com>
+To: brenda@chainsawclinic.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1478633095-eximdsn-367005385
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1c4C0t-0003fb-Uc@kazamai.websitewelcome.com>
+Date: Tue, 08 Nov 2016 13:24:55 -0600
+
+--1478633095-eximdsn-367005385
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  nick_pollice@ch.honda.ca
+    host cm.websitewelcome.com [192.185.0.102]
+    SMTP error from remote mail server after RCPT TO:<nick_pollice@ch.honda.ca>:
+    550 5.1.1 <nick_pollice@ch.honda.ca> recipient rejected
+
+--1478633095-eximdsn-367005385
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; kazamai.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;nick_pollice@ch.honda.ca
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <nick_pollice@ch.honda.ca> recipient rejected
+
+--1478633095-eximdsn-367005385
+Content-type: text/rfc822-headers
+
+Return-path: <brenda@chainsawclinic.com>
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:60729 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1c4C0p-0003dY-RF
+	for nick_pollice@ch.honda.ca; Tue, 08 Nov 2016 13:24:54 -0600
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <nick_pollice@ch.honda.ca>
+Subject: Name and Email to be corrected on Registration
+Date: Tue, 8 Nov 2016 14:24:48 -0500
+Message-ID: <000001d239f5$c5bffc70$513ff550$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0001_01D239CB.DCEC3E60"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdI58dVbu9Z0udwsRY6OW8TCHzr8vA==
+Content-Language: en-ca
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1478633095-eximdsn-367005385--

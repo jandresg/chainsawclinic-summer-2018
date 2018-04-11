@@ -1,0 +1,229 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 26 Oct 2016 17:46:51 -0500
+Received: from mail-cys01nam02hn0247.outbound.protection.outlook.com ([104.47.37.247]:43584 helo=NAM02-CY1-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	id 1bzWyB-000Bd1-ER
+	for brenda@chainsawclinic.com; Wed, 26 Oct 2016 17:46:51 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tdsb.on.ca;
+ s=selector2; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=UEA9pgz6ZdM/Qf9L0kMAhpEhO6dqkFqbeP/dOSz6ggk=;
+ b=ZMqGYvbQ3SIqGEoS9HCGw43jcWGuCxU0zcRYvFEBdKai0ZrMDjtvYfiSZ9AQ9rnYL+HjRCCeIp+VmqtbaWwGowk3pz7ilYHm2OxxzMpLI+5Ni5Qeaxr/IFR1iejljfgg3ngxtM3Z90nUjGpfDigWOE2MnUm3Cupg8Wu745tI5KE=
+Received: from DM5PR02CA0050.namprd02.prod.outlook.com (10.168.192.12) by
+ BN6PR02MB2226.namprd02.prod.outlook.com (10.168.253.20) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.669.16; Wed, 26 Oct 2016 22:46:39 +0000
+Received: from BL2FFO11FD061.protection.gbl (2a01:111:f400:7c09::124) by
+ DM5PR02CA0050.outlook.office365.com (2603:10b6:3:39::12) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.669.16 via Frontend Transport; Wed, 26 Oct 2016 22:46:39 +0000
+Authentication-Results: spf=none (sender IP is 38.116.192.55)
+ smtp.helo=tls.tdsb.on.ca; chainsawclinic.com; dkim=none (message not signed)
+ header.d=none;chainsawclinic.com; dmarc=fail action=none
+ header.from=tdsb.on.ca;
+Received-SPF: None (protection.outlook.com: tls.tdsb.on.ca does not designate
+ permitted sender hosts)
+Received: from tls.tdsb.on.ca (38.116.192.55) by
+ BL2FFO11FD061.mail.protection.outlook.com (10.173.161.157) with Microsoft
+ SMTP Server (version=TLS1_0, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA_P384)
+ id 15.1.679.5 via Frontend Transport; Wed, 26 Oct 2016 22:46:39 +0000
+Received: from TDSBHUB3.tdsb.on.ca (172.22.19.41) by TLS.tdsb.on.ca
+ (172.22.200.205) with Microsoft SMTP Server (TLS) id 14.3.319.2; Wed, 26 Oct
+ 2016 18:46:41 -0400
+Received: from TDSBHUB3.tdsb.on.ca ([172.22.19.41]) by TDSBHUB3.tdsb.on.ca
+ ([172.22.19.41]) with Microsoft SMTP Server id 14.03.0319.002; Wed, 26 Oct
+ 2016 18:46:38 -0400
+From: APInvoices <APInvoices@tdsb.on.ca>
+To: Chain Saw Clinic - Brenda <brenda@chainsawclinic.com>
+Subject: Automatic reply: Outstanding inv # 2863 #2864 on PO
+ 4501744108-2016-04-12
+Thread-Topic: Outstanding inv # 2863 #2864 on PO 4501744108-2016-04-12
+Thread-Index: AQHL87hBXWZ6Tkf8S2PvmZ62CFyLbKDHzfJQgAAAPdA=
+Date: Wed, 26 Oct 2016 22:46:38 +0000
+Message-ID: <2e30f65991ed429592251db8fe736f8f@TDSBHUB3.tdsb.on.ca>
+References: <000301d22fda$c1f74730$45e5d590$@chainsawclinic.com>
+In-Reply-To: <000301d22fda$c1f74730$45e5d590$@chainsawclinic.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: APINVOICES@tdsb.on.ca
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_000_2e30f65991ed429592251db8fe736f8fTDSBHUB3tdsbonca_"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report:
+	CIP:38.116.192.55;IPV:NLI;CTRY:CA;EFV:NLI;SFV:NSPM;SFS:(10009020)(7916002)(2970300002)(428002)(249900001)(199003)(5423002)(189002)(5660300001)(2906002)(33646002)(2950100002)(42882006)(19580395003)(64544003)(7636002)(84326002)(229853001)(105586002)(92566002)(626004)(345774005)(19300405004)(19580405001)(102836003)(53416004)(7846002)(77096005)(15975445007)(16236675004)(15974865002)(7906003)(7596002)(106116001)(87936001)(106466001)(356003)(8936002)(24736003)(19625215002)(11100500001)(7696004)(189998001)(78352004)(8676002)(6916009)(246002)(230783001)(450100001)(101416001)(107886002)(5000100001)(50650200001)(110136003)(16601075003)(74482002)(15843345004)(960300001)(586003)(19617315012)(512944002)(4590100002)(54356999)(50986999)(76176999)(108616004)(7099028);DIR:OUT;SFP:1501;SCL:1;SRVR:BN6PR02MB2226;H:tls.tdsb.on.ca;FPR:;SPF:None;PTR:tls.tdsb.on.ca;A:0;MX:0;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD061;1:0ie9oUvk2KggmUpxjYgaRif2R+rBGfAf2eQ0vwYrX9Q/i7pebotvyCHikho1Uv4+k3D9wiR6aJKlc/jkc/aU69rqpbihBk+CGwAAr8XL9b4j9hUGqw5fIHoLQXCRWCUn9Wb2qBAq2oudd4BzLuhhzgMK2XgvD890jCPJJcd8/CaB3rGjUpHCzR+21mu9asCDJfgCGuu8UVr1lc3cTxR+mP8PtZj1iq59qvuWdMeg8a9PxALoCZr8dkkF3x+yIHmCQeHlrHOGAKl4z7b649uD9riQ2c6r03mDYE0bfHMfavcC6awYXYjPgpkJcEjX3YKf+ib3vB53E7jh3EZdOR5A5mawEjLKJp90GJjKZ8arkzoMbk0N+7Wz+TYia6Go1t44KtWMgaXKtM4wEAt1O0SKk4wS9jYH6ykjLGbACtIf5ivev/rSsWGJTQPnx+1sSSnJEZx08RJo+n/+0HCg+01icIQ7Q51jR2ybwGnJbcRhleThjC7luaBE4nnRqZ79fr/0Zbqw/6pnW6wswUauecaUkfbviO8j9lwx8GyMjPGwjkY=
+X-MS-Office365-Filtering-Correlation-Id: f2f34367-d640-4854-58bf-08d3fdf1f2ef
+X-Microsoft-Exchange-Diagnostics:
+	1;BN6PR02MB2226;2:3rzp1Hmiy+QsZn+rQPTwaBOO/Kkch8DrlFgoGc9ivkpk0N7OX5jQFUtYiigOOCM82i6qPfXDw2e+0g5QUQ06Issj7XZcqu046SkGaSnFJijE6G8/6iXWiW3W+WdBcWTQNgeCL2vxUlvwCblMsUYDnZdoRxs4D6/7mz2P0szl97qGZO98sL2VN0laOHGnVrqlglOFEU7kqnE55ttLTrilGA==;3:QPpbGKr2JlA3WcAdpoYoOoGvsWeHXlGXPZU5aeVw8sODTM+4eh9qbSIJ23hKrCKOq3wWg0ZfDOOccCceQln67Ox/9pOT+hr5/8R7GAQNqArJ692hnydJVRXNFk2V60ux8GQLIxtcNH1UyUnDLlXqv70a3yZzk3yjPS3aHODpT40b1utVX5D5Zt7rCbWyT0yLNotPdSvBMT6a9Mc8j4yNHkLl6g/FosVaOOKDJGr9uYzlsbYioBc2WeZ30n79LpGY
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN6PR02MB2226;
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BN6PR02MB2226;25:rLdiqslS/h1xc2LQUP5FKNLKP9/nm4G/vEIYVFBqo?=
+ =?us-ascii?Q?WCK/h+7DX9HGG9R/MGZbN2dlAub9YsP8dC0+pu8Qo97VyvrG9KAETftpmTwQ?=
+ =?us-ascii?Q?fczKCDaTM4omHZONSuL2y2ww4kqkM6RVFBXJxu/9WPXEWWbpABnulXy7kK8C?=
+ =?us-ascii?Q?4eEJkxVft2/kmkIMwoCvuHlqfov1fm2+/LBQW9w+84s1bmIMHEDhvBqt0tBQ?=
+ =?us-ascii?Q?g7STlkB+RoLYJ3cO/hJK/dHj1BY0oaBTDD4sMU5t+fOXCX2Bp0PNcofQJgIM?=
+ =?us-ascii?Q?XSbERRpz5g6a6HMTAktPa5ZVsW5b4JiMQZMjrr2NuqS0ScrIcceCOICnYFLA?=
+ =?us-ascii?Q?7LEC6qJcamLaliDeYQ62H8PXzhf83I5id6RfEgMEUQXHA3RtgfK55yds0RJs?=
+ =?us-ascii?Q?NjQyXcsW2H4Slp7SF7mo4EfU4fyZZOgazaUg4z3ahL2vUJFiwHmK/zVUzhyA?=
+ =?us-ascii?Q?6v/g/OU1mA1L+AwXgpXfAqZ7v8SHxqCVD/rNlJ4VC6GvYP/eYjL49u81MIoA?=
+ =?us-ascii?Q?doRI0XZ/ddAOVBD6l8SWT2VDzQFwS/BlFZvcx9fo+QL8q4JU+cv8GqxrHAx7?=
+ =?us-ascii?Q?kFy6G4d3TjbhywxQDha3ne7hXTdbvbJkdWB1bVf2gmmw9UDSOd1yRq8WvLyo?=
+ =?us-ascii?Q?HEH1P7VYETOmm8OXXaXG4yTQ22HlYiPMfy2fN+tjsJkLWVQuWeLTinkVd1o/?=
+ =?us-ascii?Q?bxcLBHDL5gdlcup8+vFXEowj+tRGL1o8CSwUQMoCMlqn5Wz6hhn1ObDYUOyj?=
+ =?us-ascii?Q?mN2fajBbqQzG4VXZA2gmHS3LQvU1oqR5oXrHf2XEAn2CUkC74bAwCZqH+YsJ?=
+ =?us-ascii?Q?G9mswtC8a5AM0NYqHCwiT52FGqV2EmM4lBnoCNeXJvCwXywEFkyNDACIOEOK?=
+ =?us-ascii?Q?8Shrtf5dmctwS+jUbzapOwFjhoiwHZKjv+oQzw0OFC37ivTyNpJlV2k+2OR0?=
+ =?us-ascii?Q?Nv6NAOjm/rlvSsTXniwxSgPXFiHnjm2PY18aFBvtdU/yYx3WnKkf0H35sqwo?=
+ =?us-ascii?Q?dIH/AhEuBVAengZiDX/kl/H?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BN6PR02MB2226;31:71BgQ+djgAsgWhLeJHSHL26gOWkLWBVQoYiuQAcvE5bbVhA7/L1N5JOiEsubg6+MgFNi2v6H1alSHjZr5lVcdaiRnwLxQps5CmbA8ln90FE/zeUnTpcmxlH7vkszYrofju9k0vUsOtD3G10DpvoHQLc74DcMdA5P0yFSFOzHlpbtthNV6VBCNyw+vzcWpY7JnLogDaL6P3tzy530D+SHNZAysLA04Yi3qu67GXUgMFzQqmlZ1PheGETKCL3GfReEch6d0qyVtGx9jmN/NCTy0A==;20:bThbfl4zZaWb/S0mbYxzmXfqNoMrfFnrB/AAO0+jnE0A+cXtKmI4GHsVwW8REObPn19pNYrkaA9tCsYyWq7egOCWMPcWYoMvDnzQmS0JoGsylMMlUPwYA8h4pYumwzSaM1OimveI4Ftzip96X+t3QwTV0SehYFIoxw3QdcUWEoY=
+X-Microsoft-Antispam-PRVS:
+	<BN6PR02MB22267DCF5BFED5358D1E0D7EB8AB0@BN6PR02MB2226.namprd02.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:(201919689832511)(21748063052155);
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(8121501046)(5005006)(13014025)(13016025)(13018025)(13022025)(10201501046)(3002001);SRVR:BN6PR02MB2226;BCL:0;PCL:0;RULEID:;SRVR:BN6PR02MB2226;
+X-Microsoft-Exchange-Diagnostics:
+	1;BN6PR02MB2226;4:9RG/eijNqqS+cYxFk/YftUjI3W/LxGddbbv2CdoytU92RBQIZE1V9kRlW4WyFmTyNUso8Hv1X19M8+UHugaDWlRTSHuwNbzBIR/sFcl7kIguVi3N4jNuQo69MKzVk/WBFOdipB8E5juO+ET2mZkebiw+76CNxBdqlJGWyIGi42DTrFpknKpV3XxzG6yrT2sM9XAzs8wrGOZ0gr5HWal8KMKQLmiD+3I+go1z2iPh+1fQg2DXZpCUN5T+gwUmnytpWmIUNq8vihvs9OvdWFrUgNf8g7b+t5454+xu5/qlDp4lUdbl96CL+I8O9FDnVhYqs0Cm0Q8Sgun4+AZpPuuM2luk1CLVb0CJgrRr1h6qyqnMnjDsfUl4Pp5o5Lcgy8an8Ne8DWU2f6h6dYP+PxvLUW12IXqm5o9ulNmdVEWWFRInJJAcRCISE6sbG9MbN6T61beOMLNZDwTQoZlSHdSItFiTwcdLOkQH7K1IpBkb2PRyXpq5WAlr2clpzlH0gJ0kYB1+7Dsj1MWwWcCJTN0fuJzTT9z6nH4eParA5W7aPGNTdI0JJuBKlmwNfY4BRoca
+X-Forefront-PRVS: 0107098B6C
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BN6PR02MB2226;23:8M1hjrbBFHgeqXDUokxoO3IkX4AqMauENQD2wV9Lc?=
+ =?us-ascii?Q?lkYRNyirFtsZF0XcCHW+uto2p6GfvoZcVyeEGit8968Xd1TdmsA+oYafV5uy?=
+ =?us-ascii?Q?/08hXM+w6+HfJdusTmim2nmiQ7SRHNkOtAAhF31fRh5ECA7tXiwfybepn9/I?=
+ =?us-ascii?Q?NC+2sjozmxZ0IYBluEjy9/vk3FW8bMwXZu4XAY2dviDo2Gzn8e2+B1V3FDrt?=
+ =?us-ascii?Q?7EQFclF82aIqoWwoc+AOET039R16uBs1n2+lUMHh8S2g/N6jY/gDg7ba63aD?=
+ =?us-ascii?Q?v9WE90YucN7EFYEZn6TVhD2OpOLpTdTITyw/msapZi0K6fBKREJVKw+BK64v?=
+ =?us-ascii?Q?EUmP3LJcd5cgmD3z4GD/IqtP5EL/H7M8JQ3tOz4fxL7Snx9D9UNPNjLA5L7L?=
+ =?us-ascii?Q?kqFC5jv9WPegN3YEC9oAGI8WmUq1NJSBKTV/xaAG1CSh//Pl4SVMVPlA5nXC?=
+ =?us-ascii?Q?r2dmPcfmU8QRMDUidmmap2wEWkXDUyo88/lfIi7DFP/oU7EvdT/0TLE2BGUf?=
+ =?us-ascii?Q?emKFDVTGKCTZgqgBi0BWFzAq3RPGWTg6P38t5RDjMllI0+MTRJVFwm8yOSu6?=
+ =?us-ascii?Q?euC/GPKpwCgy7kKsGDhkZKaryyxoWb2HvPaaqqlEJ1cV0QNBrpQji9WBISh4?=
+ =?us-ascii?Q?4YSYzHgGVvAVdDUa5BsdMuHrsWKBhGm44wjFUkM5yN/i8D2WEu7AQXexGAiw?=
+ =?us-ascii?Q?rLqp+MG4sj4p7LKLgHXwH0XeoXSIMQtWimdcF8iGRyfhKgEtvxBAPqVxUjSF?=
+ =?us-ascii?Q?Pug5UKXOOqVQNyUatDkV56t7Apy+IihlnF0gjYLIGqX/Fu7S3qmORLKgDa49?=
+ =?us-ascii?Q?ytGycPsWplfUjvYrVzDMN7Sc+dqm4bc3zr+k+SZV8bN7DOyWQdb2wFyRZfL1?=
+ =?us-ascii?Q?VxEcCAgoybRtcLoRvdS8cf+ul+O8S1P/M+S5hA38tm0ikHsm2OsRtVSPGt9M?=
+ =?us-ascii?Q?mpvE/bES1S3906T73G55gFrkoiPiSPrgRd2fpaAxiWgmtf4DoHmrzR0FdD1x?=
+ =?us-ascii?Q?bjBooOh1Ny11ck860Jj3cqkbq+oIQ1WtAala4WoxY5gh1JT/r37PzPDH8x8w?=
+ =?us-ascii?Q?/M9IOk7LdgVhLAw7JNnsZ9q04obVcTZYWxEDkIeT4gel0oQw1xNGwyldfUsT?=
+ =?us-ascii?Q?Q7eehZHq0i0Kxc3UdiU6EaD4SLKCfoE63eMKvN1wV2qdILLJWu+HUOpw7s11?=
+ =?us-ascii?Q?nyOq2wszlQndoNFDe9s8YYKAhpJ6QOGCuKLl6+dam1sMG72LDJ1XfovgrbbO?=
+ =?us-ascii?Q?CAjLCW1ZtQni7jOXI0p4zxjBGIq8iyel/gsGgwjpCjyit1CaYz2XLF8RvTH4?=
+ =?us-ascii?Q?I+DgaiUs8aNlH1WPc5OLLJtAhE8iEMOxkcrs1B3h+KiAWfhfyplMMS0a62cV?=
+ =?us-ascii?Q?OzmIanv6O6qHQ5nwQxu4I4a6/SKoecQ8umdbkcosiLjitcn5qKtTrYysSNr+?=
+ =?us-ascii?Q?Fi4BaVS4vqb4pwW3eTE25bFSIBDEQ3nC7jZMFfQOjN223hOAehRxljpCE5fN?=
+ =?us-ascii?Q?ba3+PnleoRs4HK5X04wymZ61XCdTDY+oZnO8T8RUJhnbVDKuZbVb8+7tutj+?=
+ =?us-ascii?Q?E8Z67HBRhV3bAcP/Kfdz+1X4+yEqBrKhCGW8cGorwf5IcOMa6B1MIXaGaCL?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BN6PR02MB2226;6:RyOK40VnG6qSJ258WP16voz9SKnd5kGdlR72hPM3CfCiu4LlZ2MC6py9Ju8ecRPq24E2tjtcMVtBlWbmKh4R48gVKW1MoRcoPp3CCLmwMTOGPgpjWiU2n8PkCsz88A2K0Zq42bcZH213xxH/+nMc5kO8u98szbW09JKSlW+b6S93aBbpXlI1PTXO98l2hg0EimYC7UwaF/wt7GtMqGiIZ3Tk2VldWrC5mh6Z/dcYXIIoDIGU424HKVKNn/k9eLLfeSLTH0zQ7l2B4W8TIFlqdtHrnwlQH96zmlniRIkIt4F6P+CFxOrx4yG+MxlDsJ1v;5:PJU3iiACliRo+OeTou4LBgYrzZ2HX4FH4luc5XCY6sZLwq0gHSlw19ZACe334UFPHL03NRdWsN+ZgXTdilnDCIQY7Ap5IXPA6xBUP7MKkJV6+SbOoS2aPM08bbRT/2s3j7LRUmD895O5B+SU0WpxlQ==;24:qciFoScJoexDvpsVdfkL8AecsNrY251x9ZLk64euQg0lkWktK+2k3e5Z95KKOBF57e39/A0xFQBd3bpcit+kI4OFm2ymaC4ngjs/P0gvTgI=;7:XQcNE6GHU4eicpP3hWQTCsYwQenSoYid0b0mBqG32hQFM3WEx+C1go3P8KX2lD/zdM6PsXs36PQfVIKoRFvXTpVjK3QmpAqlJQJo2iJWNnhvSp8ie5AAThiYKAze41qW1QBAc/DFOi/iDNExI8aYmsT0swD2RTDeC1ic739N9UJE9Ft5sh56E11QJT5sYuxfAiu7+gjee440AckVWMHgTzMv34HDjGdB4n4vXYr6/56XrWUgWJCh9nKL2CgZL8SJc5q0kj2HVPpHIcxn883gXzJ32Udc27q0Yc3/IkPKeEXQ/MA+whLMDWHvEQ9YW2kTv1fE3wa6M8ewIoEax7+xRUvXVlyGhrTMmthkpFja40w=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: tdsb.on.ca
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Oct 2016 22:46:39.1437
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: c4d72b4d-8155-4a90-9155-7705148c41ca
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=c4d72b4d-8155-4a90-9155-7705148c41ca;Ip=[38.116.192.55];Helo=[tls.tdsb.on.ca]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN6PR02MB2226
+
+--_000_2e30f65991ed429592251db8fe736f8fTDSBHUB3tdsbonca_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for submitting your invoice.
+
+Please do not reply to this message. This mailbox is used as a =93collector=
+=94 for incoming invoices only.  Please note that this account can only acc=
+ept one invoice per email message.
+
+Queries, statements and requests for information can be sent to accounts.pa=
+yable@tdsb.on.ca<mailto:accounts.payable@tdsb.on.ca>. For general inquiries=
+,
+please call us at 416-395-8296.
+
+www.tdsb.on.ca<http://www.tdsb.on.ca>
+
+
+--_000_2e30f65991ed429592251db8fe736f8fTDSBHUB3tdsbonca_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--=0A=
+/* Font Definitions */=0A=
+@font-face=0A=
+	{font-family:Calibri;=0A=
+	panose-1:2 15 5 2 2 2 4 3 2 4;}=0A=
+@font-face=0A=
+	{font-family:Tahoma;=0A=
+	panose-1:2 11 6 4 3 5 4 4 2 4;}=0A=
+/* Style Definitions */=0A=
+p.MsoNormal, li.MsoNormal, div.MsoNormal=0A=
+	{margin:0cm;=0A=
+	margin-bottom:.0001pt;=0A=
+	font-size:11.0pt;=0A=
+	font-family:"Calibri","sans-serif";=0A=
+	mso-fareast-language:EN-US;}=0A=
+a:link, span.MsoHyperlink=0A=
+	{mso-style-priority:99;=0A=
+	color:blue;=0A=
+	text-decoration:underline;}=0A=
+a:visited, span.MsoHyperlinkFollowed=0A=
+	{mso-style-priority:99;=0A=
+	color:purple;=0A=
+	text-decoration:underline;}=0A=
+span.EmailStyle17=0A=
+	{mso-style-type:personal-compose;=0A=
+	font-family:"Calibri","sans-serif";}=0A=
+.MsoChpDefault=0A=
+	{mso-style-type:export-only;=0A=
+	font-family:"Calibri","sans-serif";=0A=
+	mso-fareast-language:EN-US;}=0A=
+@page WordSection1=0A=
+	{size:612.0pt 792.0pt;=0A=
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}=0A=
+div.WordSection1=0A=
+	{page:WordSection1;}=0A=
+--></style>
+</head>
+<body lang=3D"EN-CA" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US">T=
+hank you for submitting your invoice.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US">P=
+lease do not reply to this message. This mailbox is used as a =93collector=
+=94 for incoming invoices only.&nbsp; Please note that this account can onl=
+y accept one invoice per email message.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US">Q=
+ueries, statements and requests for information can be sent to
+<a href=3D"mailto:accounts.payable@tdsb.on.ca"><span style=3D"color:blue">a=
+ccounts.payable@tdsb.on.ca</span></a>. For general inquiries,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US">p=
+lease call us at 416-395-8296.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN-US"><=
+a href=3D"http://www.tdsb.on.ca"><span style=3D"color:blue">www.tdsb.on.ca<=
+/span></a>
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:8.5pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;=
+</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_2e30f65991ed429592251db8fe736f8fTDSBHUB3tdsbonca_--

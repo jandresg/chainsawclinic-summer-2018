@@ -1,0 +1,111 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 26 Oct 2016 15:37:01 -0500
+Received: from gateway24.websitewelcome.com ([192.185.51.251]:51438)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	id 1bzUwX-0006tX-Cz
+	for brenda@chainsawclinic.com; Wed, 26 Oct 2016 15:37:01 -0500
+Received: by gateway24.websitewelcome.com (Postfix)
+	id 43317A0AFBEB5; Wed, 26 Oct 2016 15:37:01 -0500 (CDT)
+Date: Wed, 26 Oct 2016 15:37:01 -0500 (CDT)
+From: MAILER-DAEMON@gateway24.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: brenda@chainsawclinic.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="80C1CA05D0509.1477514221/gateway24.websitewelcome.com"
+Message-Id: <20161026203701.43317A0AFBEB5@gateway24.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--80C1CA05D0509.1477514221/gateway24.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway24.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<APInvoices@tdsb.ca>: connect to tdsb.ca[38.116.192.44]:25: Connection timed
+    out
+
+--80C1CA05D0509.1477514221/gateway24.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway24.websitewelcome.com
+X-Postfix-Queue-ID: 80C1CA05D0509
+X-Postfix-Sender: rfc822; brenda@chainsawclinic.com
+Arrival-Date: Wed, 26 Oct 2016 13:05:10 -0500 (CDT)
+
+Final-Recipient: rfc822; APInvoices@tdsb.ca
+Original-Recipient: rfc822;APInvoices@tdsb.ca
+Action: failed
+Status: 4.4.1
+Diagnostic-Code: X-Postfix; connect to tdsb.ca[38.116.192.44]:25: Connection
+    timed out
+
+--80C1CA05D0509.1477514221/gateway24.websitewelcome.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <brenda@chainsawclinic.com>
+Received: from cm2.websitewelcome.com (cm2.websitewelcome.com [192.185.178.13])
+	by gateway24.websitewelcome.com (Postfix) with ESMTP id 80C1CA05D0509
+	for <APInvoices@tdsb.ca>; Wed, 26 Oct 2016 13:05:10 -0500 (CDT)
+Received: from kazamai.websitewelcome.com ([192.185.81.249])
+	by cm2.websitewelcome.com with 
+	id 0J581u01x5NlBsY01J59xt; Wed, 26 Oct 2016 13:05:10 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=chainsawclinic.com; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:To:From:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=e94Gf/JSu3MBYpV31ir49ku+BbAOAgi69TkJMgTHe5M=; b=VPBRoBnPMd9XABZUQsx9T9KBpc
+	H3UG+/pFPTPCYw2blYwyWy9TRsvCh3YYR6UiGkJ9UafrRH9+OmBoHoDygI7fO359QHzz77hWzzHrl
+	v9csa2ZXxrxZsv+omrjcNBe/w;
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:63914 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1bzSZL-000Mp4-RF
+	for APInvoices@tdsb.ca; Wed, 26 Oct 2016 13:05:08 -0500
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <APInvoices@tdsb.ca>
+Subject: Outstanding inv # 2863 #2864 on PO 4501744108-2016-04-12
+Date: Wed, 26 Oct 2016 14:04:55 -0400
+Message-ID: <002b01d22fb3$7535fe90$5fa1fbb0$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_002C_01D22F91.EE245E90"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdIvs1KAQgA0rHrsRmK3+WOwcjhRzw==
+Content-Language: en-ca
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - kazamai.websitewelcome.com
+X-AntiAbuse: Original Domain - tdsb.ca
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - chainsawclinic.com
+X-BWhitelist: no
+X-Source-IP: 99.242.224.195
+X-Exim-ID: 1bzSZL-000Mp4-RF
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com (LAPTOPO4AKUVG6) [99.242.224.195]:63914
+X-Source-Auth: brenda@chainsawclinic.com
+X-Email-Count: 1
+X-Source-Cap: Y2hhaW5zYXc7ZWhvc3Q7a2F6YW1haS53ZWJzaXRld2VsY29tZS5jb20=
+
+--80C1CA05D0509.1477514221/gateway24.websitewelcome.com--

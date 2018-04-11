@@ -1,0 +1,329 @@
+Return-path: <407etr_98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 20 Oct 2016 08:38:42 -0500
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:58345)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D@email.407etr.com>)
+	id 1bxDYQ-00027r-KT
+	for brenda@chainsawclinic.com; Thu, 20 Oct 2016 08:38:42 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=QI0E4eMNHlQz9HrgzmVcWZhDS5Y=;
+ b=p09yzM//CDRSRn5ASIWCHquReTIeYEgGDQ4dNt+uotzjhElDp4hkbLu3tmc8NLoxPl/ZQduccd8E
+   03yYqnpg/g==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=wC0nShB85H2vtFQt2D8ceMMyoFnjg9XT4Pae7k26mHgbqJUCED0HGOVgpofuwsmw3KdHWdQMCZRt
+   DXyArmoWYg==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id h134e41t8bkm for <brenda@chainsawclinic.com>; Thu, 20 Oct 2016 09:38:30 -0400 (envelope-from <407etr_98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D@email.407etr.com>)
+Date: Thu, 20 Oct 2016 09:38:29 -0400
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D-5abfb16cad9d4c9f99e62b3175e202f7@email.407etr.com>
+Subject: Last chance to get 100 free km!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4733536_192411934.1476970709837"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1476970709836-98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D-5abfb16cad9d4c9f99e62b3175e202f7
+Feedback-ID: 2473-2224411:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D>
+
+------=_Part_4733536_192411934.1476970709837
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_4733536_192411934.1476970709837
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>407 ETR - Last chance to get 100 free km!</title>
+                                                                                                                                                                                                                                                                                                                                                                                                        
+<style type="text/css">
+	.ReadMsgBody {width: 100%; background-color: #ffffff;}
+	.ExternalClass {width: 100%; background-color: #ffffff;}
+	body	 {width: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;font-family:Arial, sans-serif;}
+	table {border-collapse: collapse;}
+	
+	
+	@media only screen and (max-width: 640px)  {
+					body[yahoo] .deviceWidth {width:430px!important; padding-bottom:10px;}	
+					body[yahoo] .center {text-align: center!important;}	 
+					table[class=deviceWidth]  {width:430px!important; border: none!important;}	
+					table[class=specialWidth]  {width:420px!important; border:none!important;}	
+					table[class=headerWidth] {width:430px!important; border: none!important;}
+					table[class=logoWidth] {width:29%!important;}
+					table[class=expressWidth] {height:77px!important;width:63%!important;}
+					td[class=expressWidth] {font-size:18px!important;}
+					td[class=spacer] {height:10px!important;}
+					table[class=contentWidth] {width:430px!important;}			
+					img[class="deviceWidth"] {width:50%!important;}
+					img[class="imgWidth2"] {width:430px!important;margin:auto;}
+					img[class="login"] {width:236px!important;margin:auto;}
+					td[class="imgWidth2"] {padding:10px!important;}
+					td[class=blank] {display:none!important;}
+		
+	}
+			
+	@media only screen and (max-width: 479px) {
+					body[yahoo] .deviceWidth {width:300px!important; padding:0; text-align:center;}	
+					body[yahoo] .center {text-align: center!important;}	
+					table[class=headerWidth]  {width:300px!important; border:none!important;}	 
+					table[class=deviceWidth]  {width:280px!important; display:block!important; text-align:center!important;}	
+					table[class=specialWidth]  {width:280px!important; border: none!important; margin-bottom:10px;}
+					table[class=contentWidth] {width:280px!important;}
+					table[class=logoWidth] {width:40%!important;background:green;margin-top:12px!important;}
+					img[class=logoWidth] {width:120px!important;}
+					table[class=expressWidth] {height:77px!important;width:59%!important;margin-top:5px;}
+					td[class=expressWidth] {font-size:16px!important;}
+					span[class=heading] {font-size:24px!important;}
+					img[class="imgWidth2"] {width:300px!important;padding:0;}
+					img[class="login"] {width:200px!important;margin:auto;}
+					td[class="wm-logo"] {text-align:left!important;}
+	}
+	
+
+       a:link{
+           color: #666666;
+       }
+       a:hover{
+           color: #666666;
+       }
+       a:active{
+           color: #666666;
+       }
+	    a:visited{
+           color: #666666;
+       }
+
+
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" yahoo="fix" style="font-family:Arial, sans-serif; background:#ffffff;" bgcolor="#ffffff">
+
+<!-- Wrapper -->
+<table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+	<tr>
+    	<td width="100%" valign="top" bgcolor="#ffffff" style="padding:10px">         
+            <table  width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+                <tr>
+                    <td align="center" valign="middle" style="font-family:Arial, sans-serif; font-size: 11px;color: #333333;text-align:center;" st-content="viewonline">
+                   <strong>Go paperless and pre-authorize today &nbsp;&nbsp;|&nbsp;&nbsp;</strong><a href="http://email.407etr.com/dm?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D" target="_blank" style="color:#666666; text-decoration:none;">View Online</a>
+                    </td>
+                </tr>
+            </table>                             
+        </td>
+	</tr>     
+       
+</table>       
+       
+<table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+<tr>
+		<td valign="top" bgcolor="#ffffff">
+		 <table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="headerWidth" bgcolor="#0564b4">
+				<tr>
+					<td class="center" >
+
+                       <table width="29%" border="0" cellpadding="0" cellspacing="0" align="left" class="logoWidth">
+                            <tr>
+                                <td align="left" valign="top">
+                                	<!-- The paragraph tag is important here to ensure that this table floats properly in Outlook 2007, 2010, and 2013
+                                    To learn more about this fix check out this link: http://www.emailonacid.com/blog/details/C13/removing_unwanted_spacing_or_gaps_between_tables_in_outlook_2007_2010
+                                    This fix is used for all floating tables in this responsive template
+                                    The margin set to 0 is for Gmail -->
+                                    <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C087F:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&"><img width="152" src="https://407etr.s3.amazonaws.com/template/407etr-responsive-logo.jpg" alt="407ETR" border="0" style="width: 152px;display:block;margin:0;padding:0;" class="logoWidth" /></a>
+                                </td>
+                            </tr>
+                                                  
+                        </table>
+                                                
+                        <table width="69%" height="77" border="0" cellpadding="0" cellspacing="0" align="right" class="expressWidth">
+                       
+                            <tr>
+                                <td valign="middle" height="77" class="expressWidth" align="right" style="mso-table-lspace:0;mso-table-rspace:0; margin:0; font-family:arial,helvetica,sans-serif; font-size:20px;color:#ffffff;padding-right:15px;"><span>Switch to Paperless Billing and Pre-authorized Payment!</span>
+                                    
+                                </td>
+                            </tr>
+                                          
+                        </table>                                        
+
+					</td>
+				</tr>
+               
+		  </table><!-- End Two Column (Images Stacked over Text) -->	
+  </td>
+  
+  </tr>	
+</table>
+
+
+
+<table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="contentWidth" bgcolor="#ffffff" style="background-color:#ffffff;">
+				<tr >
+					<td class="center">
+
+                            
+                          <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+                          
+                          	<tr valign="middle">
+                                <td align="center" valign="middle">
+
+                                     <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0880:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank">
+                                   <img width="100%" src="https://407etr.s3.amazonaws.com/2016/407etr-oct-2016-promo.jpg" alt="407 ETR" border="0" style="width:display:block;padding:0;width:100%;margin:auto;" class="imgWidth2" /></a>
+                                </td>
+                            </tr>
+                          </table>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td align="center">
+                          <table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" >
+                               <tr>
+                                <td style="font-size: 12px; color: #959595; font-weight: normal; text-align: left; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top; " align="center">
+
+                                        <table width="100%" class="deviceWidth" cellpadding="0" cellspacing="0" >
+                                        	<tr>
+                                            <td height="20" style="height:20px;line-height:20px;"></td>
+                                            </tr>
+                                            <tr>
+                                                <td valign="middle" style="text-align:center; color: #9eb134;font-size: 24px; font-family:arial,helvetica,sans-serif;" >
+												<span class="heading" style="font-size:28px;font-family: Arial, Helvetica, sans-serif;font-weight:100;color:#0864af;">100 free km offer ends October 31</span></td>
+                                            </tr>
+                                            <tr>
+                                            <td height="10"></td>
+                                            </tr>
+                                            <tr>
+                                            <td>
+                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                        <td style="color:#666666;font-size:14px;font-family:arial,helvetica,sans-serif;" align="left">
+                          <p>
+						  If you received 4+ bills per year in 2015 or 2016, <b>you are eligible to receive 50 free km*</b> when you switch to Paperless Billing and <b>another 50 free km*</b> when you switch to Pre-authorized Payment.</p>
+
+<p>That's right, a total of 100 free km are yours for the taking! </p>
+
+<p>Plus, if you make the switch, you will receive up to 2 bonus entries in the Log in to Win Plus** draw where you could <b>win a year of free travel on 407 ETR!</b> </p>
+
+<p>Act today as both promotions end on October 31. </p>
+
+<!--<p>It's easy to check how many bills you received by using your 407 ETR web account. <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0881:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank" style="text-decoration:underline; text-color:#666666; font-color:#666666">Click here</a> for a step-by-step guide.
+</p> -->
+                        </td>
+                        </tr>
+                        <tr>
+                        <td height="7" style="height:7px;line-height:7px;"></td>
+                        </tr>
+                        <tr>
+                        <td align="center">
+                         <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0880:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank">
+                        <img width="236" src="https://407etr.s3.amazonaws.com/2016/407-btn-switch.jpg" alt="407 ETR" border="0" style="width:display:block;padding:0;width:236;margin:auto;" class="login" /></a>
+                        </td>
+                        </tr>
+                        </table>
+                                            </td>
+                                            </tr>
+                                        </table>
+                                        
+                                </td>
+                            </tr> 
+                            
+							</table>
+                          
+					</td>
+				</tr>
+                <tr>
+	<td height="25" style="height:25px;border-bottom:1px solid #cccccc"><div style="height:25px;border-bottom:1px solid #cccccc"></div></td>
+</tr>        
+  <tr>
+            	<td height="20"></td>
+            </tr>
+                </table>
+
+
+
+
+
+
+
+<table width="650" cellpadding="0" cellspacing="0" border="0" class="deviceWidth" align="center">
+<tr>
+
+<td>
+	<table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+                            <tr>
+                                <td>                    
+                                        <table width="80%" cellpadding="0" cellspacing="0"  border="0" align="left" class="deviceWidth">
+                                             <tr>
+                                                <td valign="top" class="center">
+
+<p style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #666666; margin:0; padding:0; text-align:left;">
+                               *50 or 100 kilometre credit will be applied at the rate of 38.90 cents per kilometre. 
+							   Offer is valid only on new Paperless Billing and Pre-authorized Payment registrations at <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0882:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank">www.407etr.com</a> by October 31, 2016. 
+							   Personal accounts only. Full offer details and terms and conditions at <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0882:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank">www.407etr.com</a>. <br>
+**Contest closes October 31, 2016. Full terms and conditions for the Log in to Win Plus promotion at <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0882:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&" target="_blank">www.407etr.com</a>. 
+<br/><br/>
+                                You are currently signed up to receive news and 
+                                information from 407 ETR.<br />
+                                If you would prefer not to receive emails from 407 ETR, 
+                                please unsubscribe
+                                <a href="http://email.407etr.com/u?id=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&global=true">here</a>.<br />
+                                This email was sent to brenda@chainsawclinic.com by 407 ETR.<br />
+                                Do not reply to this email. To contact 407 ETR Customer 
+                                Service, please click <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0883:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&">
+                                here</a>.<br />
+                                <br />
+                                407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | 
+                                L4H 1J1 | 1-888-407-0407</p>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                        
+                                        
+</td>
+
+</tr>
+<tr>
+<td height="20">
+
+</td>
+</tr>
+<tr>
+<td style="text-align:right" class="wm-logo">            
+                                <a href="http://email.407etr.com/t?r=2473&c=2224411&l=167101&ctl=31C0884:98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D&">
+                                <img border="0" src="http://wmcta.s3.amazonaws.com/cta/powered-by-wired-small.png" width="117" height="30" style="-webkit-text-size-adjust: none; border: medium none" alt="wiredmessenger.com" ></a>
+                            </td>
+</tr>
+</table>     
+<style data-ignore-inlining>@media print{ #_t { background-image: url('https://afa9vtw2.emltrk.com/afa9vtw2?p&d=brenda@chainsawclinic.com');}} div.OutlookMessageHeader {background-image:url('https://afa9vtw2.emltrk.com/afa9vtw2?f&d=brenda@chainsawclinic.com')} table.moz-email-headers-table {background-image:url('https://afa9vtw2.emltrk.com/afa9vtw2?f&d=brenda@chainsawclinic.com')} blockquote #_t {background-image:url('https://afa9vtw2.emltrk.com/afa9vtw2?f&d=brenda@chainsawclinic.com')} #MailContainerBody #_t {background-image:url('https://afa9vtw2.emltrk.com/afa9vtw2?f&d=brenda@chainsawclinic.com')}</style><div id="_t"></div>
+<img src="https://afa9vtw2.emltrk.com/afa9vtw2?d=brenda@chainsawclinic.com" width="1" height="1" border="0" />	 
+</body>
+
+<img src="http://email.407etr.com/t?c=2224411&r=2473&l=167101&t=10&e=98A95CF58AAFECE1095ACC61AB38D7A241E750467E25F32D" width=1 height=1 border=0>
+</html>
+
+------=_Part_4733536_192411934.1476970709837--

@@ -1,0 +1,235 @@
+Return-path: <hcpna@mailmw.custhelp.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 28 Oct 2016 13:01:18 -0500
+Received: from mailgwmw05.rightnowtech.com ([74.117.203.125]:41230)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <hcpna@mailmw.custhelp.com>)
+	id 1c0BSw-0000Km-LA
+	for brenda@chainsawclinic.com; Fri, 28 Oct 2016 13:01:18 -0500
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailmw.custhelp.com;
+	h=DKIM-Signature:Received:Content-Type:From:Reply-To:To:Date:Subject:MIME-Version:Message-Id;
+	b=LPZbOAjPFGBecZ0GNj05vGetkbcnX7xaghgXPyPpP6POonekETsfa3oHg2aMLNrc
+	XoZVjXDF2K6UJy1YlnZ/g4Ojqbb2uPWk1m9jEWur12CtLhFkOTbs4RJ58UKkSxzd
+	kaFPgYoL4t2Zmg1dT01upcjnocUAE/r5lmgy2iAf258=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailmw.custhelp.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailmw.custhelp.com; t=1477677666;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=byqZqNPYMO5q+0FMp76G+8VP+p8=;
+	b=IrQrllKvih0rl+FIjKHnSjFI6cVTex2tsg2qrOAtTZ4n15nJv1E04IoEv/W+CmBw
+	W9vKUFiXMuY25ExToZvdWY/NDmjCLaj92JSInsK09NvEsLTh9zwV2VfMH2w/8CZc
+	D/YDVyep3ax9EZm1kfCl46jT0GAPD+x9tUjArzqsK7w=;
+Received: from [10.70.0.131] ([10.70.0.131:8139] helo=access-mw.rightnowtech.com)
+	by rntmw125.rnmk.com (envelope-from <hcpna@mailmw.custhelp.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id AC/51-01648-26293185; Fri, 28 Oct 2016 13:01:06 -0500
+Received: from utilmw04.int.rightnowtech.com (localhost [127.0.0.1])
+	by access-mw.rightnowtech.com ("Mail Server") with SMTP id 96A7CFDBC4
+	for <brenda@chainsawclinic.com>; Fri, 28 Oct 2016 13:01:06 -0500 (CDT)
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_UDRRVA40000000000000"
+From: "Husqvarna Customer Support" 
+    <hcpna@mailmw.custhelp.com>
+Reply-To: "Husqvarna Customer Support" 
+    <hcpna@mailmwcusthelp.com>
+To: brenda@chainsawclinic.com
+Date: Fri, 28 Oct 2016 14:01:06 -0400 (EDT)
+Subject: Wrrty claim for K760 prev sent Sept 10 2016??? [Incident: 161028-000423]
+MIME-Version: 1.0
+Message-Id: <RNTT.AvPS3QpPDv8S~TnNGrAc~yKtzf0q7ov~JiXncjj~PP8u.1477677666.xC~aHz0!@utilmw04.int.rightnowtech.com>
+
+
+--------------Boundary-00=_UDRRVA40000000000000
+Content-Type: Text/Plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Your question has been received. You should expect a response from us
+within 24 hours.
+
+To update your question with additional information, click
+https://hcpna.custhelp.com/app/account/questions/detail/i_id/1141336/trac=
+k/AvPS3QpPDv8S~TnNGrAc~yKtzf0q7i75Mv_P~zj~PP9G/
+
+---------------------------------------------------------------
+
+Subject
+---------------------------------------------------------------
+Wrrty claim for K760 prev sent Sept 10 2016???
+
+Question Reference # 161028-000423
+       Date Created: 10/28/2016 02:01 PM
+  Date Last Updated: 10/28/2016 02:01 PM
+             Status: Unresolved
+
+
+[---001:000524:42431---]
+
+--------------Boundary-00=_UDRRVA40000000000000
+Content-Type: Text/Html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:rn=3D"http://schemas.r=
+ightnow.com/crm/document">
+<head>
+<title></title>
+
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+P.MsoNormal {
+        MARGIN: 0px
+}
+LI.MsoNormal {
+        MARGIN: 0px
+}
+DIV.MsoNormal {
+        MARGIN: 0px
+}
+P.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+LI.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+DIV.MsoListParagraph {
+        MARGIN-LEFT: 48px
+}
+/*]]>*/
+</style>
+                                                                    =20
+</head>
+<body style=3D"FONT-FAMILY: Segoe UI, Verdana, sans-serif">
+
+<div title=3D"rntmarker_40277" id=3D"rntmarker_40277">
+
+<table style=3D"FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"610" align=3D"center" border=3D"1">
+<tbody>
+<tr>
+<td bgcolor=3D"#F5F5F5">
+<table style=3D"FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding=3D=
+"5" width=3D"600" align=3D"center">
+<tbody>
+<tr>
+<td bgcolor=3D"#FFFFFF">
+<table>
+<tbody>
+<tr>
+<td valign=3D"top"><img alt=3D"Image" src=3D"https://hcpna.custhelp.com/e=
+uf/assets/images/message_template.gif" /></td>
+<td valign=3D"top" width=3D"500">
+<table style=3D"FONT-FAMILY: Segoe UI, Verdana, sans-serif" cellpadding=3D=
+"1" width=3D"100%">
+<tbody>
+<tr>
+<td>
+<p style=3D"FONT-SIZE: 12pt; MARGIN: 0px; LINE-HEIGHT: 18px">Thank you, y=
+our question has been received.=A0<br />
+<span style=3D"COLOR: #1c5886; FONT-STYLE: italic">To update your questio=
+n with additional information, <a href=3D"https://hcpna.custhelp.com/app/=
+account/questions/detail/i_id/1141336/track/AvPS3QpPDv8S~TnNGrAc~yKtzf0q7=
+i75Mv_P~zj~PP9G">click here</a></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"BORDER-TOP: #d0d0d0 1px solid">
+<h1 style=3D"FONT-SIZE: 11pt; FONT-WEIGHT: bold; COLOR: #848484; MARGIN: =
+10px 0px 5px">Subject</h1>
+</td>
+</tr>
+<tr>
+<td>
+<div style=3D"MARGIN: 0px 0px 0px 15px"><span style=3D"FONT-WEIGHT: bold"=
+>Wrrty claim for K760 prev sent Sept 10 2016???</span></div>
+<br /></td>
+</tr>
+<tr>
+<td style=3D"BORDER-TOP: #d0d0d0 1px solid">
+<h1 style=3D"FONT-SIZE: 11pt; FONT-WEIGHT: bold; COLOR: #848484; MARGIN: =
+10px 0px 5px">Question Reference # 161028-000423</h1>
+</td>
+</tr>
+<tr>
+<td>
+<ul style=3D"FONT-SIZE: 11pt; COLOR: #343434; PADDING-BOTTOM: 0px; PADDIN=
+G-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px 0px 0px 15px; LIST-STYLE: none=
+ none inside; LINE-HEIGHT: 20px; PADDING-RIGHT: 0px">
+<li>Date Created: 10/28/2016 02:01 PM</li>
+<li>Date Last Updated: 10/28/2016 02:01 PM</li>
+<li>Status: Unresolved</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The information in this email may be confidential and/or legally privi=
+leged. It has been sent for the sole use of the intended recipient(s). If=
+ you are not an intended recipient, you are strictly prohibited from read=
+ing, disclosing, distributing, copying or using this email or any of its =
+contents, in any way whatsoever. If you have received this email in error=
+, please contact the sender by reply email and destroy all copies of the =
+original message. Please also be advised that emails are not a secure for=
+m for communication, and may contain errors.<br />
+<br />
+<br />
+Husqvarna Group of Companies<br />
+Husqvarna Consumer Outdoor Products N.A.=A0=A0=A0=A0=A0</p>
+<p>9335 Harris Corners Parkway, Suite 500<br />
+Charlotte, NC 28269 USA<br />
+<a href=3D"http://www.husqvarna.com ">www.husqvarna.com=A0</a>=A0=A0=A0=A0=
+</p>
+<p>Husqvarna Canada Corp.</p>
+<p>850 Matheson Blvd. West, Unit 1<br />
+Mississauga, ON L5V 0B4 Canada<br />
+<a href=3D"http://www.husqvarna.ca">www.husqvarna.ca</a>=A0=A0=A0=A0=A0</=
+p>
+<p>Husqvarna Construction Products North America Inc.<br />
+17400 W 119th Street<br />
+Olathe, KS 66061 USA<br />
+<a href=3D"http://www.husqvarnacp.com ">www.husqvarnacp.com=A0</a>=A0=A0=A0=
+=A0=A0</p>
+<p>2077 Bond Street,<br />
+North Bay,<br />
+ON P1B 4V7 Canada<br />
+<a href=3D"http://www.husqvarnacp.ca">www.husqvarnacp.ca</a></p>
+<p>Husqvarna respects your privacy and does not share or sell email addre=
+sses. If you no longer wish to receive emails from Husqvarna, please send=
+ a mail to <a href=3D"mailto:unsubscribe@husqvarnagroup.com?subject=3Duns=
+ubscribe">unsubscribe@husqvarnagroup.com</a><br />
+<br />
+The information in this email may be confidential and/or legally privileg=
+ed. It has been sent for the sole use of the intended recipient(s). If yo=
+u are not an intended recipient, you are strictly prohibited from reading=
+, disclosing, distributing, copying or using this email or any of its con=
+tents, in any way whatsoever. If you have received this email in error, p=
+lease contact the sender by reply email and destroy all copies of the ori=
+ginal message. Please also be advised that emails are not a secure form f=
+or communication, and may contain errors.<br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+ps://hcpna.custhelp.com/rd/AvPS3QpPDv8S~TnNGrAc~yKtzf0q7i75Mv_P~zj~PP9G.g=
+if"/> <div id=3D"checksum" align=3D"right"><span style=3D"font-size: 1pt"=
+>
+[---001:001699:40277---]
+</span></div>
+</div>
+</body>
+</html>
+
+--------------Boundary-00=_UDRRVA40000000000000--
+

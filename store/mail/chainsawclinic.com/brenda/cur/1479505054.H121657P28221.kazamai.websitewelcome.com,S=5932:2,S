@@ -1,0 +1,98 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 18 Nov 2016 15:37:34 -0600
+Received: from mail-wj0-f193.google.com ([209.85.210.193]:35068)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1c7qqj-0007Ie-VG
+	for brenda@chainsawclinic.com; Fri, 18 Nov 2016 15:37:34 -0600
+Received: by mail-wj0-f193.google.com with SMTP id f8so183125wje.2
+        for <brenda@chainsawclinic.com>; Fri, 18 Nov 2016 13:37:28 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=y/MnhXE5/cAQ/QxWYgoDMnkgJeWtf3a3sCj5anIS2yg=;
+        b=thMGVibRRs15uOQetm9XJ51fZc9VAUvTB1UpCJqdZb4VFoaE0yntJxBYi954NO5ibw
+         hBLj/xTwWhUxObVDHh3ozQka8rrhRVt/ItohOFJVvaU4witz3zl/NcIKNvzSrD41eRnI
+         0Z7TLM3PboWr8yBIXDpccIX8+HFmyFywFZF2S2R6buc0Ck/qgN2/9B82JHtUvrGisnu6
+         RGt7XbTIQPFeOJcFj0W/rfRq2w94Eue9icmY/MuaNtPmZlTn6M9V7UlWRcXv/51pKG9i
+         ihLsetdouc/2xqn9CF4Kaj7wBh3Mt71xZJsJWiE1iTkAo2RvRa7Bh0AUscfbO8Z4/6PG
+         OPUQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=y/MnhXE5/cAQ/QxWYgoDMnkgJeWtf3a3sCj5anIS2yg=;
+        b=k5mKClZEy1uMe1dmbjNwaRs4SFJcd4//3EJsQdtwVSqFhOj6jVaZ34JP2Ug9YTh5uw
+         +c0O3x7JUUiD1Z/v1C0bHoUyHFhXBsGRptQaO05EIGr2oSXZihp3SV0m74RgoY/2UMJd
+         VnpUMQc7/xFu7qEfJB+rVyunlDzDNrBpqiltOPuJVvHgauQ+bT5VKUenobc4Pst2q4/x
+         Xyfds6/uPrrEFfdjkrOfXK8cXZvClV4fRMny3w8spiqaxcLAuj2CI/iq5Z2PjimwIQ8/
+         4x2LFxuqfD7logHeNLpGAWtdeTh41E+1E/hlgQ5Adm8Y++8ECoHrBqlZdpxMmZGiNOor
+         QRqQ==
+X-Gm-Message-State: AKaTC00Vjd1ZA8C0Z7NKm9P+ZCtMWdrWJOxURaUeH1WVX0F3c3zKnU2ar1w6ImjnC2URiYLbLhLc+VghpKPE+Q==
+X-Received: by 10.194.51.137 with SMTP id k9mr1133032wjo.1.1479505042518; Fri,
+ 18 Nov 2016 13:37:22 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.22.213 with HTTP; Fri, 18 Nov 2016 13:36:52 -0800 (PST)
+From: John Parete <john.parete@gmail.com>
+Date: Fri, 18 Nov 2016 16:36:52 -0500
+Message-ID: <CAL7=Tmn=xUE2z5-0BW-Pp92a44xa5C+pYKqiU0Hm04bEX_WsUQ@mail.gmail.com>
+Subject: Sunday Service - 10:45am
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Chris Ghangas <chris.ghangas@gmail.com>, Darrin Hollmann <dvhollmann@gmail.com>, 
+	David Fowler <uniteddave@aol.com>, David Junnola <junnolahomes@gmail.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Dinuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	"Filipo & Catarina Zambri" <zamfilcat@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Fiorellino <frankfiorellino@hotmail.com>, Frank Rucchetta <frucchetta@yahoo.ca>, 
+	"Gary & Lucy Blunt" <lucyablunt@gmail.com>, Giulio Pace <gppp_us@yahoo.com>, 
+	Grace Lopes <lopes.grace@ymail.com>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Jennifer Perusini <jlperusini@gmail.com>, Jessica Mclean <jessicamclean78@gmail.com>, 
+	Joe Loggia <joe.loggia@vitran.com>, Joe Venezia <jvenezia72@rogers.com>, 
+	John Lommano <jlommano@yahoo.ca>, Joseph Yu <josephydw@gmail.com>, 
+	Joshua Mclean <joshua.4.mclean@gmail.com>, Julie Mclean <Julie.mclean05@live.ca>, 
+	Karin Teti <karinteti@hotmail.com>, Laura Casavant <laura.casavant@gmail.com>, 
+	Luigi Panigas <sensory5@gmail.com>, Marilena DiMatteo <marilena@rogers.com>, 
+	Marina Lancia <marinalancia@gmail.com>, Marisa Panaroni <mpanaroni@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, Mary Varkaris <maryvarkaris@yahoo.com>, 
+	Michelle Annarilli <santelicesm@hotmail.com>, Nick - Cell Zambri <nick_zambri@hotmail.com>, 
+	Nick Smith <mossberg303@gmail.com>, Nina Junnola <njunnola@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=bcaec508f4bc80bf8005419a1c9e
+
+--bcaec508f4bc80bf8005419a1c9e
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers
+
+Just a reminder that we will have Sunday service from the Kingdom Hall.
+*Note the adjusted time - 10:45am*
+
+John Parete
+
+--bcaec508f4bc80bf8005419a1c9e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Brothers<div><br></div><div>Just a reminder that we w=
+ill have Sunday service from the Kingdom Hall.</div><div><b>Note the adjust=
+ed time - 10:45am</b></div><div><b><br clear=3D"all"></b><div><div class=3D=
+"gmail_signature" data-smartmail=3D"gmail_signature"><font face=3D"georgia,=
+ serif">John Parete</font></div></div>
+</div></div>
+
+--bcaec508f4bc80bf8005419a1c9e--

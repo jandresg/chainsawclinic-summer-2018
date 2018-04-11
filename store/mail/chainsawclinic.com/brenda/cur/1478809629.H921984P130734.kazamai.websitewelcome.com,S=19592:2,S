@@ -1,0 +1,358 @@
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 10 Nov 2016 14:27:09 -0600
+Received: from rntmw65.rnmk.com ([74.117.203.65]:49327)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1c4vwD-000Xv7-Ne
+	for brenda@chainsawclinic.com; Thu, 10 Nov 2016 14:27:09 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=DKIM-Signature:Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=k6O6dY+FBhYp0RrwZ8J26upeXg/Vqcqg+Vsd1lmMxQeA2o3lj+En1gFMukUHRnck
+	SzY+EmOFTLoJyYdSZPGjdzVF7qCE8Ky+X0hVJQ7uQvIthpayyWMXNeIUiDeK/PvZ
+	l5PnzAX02oY+wNC+ZYmsC9m//mMP5Vd/jVl984aTpyA=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailca.rnmk.com; t=1478809619;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=8VaYju2b76w31Oso08yhtp/yxfo=;
+	b=FjxF0wM8xYvu5r0ySWDe8ZRC+EzMLsyVE0es0e2BzOuc6xlJXp90MrCxKmpwbbdm
+	iq/Jik9wT/KVcgnBvAKNyggXcSvfBgoZjs04+jZTZYPtoKwYbq87fNFw7HZei6Zi
+	czP1x3V9c69DS41iqjAEeAv8hLt1NgUPWWWqAORNL2w=;
+Received: from [10.70.0.90] ([10.70.0.90:26186] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 21/E3-26682-318D4285; Thu, 10 Nov 2016 14:26:59 -0600
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1.0.1478809613.6C~kGcgT0hs9.826650@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Thu, 10 Nov 2016 15:26:53 -0500 (EST)
+Subject: MAPP :  PRICE ERROR NOTIFICATION, TRIMMERS
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1>
+From: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/docum=
+ent">
+<head>
+<title></title>
+                                                                    =20
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">&#160;</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; WIDTH: 600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0=
+"><!-- LIGHT-GRAY HEADER -->
+<tbody>
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #efefef"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" =
+height=3D"53" src=3D"http://54.76.127.175/Emails/Dealer-News/2016/februar=
+y/husq-logo.png" width=3D"216" /></td>
+</tr>
+<!-- END LIGHT-GRAY HEADER --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; BORDER-BOTTOM: #ebe=
+cef thin; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"HEIGHT: 23px; WIDTH: 100%; BORDER-BOTTOM: #ddd 1px solid; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PAD=
+DING-RIGHT: 0px">
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" align=
+=3D"right"><a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f1=
+5321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wr9Dv8S~xb~Gv8O~y=
+JLockqbov7JiV8cj7~Pv_1&amp;2=3D5922">Dealer Support Site</a>&#160;|&#160;=
+&#160;<a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f15321"=
+ href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wr9Dv8S~xb~Gv8O~yJLock=
+qbov7JiV8cj7~Pv_1&amp;2=3D5923">WebOrder</a> | <a style=3D"FONT-SIZE: 14p=
+x; TEXT-DECORATION: none; COLOR: #f15321" href=3D"http://husqvarna.custhe=
+lp.com/rd?1=3DAvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D5924">=
+Husqvarna.ca</a></p>
+</div>
+<br />
+<p style=3D"FONT-SIZE: 18pt">&#160;</p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-FAMILY: "HQ San=
+s Corp",sans-serif; COLOR: black; mso-bidi-font-family: Tahoma' xml:lang=3D=
+"EN-US"><span style=3D'FONT-SIZE: 18pt; FONT-FAMILY: "Arial",sans-serif; =
+LINE-HEIGHT: 107%'>NOVEMBER 2016</span></span></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal">&#160;</p>
+<p class=3D"MsoNormal"><span style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Aria=
+l",sans-serif; LINE-HEIGHT: 107%'><strong><u><font size=3D"5">MAPP :&#160=
+; PRICE ERROR NOTIFICATION</font></u></strong></span></p>
+<p class=3D"MsoNormal"><span style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Aria=
+l",sans-serif; LINE-HEIGHT: 107%'>Dear Valued Husqvarna Dealer</span></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph"></p>
+<p class=3D"MsoNormal"><span style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Aria=
+l",sans-serif; LINE-HEIGHT: 107%'><span lang=3D"EN-US" style=3D'FONT-FAMI=
+LY: "Arial",sans-serif; mso-bidi-font-size: 12.0pt' xml:lang=3D"EN-US">Du=
+e to an error on our part we had originally communicated incorrect pricin=
+g for the below trimmer models. We are hereby advising you of the current=
+ correct price.</span></span></p>
+<p class=3D"MsoNormal"></p>
+<table class=3D"MsoTableGrid" style=3D"BORDER-TOP: medium none; BORDER-RI=
+GHT: medium none; WIDTH: 389.6pt; BORDER-COLLAPSE: collapse; BORDER-BOTTO=
+M: medium none; BORDER-LEFT: medium none; mso-border-alt: solid windowtex=
+t .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"519" border=3D"1">
+<tbody>
+<tr style=3D"mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td style=3D"BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1=
+pt solid; WIDTH: 106.1pt; BACKGROUND: #dbe5f1; BORDER-BOTTOM: windowtext =
+1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BO=
+RDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: so=
+lid windowtext .5pt; mso-background-themecolor: accent1; mso-background-t=
+hemetint: 51" valign=3D"top" width=3D"141">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">Model</span></p>
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1=
+pt solid; WIDTH: 3cm; BACKGROUND: #dbe5f1; BORDER-BOTTOM: windowtext 1pt =
+solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER=
+-LEFT: medium none; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windowtex=
+t .5pt; mso-background-themecolor: accent1; mso-background-themetint: 51;=
+ mso-border-left-alt: solid windowtext .5pt" valign=3D"top" width=3D"113"=
+>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">PNC#</span></p>
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1=
+pt solid; WIDTH: 70.85pt; BACKGROUND: #dbe5f1; BORDER-BOTTOM: windowtext =
+1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BO=
+RDER-LEFT: medium none; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windo=
+wtext .5pt; mso-background-themecolor: accent1; mso-background-themetint:=
+ 51; mso-border-left-alt: solid windowtext .5pt" valign=3D"top" width=3D"=
+94">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">MAPP</span></p>
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1=
+pt solid; WIDTH: 127.6pt; BACKGROUND: #dbe5f1; BORDER-BOTTOM: windowtext =
+1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BO=
+RDER-LEFT: medium none; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windo=
+wtext .5pt; mso-background-themecolor: accent1; mso-background-themetint:=
+ 51; mso-border-left-alt: solid windowtext .5pt" valign=3D"top" width=3D"=
+170">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">Effective Date</span></p>
+<p class=3D"MsoNormal"></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow: 1">
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 106.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt soli=
+d; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-borde=
+r-top-alt: solid windowtext .5pt" valign=3D"top" width=3D"141">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">535LS Trimmer</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 3cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PA=
+DDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RI=
+GHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: s=
+olid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" valign=3D=
+"top" width=3D"113">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">966 62 86 02</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 70.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"94">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">$599.99</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 127.6pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"170">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">Immediate</span></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow: 2">
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 106.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt soli=
+d; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-borde=
+r-top-alt: solid windowtext .5pt" valign=3D"top" width=3D"141">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">525L Trimmer</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 3cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PA=
+DDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RI=
+GHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: s=
+olid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" valign=3D=
+"top" width=3D"113">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">966 78 17 01</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 70.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"94">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">$459.99</span></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 127.6pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"170">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 11pt; FON=
+T-FAMILY: "Arial",sans-serif; mso-fareast-font-family: SimSun; mso-fareas=
+t-theme-font: minor-fareast' xml:lang=3D"EN-US">Immediate</span></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow: 3; mso-yfti-lastrow: yes">
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 106.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt soli=
+d; PADDING-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-borde=
+r-top-alt: solid windowtext .5pt" valign=3D"top" width=3D"141">
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 3cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PA=
+DDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RI=
+GHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: s=
+olid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" valign=3D=
+"top" width=3D"113">
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 70.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"94">
+<p class=3D"MsoNormal"></p>
+</td>
+<td style=3D"BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid;=
+ WIDTH: 127.6pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm=
+; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDIN=
+G-RIGHT: 5.4pt; mso-border-alt: solid windowtext .5pt; mso-border-left-al=
+t: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" vali=
+gn=3D"top" width=3D"170">
+<p class=3D"MsoNormal"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal">&#160;</p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph"></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph"><span style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial",sans-seri=
+f; LINE-HEIGHT: 107%'>Sincerely,</span></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph"></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph">&#160;</p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-=
+ideograph"><span style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial",sans-seri=
+f; LINE-HEIGHT: 107%'>Husqvarna Canada Corp.</span></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: left" align=3D"left"><br styl=
+e=3D"mso-special-character: line-break" />
+<br style=3D"mso-special-character: line-break" />
+<br />
+<br />
+<br /></p>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"520" border=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"160">&#160;
+<p align=3D"center">&#160;</p>
+</td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160"></td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160">&#160;
+<p>&#160;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style=3D"HEIGHT: 80px; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BA=
+CKGROUND-COLOR: #ebecef">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvM=
+M~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D6020"><img alt=3D"faceb=
+ook" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-rede=
+sign/assets/social-facebook.png" width=3D"50" /></a><a style=3D"TEXT-DECO=
+RATION: underline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wr9D=
+v8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D5930"><img alt=3D"twitter" bo=
+rder=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/as=
+sets/social-twitter.png" width=3D"50" /></a><a href=3D"http://husqvarna.c=
+usthelp.com/rd?1=3DAvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D5=
+931"><img alt=3D"youtube" border=3D"0"
+src=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/social=
+-youtube.png" width=3D"50" /></a></td>
+</tr>
+<!-- END FOOTER SOCIAL --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 100px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a style=3D"TEXT-DECORATION: un=
+derline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wr9Dv8S~xb~Gv8=
+O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D5921"><img alt=3D"Husqvarna, Ready when=
+ you are (logo)" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/t=
+emplate-redesign/assets/logo.png " width=3D"150" /></a>
+<p>This is a newsletter from Husqvarna Canada Corp. 850 Matheson Blvd. W.=
+ Unit 1, &#160;Mississauga ON L5V 0B4. Please do not respond directly to =
+this e-mail. If you have questions or comments, please <a style=3D"TEXT-D=
+ECORATION: none; COLOR: #f15321" href=3D"mailto:marketing.canada@husqvarn=
+agroup.com">contact us</a>. We respect your privacy and do not share or s=
+ell email addresses. If you no longer wish to receive emails from Husqvar=
+na please&#160;<a style=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; COLOR:=
+ #f15321" href=3D"http://husqvarna.custhelp.com/cgi-bin/husqvarna.cfg/php=
+/ma/unsub.php?1=3DAvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_1&amp;2=3D10=
+0025&amp;3=3D1">click here</a>. By unsubscribing you will no longer recei=
+ve important company updates, product launch information and other market=
+ing
+communications.</p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMM~wr9Dv8S~xb~Gv8O~yJLockqbov7JiV8cj7~Pv_=
+1.gif"/> </body>
+</html>
+

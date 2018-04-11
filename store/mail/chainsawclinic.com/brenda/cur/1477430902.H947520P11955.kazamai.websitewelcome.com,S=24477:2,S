@@ -1,0 +1,454 @@
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 25 Oct 2016 16:28:22 -0500
+Received: from rnmkmw65.rightnowtech.com ([74.117.203.65]:54922 helo=rntmw65.rnmk.com)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1bz9Gg-00033V-Pd
+	for brenda@chainsawclinic.com; Tue, 25 Oct 2016 16:28:22 -0500
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=DKIM-Signature:Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=N8OvF+vM3Yy+YR4XAjs3zIzvibzwDNoB/7mJn998hsSCVOjDvSFSmuAJCzZbpQ7y
+	y5J2tyBTQYFsZCVJd82tc44sIkijJKd9Sa+RARtsnMrmYCVW6nHSsAUbjszA9S/I
+	WnJAREUA61euGlSJmWnAmqoq4o6YE+1bUo78a87t6HQ=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailca.rnmk.com; t=1477430889;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=52a6XBurQwMixAeBwXQabYg8jow=;
+	b=IZKgj+X9ZBPNdyB0E2c5NpRQ7q34OiJYcpYSfPlYIfONjlnUROspQb+Mjd4MKIQ7
+	rpyQ0FX1YXZJcdIBvOmIfM1YxCN6JB1SPsg5SZpCerInP3jLNbhLdRUF5jfoZQOP
+	H7QdBgosASQmg3k9efgPczm8cKOMeh4bYKTXA4jx4VY=;
+Received: from [10.70.0.90] ([10.70.0.90:26329] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 14/7B-01648-96ECF085; Tue, 25 Oct 2016 16:28:09 -0500
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d.0.1477430884.6C~kGcgT0hs9.362772@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Tue, 25 Oct 2016 17:28:04 -0400 (EDT)
+Subject: October 2016 - Safety Recall Notice
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d>
+From: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/docum=
+ent">
+<head>
+<title></title>
+                                                                    =20
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">afetySas</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; WIDTH: 600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0=
+"><!-- LIGHT-GRAY HEADER -->
+<tbody>
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #efefef"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" =
+height=3D"53" src=3D"http://54.76.127.175/Emails/Dealer-News/2016/februar=
+y/husq-logo.png" width=3D"216" /></td>
+</tr>
+<!-- END LIGHT-GRAY HEADER --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; BORDER-BOTTOM: #ebe=
+cef thin; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"HEIGHT: 23px; WIDTH: 100%; BORDER-BOTTOM: #ddd 1px solid; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PAD=
+DING-RIGHT: 0px">
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" align=
+=3D"right"><a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f1=
+5321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMO~woMDv8S~xb~Gv8O~y=
+Jhockqbov7JiUUcj7~Pv~d&amp;2=3D5922">Dealer Support Site</a>&#160;|&#160;=
+&#160;<a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f15321"=
+ href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMO~woMDv8S~xb~Gv8O~yJhock=
+qbov7JiUUcj7~Pv~d&amp;2=3D5923">WebOrder</a> | <a style=3D"FONT-SIZE: 14p=
+x; TEXT-DECORATION: none; COLOR: #f15321" href=3D"http://husqvarna.custhe=
+lp.com/rd?1=3DAvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D5924">=
+Husqvarna.ca</a></p>
+</div>
+<br />
+<p style=3D"FONT-SIZE: 18pt"><span style=3D"FONT-SIZE: 18pt; TEXT-DECORAT=
+ION: none; FONT-FAMILY: Arial; VERTICAL-ALIGN: auto; FONT-WEIGHT: 700; CO=
+LOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff">October&#160=
+;2016&#160;</span></p>
+<p style=3D"FONT-SIZE: 18pt" align=3D"center"><span style=3D"FONT-SIZE: 1=
+2pt; FONT-FAMILY: Helvetica"><span style=3D"BACKGROUND-COLOR: #ffffff"><b=
+><span lang=3D"EN-US" style=3D"FONT-SIZE: 14pt; TEXT-DECORATION: underlin=
+e; FONT-FAMILY: Arial; COLOR: #ff0000; mso-bidi-font-size: 10.0pt; mso-fa=
+reast-font-family: SimSun; mso-fareast-theme-font: minor-fareast; mso-bid=
+i-font-family: Tahoma; mso-ansi-language: EN-US; mso-fareast-language: ZH=
+-CN; mso-bidi-language: AR-SA" xml:lang=3D"EN-US">SAFETY RECALL NOTICE</s=
+pan></b></span></span></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: left" align=3D"left"><span la=
+ng=3D"EN-US" style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "HQ Sans Corp",sans-s=
+erif; COLOR: black; mso-bidi-font-family: Tahoma' xml:lang=3D"EN-US"><spa=
+n lang=3D"EN-US" style=3D'FONT-FAMILY: "HQ Sans Corp",sans-serif; COLOR: =
+black; mso-bidi-font-family: Tahoma' xml:lang=3D"EN-US"><span style=3D"FO=
+NT-SIZE: 10.5pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; VERTICAL-ALIG=
+N: auto; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND=
+-COLOR: #ffffff">Dear Valued Dealers</span></span></span></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">This notice is to provide you with an update=
+ to the Stop Sale letter that we sent you on August 30, 2016.</p>
+<p class=3D"Default" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-id=
+eograph"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">Husqvarna Group in cooperation with the Cons=
+umer Products Safety Commission (CPSC) and Health Canada is announcing on=
+ October 18th, 2016 a recall of certain Husqvarna=AE, Poulan Pro=AE, Jons=
+ered=AE, Craftsman=AE, Yardworks=AE, Murray=AE, and Brute=AE brand walk-b=
+ehind gas powered lawn mowers manufactured between November 2015 through =
+August 2016 with Briggs &amp; Stratton 7.25 HP engines. It has been deter=
+mined that a small number (&lt; 0.25%) of these mowers can malfunction an=
+d cause the engine and blades to continue to operate even after the opera=
+tor presence control bar is released. We have not received any reports of=
+ injury or damage related to this issue.</p>
+<p class=3D"Default"></p>
+<p class=3D"Default"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: center" ali=
+gn=3D"center">The following model and serial numbers are included in the =
+recall.</p>
+<p class=3D"Default"></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal"></p>
+<table style=3D"WIDTH: 296pt; BORDER-COLLAPSE: collapse" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"394" align=3D"center" border=3D"0">
+<colgroup>
+<col style=3D"WIDTH: 77pt; mso-width-source: userset; mso-width-alt: 3264=
+" width=3D"102" />
+<col style=3D"WIDTH: 89pt; mso-width-source: userset; mso-width-alt: 3808=
+" width=3D"119" />
+<col style=3D"WIDTH: 130pt; mso-width-source: userset; mso-width-alt: 553=
+6" width=3D"173" /></colgroup>
+<tbody>
+<tr style=3D"HEIGHT: 15pt" height=3D"20">
+<td class=3D"xl69" style=3D"BORDER-TOP: windowtext 0.5pt solid; HEIGHT: 1=
+5pt; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 77pt; BORDER-BOTTOM: wi=
+ndowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COL=
+OR: transparent" height=3D"20" width=3D"102"><strong>Brand</strong></td>
+<td class=3D"xl69" style=3D"BORDER-TOP: windowtext 0.5pt solid; BORDER-RI=
+GHT: windowtext 0.5pt solid; WIDTH: 89pt; BORDER-BOTTOM: windowtext 0.5pt=
+ solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=3D"=
+119"><strong>Model Name</strong></td>
+<td class=3D"xl69" style=3D"BORDER-TOP: windowtext 0.5pt solid; BORDER-RI=
+GHT: windowtext 0.5pt solid; WIDTH: 130pt; BORDER-BOTTOM: windowtext 0.5p=
+t solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=3D=
+"173"><strong>Serial Number Range</strong></td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" heigh=
+t=3D"19">Brute</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">961480058</td>
+<td class=3D"xl67" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; WIDTH: 130pt; BORDER-BOTTOM: windowtext 0.5pt solid; BOR=
+DER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" rowspan=3D=
+"23" width=3D"173">110115M00001 - 082516M50000</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl68" style=3D"BORDER-TOP: windowtext; HEIGHT: 57pt; BORDER-=
+RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BOR=
+DER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=3D=
+"76" rowspan=3D"4">Craftsman</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">10176</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">101=
+78</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">372=
+75</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">374=
+89</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl68" style=3D"BORDER-TOP: windowtext; HEIGHT: 85.5pt; BORDE=
+R-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; B=
+ORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=
+=3D"114" rowspan=3D"6">Husqvarna</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">LB155S</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">LC1=
+21P</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">LC1=
+21P</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">HU7=
+25AWDEX</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">HU7=
+25AWDH</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">HU7=
+25AWDHQ</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl68" style=3D"BORDER-TOP: windowtext; HEIGHT: 57pt; BORDER-=
+RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BOR=
+DER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=3D=
+"76" rowspan=3D"4">Jonsered</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">LM 2155MD</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">LM =
+2153CMDA</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">LM =
+2155MD</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">LM =
+2153CMDA</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" heigh=
+t=3D"19">Murray</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">21P68H30</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl68" style=3D"BORDER-TOP: windowtext; HEIGHT: 71.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" heigh=
+t=3D"95" rowspan=3D"5">Poulan Pro</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">961320100</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">961=
+420133</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">PR6=
+75Y22RHPE</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">PR7=
+25Y22RHP</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" height=3D"19">961=
+490006</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" heigh=
+t=3D"19">Yardworks</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">961380047</td>
+</tr>
+<tr style=3D"HEIGHT: 14.25pt" height=3D"19">
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORD=
+ER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; =
+BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" heigh=
+t=3D"19">&#160;</td>
+<td class=3D"xl66" style=3D"BORDER-TOP: windowtext; BORDER-RIGHT: windowt=
+ext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: wind=
+owtext; BACKGROUND-COLOR: transparent">961480057</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"FONT-SIZE: 10.5pt; TEXT-DECORATION:=
+ none; FONT-FAMILY: Arial; VERTICAL-ALIGN: auto; FONT-WEIGHT: 400; COLOR:=
+ #000000; FONT-STYLE: normal; LINE-HEIGHT: 107%; BACKGROUND-COLOR: #fffff=
+f">Our records indicate you sold certain of these products between Novemb=
+er 2015 and August 2016. If you haven't stopped sale and removed the prod=
+ucts from the shelves, please do so at this time.</span></p>
+<p class=3D"Default"><u style=3D"FONT-FAMILY: Arial">What should you do n=
+ow?</u></p>
+<p class=3D"Default"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">A you know, we have been inspecting and clea=
+ring in-store inventory or, if you are a servicing store, we have sent th=
+e attached Service Bulletin B160034A for use to inspect and repair (if ne=
+cessary) your inventory. If your store's inventory has not yet been inspe=
+cted, please continue to keep it on stop sale. If your inventory has been=
+ inspected and cleared, then you may resume selling the units that have b=
+een cleared (those with a green sticker on the box). Contact your Husqvar=
+na account manager with any additional questions or concerns.</p>
+<p class=3D"Default"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">Consumers with inquiries should be instructe=
+d to call Husqvarna toll-free at 877-257-6921 from 8 a.m. to 6 p.m. ET Mo=
+nday through Friday, email Husqvarna at <a style=3D"TEXT-DECORATION: unde=
+rline" href=3D"mailto:recalls@husqvarna.com">recalls@husqvarna.com</a> or=
+ find information about the recall online at <a style=3D"TEXT-DECORATION:=
+ underline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMO~woMDv8S~xb~=
+Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D6182">www.husqvarna.com</a> and clic=
+k on "Recall" for more information.</p>
+<p class=3D"Default" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-id=
+eograph"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial">We are also asking all =
+retailers to post safety posters in their stores. We have enclosed/attach=
+ed a safety poster. Please display it in a conspicuous location for 120 d=
+ays.</p>
+<p class=3D"Default"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">We note that it is a violation of Federal La=
+w for any retailer to sell, offer for sale, or distribute any product cov=
+ered by this recall.</p>
+<p class=3D"Default" style=3D"TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-id=
+eograph"></p>
+<p class=3D"Default" style=3D"FONT-FAMILY: Arial; TEXT-ALIGN: justify; TE=
+XT-JUSTIFY: inter-ideograph">T<span style=3D"COLOR: windowtext">he U.S. C=
+onsumer Product Safety Commission will be monitoring this recall. Their i=
+nvestigators may visit your store to determine if the recall signs are po=
+sted and to determine if you are complying with the regulations.</span></=
+p>
+<p class=3D"Default"></p>
+<p class=3D"Default"><span style=3D"FONT-FAMILY: Arial; COLOR: windowtext=
+">Attached please find copy of this letter in pdf format - <a style=3D"TE=
+XT-DECORATION: underline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAv=
+MO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D6183">Safety Recall No=
+tice</a></span></p>
+<p class=3D"Default"></p>
+<p class=3D"Default"><span style=3D"FONT-FAMILY: Arial; COLOR: windowtext=
+">Thank you for your cooperation in this matter.</span></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal">&#160;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-SIZE: 10.5pt; TEXT-DECORATION:=
+ none; FONT-FAMILY: Arial; VERTICAL-ALIGN: auto; FONT-WEIGHT: 400; COLOR:=
+ #000000; FONT-STYLE: normal; LINE-HEIGHT: 107%; BACKGROUND-COLOR: #fffff=
+f">Husqvarna Professional Products, Inc.</span></p>
+<p class=3D"MsoNormal" style=3D"TEXT-ALIGN: left" align=3D"left"><span la=
+ng=3D"EN-US" style=3D'FONT-FAMILY: "HQ Sans Corp",sans-serif; COLOR: blac=
+k; mso-bidi-font-family: Tahoma' xml:lang=3D"EN-US"><br style=3D"mso-spec=
+ial-character: line-break" />
+<br style=3D"mso-special-character: line-break" /></span><br />
+<br />
+<br /></p>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"520" border=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"160">&#160;
+<p align=3D"center">&#160;</p>
+</td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160"></td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160">&#160;
+<p>&#160;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style=3D"HEIGHT: 80px; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BA=
+CKGROUND-COLOR: #ebecef">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvM=
+O~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D6020"><img alt=3D"faceb=
+ook" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-rede=
+sign/assets/social-facebook.png" width=3D"50" /></a><a style=3D"TEXT-DECO=
+RATION: underline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMO~woMD=
+v8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D5930"><img alt=3D"twitter" bo=
+rder=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/as=
+sets/social-twitter.png" width=3D"50" /></a><a href=3D"http://husqvarna.c=
+usthelp.com/rd?1=3DAvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D5=
+931"><img alt=3D"youtube" border=3D"0"
+src=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/social=
+-youtube.png" width=3D"50" /></a></td>
+</tr>
+<!-- END FOOTER SOCIAL --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 100px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a style=3D"TEXT-DECORATION: un=
+derline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMO~woMDv8S~xb~Gv8=
+O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D5921"><img alt=3D"Husqvarna, Ready when=
+ you are (logo)" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/t=
+emplate-redesign/assets/logo.png " width=3D"150" /></a>
+<p>This is a newsletter from Husqvarna Canada Corp. 850 Matheson Blvd. W.=
+ Unit 1, &#160;Mississauga ON L5V 0B4. Please do not respond directly to =
+this e-mail. If you have questions or comments, please <a style=3D"TEXT-D=
+ECORATION: none; COLOR: #f15321" href=3D"mailto:marketing.canada@husqvarn=
+agroup.com">contact us</a>. We respect your privacy and do not share or s=
+ell email addresses. If you no longer wish to receive emails from Husqvar=
+na please&#160;<a style=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; COLOR:=
+ #f15321" href=3D"http://husqvarna.custhelp.com/cgi-bin/husqvarna.cfg/php=
+/ma/unsub.php?1=3DAvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~d&amp;2=3D10=
+0025&amp;3=3D1">click here</a>. By unsubscribing you will no longer recei=
+ve important company updates, product launch information and other market=
+ing
+communications.</p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMO~woMDv8S~xb~Gv8O~yJhockqbov7JiUUcj7~Pv~=
+d.gif"/> </body>
+</html>
+

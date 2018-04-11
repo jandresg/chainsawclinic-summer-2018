@@ -1,0 +1,642 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201203 will be lost/reset.
+# Last config file used to build this data file was /home/chainsaw/tmp/awstats/awstats.chainsawclinic.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2696                
+POS_VISITOR 11924               
+POS_DAY 18717               
+POS_DOMAIN 3486                
+POS_LOGIN 3895                
+POS_ROBOT 4050                
+POS_WORMS 4592                
+POS_EMAILSENDER 4723                
+POS_EMAILRECEIVER 4866                
+POS_SESSION 19094               
+POS_SIDER 19304               
+POS_FILETYPES 5001                
+POS_DOWNLOADS 5167                
+POS_OS 5215                
+POS_BROWSER 5384                
+POS_SCREENSIZE 5973                
+POS_UNKNOWNREFERER 6047                
+POS_UNKNOWNREFERERBROWSER 6257                
+POS_ORIGIN 6427                
+POS_SEREFERRALS 6572                
+POS_PAGEREFS 6777                
+POS_SEARCHWORDS 7549                
+POS_KEYWORDS 8816                
+POS_MISC 2358                
+POS_ERRORS 9347                
+POS_CLUSTER 3751                
+POS_SIDER_404 9432                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120401005949 508 122966 9501466466627
+FirstTime 20120319081626
+LastTime 20120331230356
+LastUpdate 20120401073542 508 0 507 0 0
+TotalVisits 232                 
+TotalUnique 165                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 169                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 123 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 31 107563 13 40 128349
+1 5 5 23628 9 18 89754
+2 8 41 352412 28 70 428067
+3 0 0 0 7 11 51144
+4 1 1 3725 3 6 12078
+5 5 15 10558 7 12 35779
+6 45 289 2054074 19 34 72902
+7 41 221 978251 22 31 87259
+8 87 486 2517039 8 34 19663
+9 73 393 2760697 5 18 12792
+10 35 233 1531456 3 14 44564
+11 55 337 2156616 3 14 6756
+12 62 322 1544736 13 27 58403
+13 63 364 1958588 12 26 57729
+14 72 477 2750436 15 36 74610
+15 32 191 1047714 23 36 118048
+16 49 332 2639377 14 29 67830
+17 34 172 1276589 4 10 20067
+18 11 55 412672 9 37 63593
+19 44 222 1574063 9 19 68238
+20 19 110 1313090 6 18 24866
+21 21 143 1105875 8 14 34179
+22 20 129 973196 16 24 69277
+23 30 174 1467405 5 13 28420
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ca 654 4179 25467775
+us 97 253 2131884
+gb 11 63 808912
+ch 10 64 724470
+cn 9 43 155991
+cz 9 9 36144
+ru 8 9 64348
+eu 5 38 339620
+ro 4 30 251267
+bb 4 30 251267
+au 2 8 52323
+de 2 2 8528
+nl 1 15 267231
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 112 589279 20120331214229 0
+bot[\s_+:,\.\;\/\\-] 85 324375 20120331223244 0
+no_user_agent 44 360940 20120330190824 0
+slurp 19 84934 20120327000808 0
+spider 16 99353 20120331061209 0
+[\s_+:,\.\;\/\\-]bot 13 75061 20120331160300 0
+crawl 9 47569 20120323073241 0
+checker 4 17056 20120329222437 0
+msnbot\-media 4 44513 20120330190519 0
+robot 3 26761 20120324155033 0
+ia_archiver 2 4526 20120319101546 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 176 487634 0 0
+html 209 643864 0 0
+jpg 1267 18690243 0 0
+htm 607 2183818 0 0
+gif 2484 8554201 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 72
+blackberry 49
+winlong 342
+winxp 2263
+java 1
+win2000 4
+winnt 1
+win98 1
+win7 1316
+macosx 650
+win2003 19
+Unknown 25
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 36
+msie6.0 38
+firefox5.0 37
+chrome17.0.963.78 19
+android 72
+firefox8.0 5
+chrome17.0.963.79 73
+safari5.0.1 19
+opera9.80 22
+safari7.0.0.585 23
+safari5.0.2 55
+iphone 23
+msie8.0 1902
+msie7.0 277
+safari5.1.5 19
+chrome17.0.963.83 345
+msie9.0 695
+Unknown 4
+firefox11.0 309
+netscape 2
+safari5.1.1 41
+safari6.0.0.285 4
+chrome17.0.963.56 30
+firefox3.0 1
+safari6.0.0.246 22
+safari5.1.4 27
+firefox3.5.2 19
+opera9.461 1
+msie5.5 1
+firefox12.0 28
+mozilla 35
+safari5.1.2 148
+firefox3.6.28 119
+safari5.1 183
+firefox8.0.1 64
+firefox10.0.2 62
+firefox3.6.13 19
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+YahooCacheSystem 20120326164913
+Mozilla 20120323014410
+Mail.RU/2.0 20120323192428
+Mozilla/4.0_(compatible;) 20120330121137
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+YahooCacheSystem 20120326164913
+Java/1.6.0_20 20120331174105
+Mail.RU/2.0 20120323192428
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 174 194
+From1 0 0
+From2 117 120
+From3 19 19
+From4 506 4410
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 106 107
+bing 3 4
+mywebsearch 1 1
+yandex 2 3
+yahoo 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://www.lawnmowerdealers.net/display.php/6680 6 6
+http://www.stihl.ca/dealers/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./ 3 3
+http://www.stihl.ca/dealers/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./chainsaws.html 2 2
+http://mobile.yp.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 2 2
+http://www.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 2 2
+http://findhomefree.com/search.php 1 1
+http://www.powerequipment.ca 1 1
+http://whois.domaintools.com/chainsawclinic.ca 1 1
+http://whois.domaintools.com/chainsawclinic.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 45
+chainsaw+clinic 22
+chainsaw+clinic+toronto 13
+chain+saw+clinic 6
+chainsaw+clinic+weston 6
+honda+chainsaw+models 4
+chainsaw+dealer 2
+stihl+chainsaws+toronto 2
+chainsawclinic.com 2
+chaunsaw+clinic 2
+chain+saw+clinic+toronto 2
+toro+1914 2
+stihl 2
+where+to+buy+chain+saws+in+toronto 1
+the+chain+saw+clinic 1
+chain+clinic+toronto 1
+chain+saw+clinic+ltd+toronto 1
+chain+saw+doctor+toronto 1
+chainsaw+chain+toronto 1
+landscape+equipment+rental+in+toronto 1
+chain+saw+clinic+etobicoke 1
+weston+road+chain+saw+clinic 1
+chainsaw+clinic+ltd+toronto 1
+chain+doctor+toronto 1
+chainsaw+toronto 1
+weston+chainsaw+clinic 1
+chain+saw+clinic+ltd+weston 1
+416-244-5678 1
+chain+saw+clinic+ltd 1
+husqvarna+dealers+toronto 1
+the+chainsaw+clinic+toronto 1
+chainsaw+chains 1
+www+powerequipment.ca 1
+chainsaw+supplies+in+gta 1
+chainsaw+accessories+toronto 1
+stihl+backpack+leaf+blowers 1
+stihl+pole+pruning+saw 1
+lawn+equipment+renals 1
+401+and+weston+rd+map 1
+husqvarna+in+toronto+chain 1
+the+chainsaw+clinic 1
+weston+road+chain+saw 1
+chainsaw+stihl+toronto 1
+style+chain+saw+clinic 1
+does+honda+make+chain+saws 1
+chain+saw+clinic+ltd. 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 52
+clinic 64
+chainsaw 57
+toronto 31
+chain 24
+saw 19
+weston 11
+stihl 7
+honda 5
+ltd 4
+in 4
+models 4
+the 3
+chaunsaw 2
+chainsawclinic.com 2
+husqvarna 2
+toro 2
+1914 2
+saws 2
+chainsaws 2
+doctor 2
+dealer 2
+equipment 2
+road 2
+backpack 1
+buy 1
+map 1
+401 1
+dealers 1
+lawn 1
+does 1
+pruning 1
+rental 1
+leaf 1
+blowers 1
+supplies 1
+accessories 1
+gta 1
+416-244-5678 1
+renals 1
+ltd. 1
+and 1
+www 1
+powerequipment.ca 1
+chains 1
+to 1
+etobicoke 1
+make 1
+pole 1
+style 1
+where 1
+landscape 1
+rd 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 142 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 30
+/sitemap.xml 1 -
+/ 1 -
+//zenphoto/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/apple-touch-icon-precomposed.png 1 -
+/robots.txt 108 -
+//admin/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/_Global/swf/honda_slideShow.swf 2 http://powerequipment.honda.ca/
+//faq/admin/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/apple-touch-icon.png 1 -
+//admin/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//main/inc/lib/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/flash/staticVideoWindow.swf 4 -
+//fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//ajaxfilemanager/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//photo/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//js/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//lib/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//scripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//FCKeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//zen/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//includes/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//js/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//shop/admin/includes/javascript/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+http://www.chainsawclinic.com/robots.txt 1 -
+//includes/tinymce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/url(data:image/png 2 http://www.chainsawclinic.com/contactus.htm
+//javascript/tinymce/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//gallery/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 169
+99.234.221.147 220 1257 1723442 20120331122655
+99.235.172.214 22 131 511875 20120330070032
+74.200.29.50 16 72 605508 20120331195040
+216.99.51.93 12 80 746875 20120329232549
+174.93.121.83 11 70 576278 20120329075300
+38.100.21.13 11 11 53328 20120323123618
+83.79.37.100 10 64 724470 20120319090125
+81.200.56.195 9 9 36144 20120319132346
+174.89.47.112 9 69 449951 20120328091527
+209.197.166.127 8 61 706409 20120330224214
+208.80.194.71 7 7 27075 20120327114524
+122.227.35.230 7 41 147463 20120328215733
+204.50.148.9 7 52 571096 20120319164444
+209.250.144.18 7 44 467292 20120331061854
+173.32.82.162 7 46 258221 20120330220508
+184.147.227.100 6 41 433134 20120325201319
+174.119.106.222 6 36 320189 20120319130141
+174.95.181.26 6 50 555527 20120328132605
+174.117.130.240 6 50 555527 20120324144920
+50.101.125.252 6 41 402149 20120328173635
+64.231.242.156 6 40 391686 20120326082257
+70.51.121.14 6 77 343884 20120331122650
+99.248.47.65 6 46 283022 20120322192526
+99.234.153.174 5 32 77927 20120319081829
+208.80.194.37 5 5 23628 20120328144724
+74.198.9.246 0 1 1724 
+173.34.187.170 1 4 98303 20120330081949
+76.67.102.130 2 12 0 20120322053903
+2.97.98.200 1 14 262293 20120326115335
+99.6.221.206 1 14 262293 20120328104329
+69.157.13.111 1 4 98303 20120324083842
+174.117.98.48 4 22 147463 20120325094843
+207.219.20.11 5 33 313796 20120323105859
+85.118.226.155 1 1 4264 20120331114829
+70.55.226.183 1 13 168721 20120330100110
+208.80.194.30 1 1 4264 20120331020605
+66.212.181.248 3 29 247003 20120325145435
+208.80.194.59 1 1 5418 20120322015420
+216.82.251.229 2 19 109735 20120319124011
+176.9.111.204 1 1 4264 20120319202346
+66.207.116.1 5 28 175779 20120324153232
+208.80.194.32 3 3 13946 20120330014859
+92.27.224.89 4 30 251267 20120328080101
+74.198.9.241 5 33 313796 20120330212522
+208.80.194.62 2 2 8528 20120326160224
+207.46.204.216 3 3 10023 20120324085843
+50.101.50.57 1 4 98303 20120331121651
+188.138.113.146 1 1 4264 20120331085611
+157.55.17.90 1 1 11270 20120328082058
+99.234.200.50 3 19 84934 20120326151740
+216.191.53.90 1 4 98303 20120329093853
+70.29.6.245 1 4 98303 20120319162543
+99.234.227.11 5 30 235816 20120324191334
+208.124.184.250 3 19 84934 20120327083431
+99.227.59.248 1 12 22629 20120328000019
+24.114.255.99 3 19 84934 20120327131055
+99.234.167.66 5 28 147408 20120329204245
+74.198.9.185 5 38 339620 20120326143353
+208.80.194.27 4 4 14283 20120331202123
+69.158.147.171 4 27 173287 20120322222049
+220.181.127.123 1 1 4264 20120330022158
+74.15.193.22 4 20 87426 20120323085201
+208.80.194.58 1 1 4264 20120330100936
+70.54.176.110 4 27 173287 20120329145219
+208.80.194.34 4 4 14283 20120325051304
+69.157.13.67 4 22 147463 20120328183827
+69.207.14.214 1 14 262293 20120324082324
+99.233.129.5 4 27 173287 20120325130733
+184.148.76.30 4 32 342289 20120322163304
+206.210.106.229 1 4 98303 20120323130012
+212.30.28.50 1 14 262293 20120326063041
+70.29.60.73 4 30 251267 20120324164011
+38.116.192.97 3 19 84934 20120319090700
+74.198.9.149 4 22 147463 20120331141935
+76.9.41.162 4 21 91547 20120328090017
+173.34.163.189 4 22 147463 20120331070521
+70.48.69.25 4 30 251267 20120322090014
+165.130.136.210 4 23 151584 20120330121154
+208.80.194.67 3 3 12792 20120331115858
+174.116.181.107 4 30 251267 20120331181134
+99.227.151.21 5 31 253759 20120324111851
+99.230.40.168 4 27 173287 20120329145750
+157.55.112.204 3 3 10023 20120322082539
+64.141.106.4 5 38 339620 20120327025518
+212.189.35.4 1 15 267231 20120322075553
+62.24.181.134 4 4 21789 20120328080118
+99.232.106.62 4 22 147463 20120322150316
+66.199.44.34 1 4 98303 20120319124212
+216.110.108.10 4 30 251267 20120331082543
+207.219.51.3 3 19 84934 20120328124526
+72.137.48.154 4 22 147463 20120331132908
+66.249.16.212 1 1 4264 20120329232652
+184.144.61.43 4 22 147463 20120331191958
+66.209.55.38 4 24 187660 20120328093829
+204.191.90.133 4 21 100503 20120325153820
+99.233.200.53 4 32 342289 20120322113918
+70.28.8.61 1 13 168721 20120323062227
+174.119.3.41 3 19 84934 20120326131305
+207.61.10.74 3 19 84934 20120326001435
+70.31.21.24 5 37 298172 20120330110645
+99.234.85.129 3 19 84934 20120330060928
+157.55.112.240 1 1 11270 20120331065542
+174.119.70.9 0 1 1810 
+216.172.44.250 4 30 251267 20120322105738
+74.34.219.214 1 13 168721 20120324210906
+207.46.12.74 3 3 10023 20120325122406
+74.198.10.74 4 22 147463 20120331094700
+89.120.53.102 4 30 251267 20120327112456
+220.181.127.126 1 1 4264 20120330023348
+184.151.63.217 1 1 3725 20120325084305
+70.28.77.116 4 32 342289 20120328140020
+207.46.204.215 3 3 10023 20120327075116
+76.10.163.25 4 22 96109 20120322084405
+99.235.148.118 1 4 98303 20120329144607
+153.109.42.97 5 38 339620 20120323165759
+174.114.26.88 3 19 84934 20120331230356
+174.1.165.78 1 12 167527 20120322213626
+70.58.156.49 1 14 262293 20120324093556
+99.235.8.234 2 8 196606 20120331140617
+68.171.231.82 1 6 101724 20120331120056
+68.171.231.80 3 11 59860 20120331094322
+173.203.22.42 1 1 0 20120331174105
+176.195.1.197 3 3 10023 20120329070133
+69.84.21.238 0 4 84235 
+208.80.194.28 2 2 8528 20120330063145
+174.91.129.64 3 19 84934 20120326210049
+99.235.44.221 2 8 196606 20120330062917
+98.139.241.249 2 2 8528 20120326164913
+180.95.123.253 2 8 52323 20120325233130
+66.249.16.211 1 1 4264 20120329232731
+74.198.9.227 4 22 147463 20120326145301
+173.35.57.213 4 35 252193 20120327164223
+70.25.13.25 2 20 268372 20120319150112
+174.115.101.113 4 30 251267 20120330115414
+74.14.141.219 3 32 330580 20120326131804
+74.12.120.205 2 5 100795 20120330151419
+99.248.151.153 4 30 251267 20120327065812
+209.160.73.99 2 2 8528 20120323014410
+99.250.212.17 3 19 84934 20120322175052
+207.164.79.18 2 23 188909 20120322064426
+99.230.50.208 4 30 251267 20120323165145
+76.64.1.209 4 21 100503 20120324092350
+99.234.29.59 4 30 251267 20120329231318
+217.69.134.91 1 1 4264 20120323192428
+50.57.104.33 1 1 5418 20120325233130
+70.29.62.189 4 33 342289 20120326170858
+68.171.231.81 2 10 86674 20120331094338
+174.91.144.165 3 31 338025 20120330095440
+157.55.112.205 3 3 10023 20120326065706
+208.80.194.68 1 1 4264 20120329103038
+99.234.252.248 1 14 262293 20120330201520
+74.198.9.211 3 19 84934 20120324112330
+173.34.198.237 4 27 173287 20120325175045
+208.80.194.33 5 5 18547 20120329181247
+130.63.85.2 4 22 147463 20120319112503
+38.116.192.102 4 30 249495 20120330145309
+212.45.3.121 0 1 35774 
+99.232.249.221 5 28 179326 20120330193621
+184.172.204.131 3 19 84934 20120322211504
+95.25.238.168 3 3 10023 20120325085012
+157.55.112.243 1 1 11270 20120330204133
+159.175.253.14 3 19 84934 20120322123053
+69.84.22.142 1 8 83292 20120326112606
+99.234.146.38 1 4 98303 20120327171755
+184.151.63.224 4 30 251267 20120327061724
+62.24.181.135 1 1 11270 20120328080133
+64.231.161.199 5 47 571738 20120322204625
+174.95.202.230 5 33 313796 20120321231704
+99.232.14.71 4 36 301353 20120331100923
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20120319 92 402 2973204 19
+20120321 5 34 315606 1
+20120322 94 623 3450367 27
+20120323 60 306 1503649 16
+20120324 40 258 2463482 13
+20120325 45 218 1606032 15
+20120326 89 561 3185343 25
+20120327 62 369 2095433 19
+20120328 75 472 3373772 21
+20120329 80 455 2609386 22
+20120330 81 512 3421825 25
+20120331 93 533 3561661 29
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 12
+30s-2mn 16
+2mn-5mn 10
+15mn-30mn 6
+0s-30s 175
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 209 643864 162 32
+/contents.htm 199 280692 14 12
+/main.htm 188 487975 8 60
+/stihl.htm 54 608580 9 35
+/contactus.htm 48 110880 20 34
+/husqvarna.htm 31 181170 0 14
+/honda.htm 27 305916 8 18
+/toro.htm 21 113778 6 9
+/aboutus.htm 20 49840 3 6
+/lawnboy.htm 17 42245 2 12
+/echo.htm 2 2742 0 0
+END_SIDER

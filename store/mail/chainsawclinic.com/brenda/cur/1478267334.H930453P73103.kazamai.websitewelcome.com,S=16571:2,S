@@ -1,0 +1,441 @@
+Return-path: <407etr_98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 04 Nov 2016 08:48:54 -0500
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:57217)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E@email.407etr.com>)
+	id 1c2erW-000Ixw-PE
+	for brenda@chainsawclinic.com; Fri, 04 Nov 2016 08:48:54 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=7jcMlrR/iOFByNs5MM7tgLyTUmk=;
+ b=13i1nNmNXbSvOwX13+seOi8ImanSPbaif8S85wrBZjsWjjzWMs/qt7jcX3qO96+ZztiRMlt3Jqbg
+   KXZNdOSRgw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=o6fhv3czaEJnQ1iLpbdl8bopO/3fgIVdOwlBl8Mnl8ezWmoYvWwu2Uoptvt5FDujabe2Ja1MlS86
+   e25XLhoh7A==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id h3i8sc1t8bkj for <brenda@chainsawclinic.com>; Fri, 4 Nov 2016 09:48:14 -0400 (envelope-from <407etr_98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E@email.407etr.com>)
+Date: Fri, 04 Nov 2016 09:47:57 -0400
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E-ce542f6e70bd4d258693c792bbcfb2dc@email.407etr.com>
+Subject: This Remembrance Day, take a moment to visit True Patriot Love
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_11295346_1257352818.1478267277866"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1478267277865-98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E-ce542f6e70bd4d258693c792bbcfb2dc
+Feedback-ID: 2473-2225240:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E>
+
+------=_Part_11295346_1257352818.1478267277866
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_11295346_1257352818.1478267277866
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>407 ETR - Remembrance Day</title>
+<style type=3D"text/css">
+.ReadMsgBody {
+=09width: 100%;
+=09background-color: #ffffff;
+}
+.ExternalClass {
+=09width: 100%;
+=09background-color: #ffffff;
+}
+body {
+=09width: 100%;
+=09background-color: #ffffff;
+=09margin: 0;
+=09padding: 0;
+=09-webkit-font-smoothing: antialiased;
+=09font-family: Arial, sans-serif;
+}
+table {
+=09border-collapse: collapse;
+}
+ @media only screen and (max-width: 640px) {
+body[yahoo] .deviceWidth {
+=09width: 430px!important;
+=09padding-bottom: 10px;
+}
+body[yahoo] .center {
+=09text-align: center!important;
+}
+table[class=3DdeviceWidth] {
+=09width: 430px!important;
+=09border: none!important;
+}
+table[class=3DspecialWidth] {
+=09width: 420px!important;
+=09border: none!important;
+}
+table[class=3DheaderWidth] {
+=09width: 430px!important;
+=09border: none!important;
+}
+table[class=3DlogoWidth] {
+=09width: 29%!important;
+}
+table[class=3DexpressWidth] {
+=09height: 77px!important;
+=09width: 63%!important;
+}
+td[class=3DexpressWidth] {
+=09font-size: 24px!important;
+}
+td[class=3Dspacer] {
+=09height: 10px!important;
+}
+table[class=3DcontentWidth] {
+=09width: 430px!important;
+}
+img[class=3D"deviceWidth"] {
+=09width: 50%!important;
+}
+img[class=3D"imgWidth2"] {
+=09width: 430px!important;
+=09margin: auto;
+}
+td[class=3D"imgWidth2"] {
+=09padding: 10px!important;
+}
+td[class=3Dblank] {
+=09display: none!important;
+}
+img[class=3D"login"] {width:236px!important;margin:auto;}
+
+}
+ @media only screen and (max-width: 479px) {
+body[yahoo] .deviceWidth {
+=09width: 300px!important;
+=09padding: 0;
+=09text-align: center;
+}
+body[yahoo] .center {
+=09text-align: center!important;
+}
+table[class=3DheaderWidth] {
+=09width: 300px!important;
+=09border: none!important;
+}
+table[class=3DdeviceWidth] {
+=09width: 280px!important;
+=09display: block!important;
+=09text-align: center!important;
+}
+table[class=3DspecialWidth] {
+=09width: 280px!important;
+=09border: none!important;
+=09margin-bottom: 10px;
+}
+table[class=3DcontentWidth] {
+=09width: 280px!important;
+}
+table[class=3DlogoWidth] {
+=09width: 40%!important;
+=09margin-top: 12px!important;
+}
+img[class=3DlogoWidth] {
+=09width: 120px!important;
+}
+table[class=3DexpressWidth] {
+=09height: 77px!important;
+=09width: 59%!important;
+=09margin-top: 5px;
+}
+td[class=3DexpressWidth] {
+=09font-size: 18px!important;
+}
+img[class=3D"imgWidth2"] {
+=09width: 300px!important;
+=09padding: 0;
+}
+td[class=3D"wm-logo"] {
+}
+
+img[class=3D"login"] {width:200px!important;margin:auto;}
+}
+=09
+=09
+/* Column Drop*/
+=09@media only screen and (max-width: 640px) {
+td[class=3D"column"] {
+=09display: block!important;
+=09width: 100%!important;
+=09-moz-box-sizing: border-box;
+=09-webkit-box-sizing: border-box;
+=09box-sizing: border-box;
+}
+}
+</style>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix" style=3D"font-family:Arial, sans-serif; background:#ffffff;"=
+ bgcolor=3D"#ffffff">
+
+<!-- Wrapper -->
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding:=
+10px 0 10px 0; margin:10px 0 10px 0;"><table  width=3D"650" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" align=3D"center" class=3D"deviceWidth">
+        <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"font-family:Arial=
+, sans-serif; font-size: 11px;color: #333333;text-align:center;" st-content=
+=3D"viewonline">Stay in touch with True Patriot Love Foundation |<a href=3D=
+"http://email.407etr.com/dm?id=3D98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907=
+DCC71E" target=3D"_blank" style=3D"color:#666666; text-decoration:none;"> V=
+iew Online</a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td valign=3D"top" bgcolor=3D"#ffffff"><table width=3D"650" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" class=3D"headerWidth=
+" bgcolor=3D"#0564b4">
+        <tr>
+          <td class=3D"center" ><table width=3D"29%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"left" class=3D"logoWidth">
+              <tr>
+                <td align=3D"left" valign=3D"top"><a href=3D"http://email.4=
+07etr.com/t?r=3D2473&c=3D2225240&l=3D167140&ctl=3D31C28F4:98A95CF58AAFECE18=
+D6B2C1B5E8442AB1D4A1A7907DCC71E&"><img width=3D"152" src=3D"http://407etr.s=
+3.amazonaws.com/template/407etr-responsive-mock_01.jpg" alt=3D"407 ETR" bor=
+der=3D"0" style=3D"width: 152px;display:block;margin:0;padding:0;" class=3D=
+"logoWidth" /></a></td>
+              </tr>
+            </table>
+            <table width=3D"69%" height=3D"77" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" align=3D"right" class=3D"expressWidth">
+              <tr>
+                <td valign=3D"middle" height=3D"77" class=3D"expressWidth" =
+align=3D"right" style=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0; f=
+ont-family:arial,sans-serif; font-size:22px;color:#ffffff;padding-right:15p=
+x;"><span>407 ETR and <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D222=
+5240&l=3D167140&ctl=3D31C28F5:98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC=
+71E&" style=3D"color: #FFFFFF; text-decoration:none;" target=3D"_blank">Tru=
+e Patriot Love Foundation</a></span></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+     =20
+      <!-- End Two Column (Images Stacked over Text) --></td>
+  </tr>
+</table>
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+
+ <tr >
+    <td class=3D"center"><table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" align=3D"left">
+        <tr valign=3D"middle">
+          <td align=3D"center" valign=3D"middle"><a href=3D"http://email.40=
+7etr.com/t?r=3D2473&c=3D2225240&l=3D167140&ctl=3D31C28F5:98A95CF58AAFECE18D=
+6B2C1B5E8442AB1D4A1A7907DCC71E&" target=3D"_blank"><img width=3D"100%" src=
+=3D"https://407etr.s3.amazonaws.com/2016/407etr-nov2016-remenbrance_01.jpg"=
+ alt=3D"407 ETR" border=3D"0" style=3D"width:display:block;padding:0;width:=
+100%;margin:auto;" class=3D"imgWidth2" /></a></td>
+        </tr>
+      </table></td>
+  </tr>
+
+
+  <tr>
+    <td height=3D"5"></td>
+  </tr>
+  <tr>
+    <td align=3D"center"><table width=3D"95%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"center" >
+        <tr>
+          <td style=3D"font-size: 12px; color: #959595; font-weight: normal=
+; text-align: left; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial=
+, sans-serif; line-height: 24px; vertical-align: top; " align=3D"center"><t=
+able width=3D"100%" class=3D"deviceWidth" cellpadding=3D"0" cellspacing=3D"=
+0" >
+              <tr>
+                <td><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                    <tr>
+               =20
+                      <td height=3D"5"></td>
+                    </tr>
+                     =20
+                  =20
+                    <tr>
+                      <td style=3D"color:#363636;font-size:14px; line-heigh=
+t:24px; font-family:Arial,helvetica,sans-serif;" align=3D"left">
+<p>As a long-standing partner of True Patriot Love Foundation, 407 ETR reco=
+gnizes the importance of supporting our military families. True Patriot Lov=
+e is a national fundraising organization and Canada=E2=80=99s largest chari=
+ty supporting those who have served and their families. The goal is to hono=
+ur sacrifices made on behalf of all Canadians by supporting specialized pro=
+grams and research, as well as facilitating national discussions on support=
+ing our military. </p>
+
+                         =20
+                     </td>
+                    </tr>
+=09=09=09=09=09<tr><td height=3D"10"></td>
+=09=09=09=09=09</tr>
+                    <tr>
+                      <td style=3D"color:#363636;font-size:14px; line-heigh=
+t:24px; font-family:Arial,helvetica,sans-serif;" align=3D"left">
+=09=09=09=09=09  <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center=
+" style=3D"border-collapse:collapse;">
+                          <tr>
+                            <td class=3D"column" align=3D"left" valign=3D"m=
+iddle" style=3D"color:#363636;font-size:14px;font-family:Arial,helvetica,sa=
+ns-serif; line-height:24px;"><p>This Remembrance Day, show your gratitude f=
+or our service men and women, that have sacrificed so much for the freedom =
+we enjoy today by visiting <a href=3D"http://email.407etr.com/t?r=3D2473&c=
+=3D2225240&l=3D167140&ctl=3D31C28F5:98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7=
+907DCC71E&" style=3D"color: #006cb7; text-decoration:none;" target=3D"_blan=
+k">www.truepatriotlove.com</a>.</p>
+                                </td>
+                           =20
+                          </tr>
+=09=09=09=09=09=09   <tr>
+                        <td height=3D"7" style=3D"height:7px;line-height:7p=
+x;"></td>
+                        </tr>
+                        <tr>
+                        <td>
+                         <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D=
+2225240&l=3D167140&ctl=3D31C28F6:98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907=
+DCC71E&" target=3D"_blank">
+                        <img width=3D"236" src=3D"https://407etr.s3.amazona=
+ws.com/2016/407-remembrance-Button.jpg" alt=3D"407 ETR" border=3D"0" style=
+=3D"width:display:block;padding:0;width:236;margin:auto;" class=3D"login" /=
+></a>
+                        </td>
+                        </tr>
+<tr>
+                        <td height=3D"5"></td>
+                        </tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td class=3D"column" align=3D"left" valign=3D"bottom" sty=
+le=3D"padding: 0; margin:0 "><a href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2225240&l=3D167140&ctl=3D31C28F5:98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A=
+7907DCC71E&" target=3D"_blank"><img src=3D"https://407etr.s3.amazonaws.com/=
+2016/TPL-logo.jpg" style=3D"width:display:block;padding:0;width:90;margin:a=
+uto" width=3D"90" alt=3D"True Patriot Love"/></a></td>
+=09=09=09=09=09=09
+=09=09=09=09=09=09</tr>=09=09=09=09=09
+=09=09=09=09=09=09 =20
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"25" style=3D"height:25px;border-bottom:1px solid #cccccc"=
+><div style=3D"height:25px;border-bottom:1px solid #cccccc"></div></td>
+  </tr>
+  <tr>
+    <td height=3D"20"></td>
+  </tr>
+</table>
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=
+=3D"deviceWidth" align=3D"center">
+  <tr>
+    <td><table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center" class=3D"deviceWidth">
+        <tr>
+          <td><table width=3D"85%" cellpadding=3D"0" cellspacing=3D"0"  bor=
+der=3D"0" align=3D"left" class=3D"deviceWidth">
+              <tr>
+                <td valign=3D"top" class=3D"center"><p style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color:=
+ #666666; margin:0; padding:0; text-align:left;">=20
+                    You are currently signed up to receive news and=20
+                    information from 407 ETR.<br />
+                    If you would prefer not to receive emails from 407 ETR,=
+=20
+                    please unsubscribe <a href=3D"http://email.407etr.com/u=
+?id=3D98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E&global=3Dtrue">here<=
+/a>.<br />
+                    This email was sent to brenda@chainsawclinic.com by 407=
+ ETR.<br />
+                    Do not reply to this email. To contact 407 ETR Customer=
+=20
+                    Service, please click <a href=3D"http://email.407etr.co=
+m/t?r=3D2473&c=3D2225240&l=3D167140&ctl=3D31C28F7:98A95CF58AAFECE18D6B2C1B5=
+E8442AB1D4A1A7907DCC71E&"> here</a>.<br />
+                    <br />
+                    407 ETR | 6300 Steeles Avenue West | Woodbridge, ON |=
+=20
+                    L4H 1J1 | 1-888-407-0407</p></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td height=3D"20"></td>
+        </tr>
+        <tr>
+          <td style=3D"text-align:right" class=3D"wm-logo"><a href=3D"http:=
+//www.wiredmessenger.com/?utm_source=3DNewsletter&utm_medium=3DEmail&utm_ca=
+mpaign=3D407ETR&email=3Dbrenda@chainsawclinic.com"> <img border=3D"0" src=
+=3D"http://wmcta.s3.amazonaws.com/cta/powered-by-wired-small.png" width=3D"=
+117" height=3D"30" style=3D"-webkit-text-size-adjust: none; border: medium =
+none" alt=3D"wiredmessenger.com" ></a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<style data-ignore-inlining>@media print{ #_t { background-image: url('http=
+s://bk6m9egh.emltrk.com/bk6m9egh?p&d=3Dbrenda@chainsawclinic.com');}} div.O=
+utlookMessageHeader {background-image:url('https://bk6m9egh.emltrk.com/bk6m=
+9egh?f&d=3Dbrenda@chainsawclinic.com')} table.moz-email-headers-table {back=
+ground-image:url('https://bk6m9egh.emltrk.com/bk6m9egh?f&d=3Dbrenda@chainsa=
+wclinic.com')} blockquote #_t {background-image:url('https://bk6m9egh.emltr=
+k.com/bk6m9egh?f&d=3Dbrenda@chainsawclinic.com')} #MailContainerBody #_t {b=
+ackground-image:url('https://bk6m9egh.emltrk.com/bk6m9egh?f&d=3Dbrenda@chai=
+nsawclinic.com')}</style><div id=3D"_t"></div>
+<img src=3D"https://bk6m9egh.emltrk.com/bk6m9egh?d=3Dbrenda@chainsawclinic.=
+com" width=3D"1" height=3D"1" border=3D"0" />
+</body>
+
+<img src=3D"http://email.407etr.com/t?c=3D2225240&r=3D2473&l=3D167140&t=3D1=
+0&e=3D98A95CF58AAFECE18D6B2C1B5E8442AB1D4A1A7907DCC71E" width=3D1 height=3D=
+1 border=3D0>
+</html>
+
+
+------=_Part_11295346_1257352818.1478267277866--

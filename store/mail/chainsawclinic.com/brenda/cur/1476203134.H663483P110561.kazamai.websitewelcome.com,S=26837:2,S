@@ -1,0 +1,522 @@
+Return-path: <no.reply_ap_pmt@rona.ca>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 11 Oct 2016 11:25:34 -0500
+Received: from mail-dm3nam03on0139.outbound.protection.outlook.com ([104.47.41.139]:55119 helo=NAM03-DM3-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.86_1)
+	(envelope-from <no.reply_ap_pmt@rona.ca>)
+	id 1btzry-000Sh3-Fq
+	for brenda@chainsawclinic.com; Tue, 11 Oct 2016 11:25:34 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=Ronainc.onmicrosoft.com; s=selector1-rona-ca;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=PC/FoMh+C86sqKdXOPqLubDxQ3zvQZtY5oYSzIE7QXQ=;
+ b=PsYT7/jJquSCD4xo9+JFnmMkHsLSk2zfumErcpk7xfyjs3VuoWkrBjZ4DkYz/yID1uPUcY3UdOabjch+GJTsAN/1LwXMz/sVIB6EhvJEGJWVzmB7NSsCd/WA9wCmPMdS7WVMUXHoJI8iUwntOLWg+p4D5dgMEMmrNDvE9Eo6DJM=
+Received: from CY1PR04CA0028.namprd04.prod.outlook.com (10.166.187.38) by
+ SN1PR04MB2061.namprd04.prod.outlook.com (10.169.124.11) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.659.11; Tue, 11 Oct 2016 16:25:21 +0000
+Received: from BL2FFO11FD041.protection.gbl (2a01:111:f400:7c09::197) by
+ CY1PR04CA0028.outlook.office365.com (2a01:111:e400:c5a5::38) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.659.11 via
+ Frontend Transport; Tue, 11 Oct 2016 16:25:21 +0000
+Authentication-Results: spf=permerror (sender IP is 199.188.60.44)
+ smtp.mailfrom=rona.ca; chainsawclinic.com; dkim=none (message not signed)
+ header.d=none;chainsawclinic.com; dmarc=none action=none header.from=rona.ca;
+Received-SPF: PermError (protection.outlook.com: domain of rona.ca used an
+ invalid SPF mechanism)
+Received: from outlook.rona.ca (199.188.60.44) by
+ BL2FFO11FD041.mail.protection.outlook.com (10.173.161.137) with Microsoft
+ SMTP Server (version=TLS1_0, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA_P384)
+ id 15.1.629.5 via Frontend Transport; Tue, 11 Oct 2016 16:25:20 +0000
+Received: from qc90990ms13.rona.ca (10.6.180.43) by WQC90990ECAHT01.rona.ca
+ (10.6.180.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 11 Oct 2016
+ 12:24:56 -0400
+Received: from qc90990ms02.rona.ca ([10.100.2.13]) by qc90990ms13.rona.ca with
+ Microsoft SMTPSVC(6.0.3790.4675);	 Tue, 11 Oct 2016 12:23:22 -0400
+Received: from l90990prdebsmt.rona.ca ([10.102.2.210]) by qc90990ms02.rona.ca
+ over TLS secured channel with Microsoft SMTPSVC(6.0.3790.1830);	 Tue, 11 Oct
+ 2016 12:23:22 -0400
+Received: from l90990prdebsmt.rona.ca (localhost.localdomain [127.0.0.1])	by
+ l90990prdebsmt.rona.ca (8.14.4/8.14.4) with ESMTP id u9BGNMLS053515	for
+ <brenda@chainsawclinic.com>; Tue, 11 Oct 2016 12:23:22 -0400
+Date: Tue, 11 Oct 2016 12:23:22 -0400
+From: <no.reply_ap_pmt@rona.ca>
+To: <brenda@chainsawclinic.com>
+Message-ID: <15620629.1070.1476203002787.JavaMail.applmgr@localhost>
+Subject: =?UTF-8?Q?Avis_de_versement_distinct_:_Num=C3=A9?=
+ =?UTF-8?Q?ro_de_r=C3=A9f=C3=A9rence_du_paiement_-_1027?=
+ =?UTF-8?Q?436_/_Separate_Remittance_Advice:_?=
+ =?UTF-8?Q?payment_reference_number_-_1027436?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_1068_19128540.1476203002783"
+X-OriginalArrivalTime: 11 Oct 2016 16:23:22.0926 (UTC) FILETIME=[C94D44E0:01D223DB]
+X-EOPAttributedMessage: 0
+X-MS-Office365-Filtering-HT: Tenant
+X-Forefront-Antispam-Report:
+	CIP:199.188.60.44;IPV:CAL;SCL:-1;CTRY:;EFV:NLI;SFV:NSPM;SFS:(10019020)(6009001)(7916002)(2980300002)(448002)(189002)(504994003)(199003)(377424004)(19580395003)(7110500001)(5660300001)(85326001)(84326002)(2906002)(6916009)(450100001)(4001150100001)(110136003)(189998001)(586003)(2476003)(15975445007)(626004)(11100500001)(107886002)(2876002)(86362001)(85226003)(86152002)(74482002)(512874002)(10710500007)(92566002)(87936001)(77096005)(53416004)(8936002)(246002)(9576002)(224303003)(229853001)(7126002)(86816001)(9686002)(106466001)(15650500001)(26826002)(5000100001)(2351001)(50986999)(7846002)(2420400007)(4610100001)(356003)(7636002)(4590100002)(54356999)(224313004)(33716001)(7099028)(3350100001);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1PR04MB2061;H:outlook.rona.ca;FPR:;SPF:PermError;PTR:outlookext.rona.ca;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD041;1:uIOVCl/4xs29tN9g3BuBhNDQWcFlTpea0FJG+8o7Gz4K2DDjVwN83UV+9pxSQUAwLOEh4T2ZHzBK+HyUNS8XlmnB4LTH7FLbPSx58lnzc/E1eEUn+kdVU0eRvwC4O9bpLnGOpmVdpxP0JOWS2lkr0jvU7tXUL0d/4ezFGgNGOL56Asvaugy3IQmtkp3zCdaR6JCEiGPdf58nG/jUgv4zpsjsfm/4eWS7kaXkhFzV+ppiFO3abyOe7hCec5Nd5xfNN9y6bmoagUG8OIDK+VdfrL5sc1QaHQmKoQNHBoPb+v17sNqWKAbHGXdc4rg5ZLGKoWEMRLT+K/UsPV1CgN37UZyth4LHmpWPvRAqS5TTidki1ZYcdd7VOJz7XgCG55n7UvyfFzwdBszaEfJQbi43QNTHAZtZW/9BjMrl+Ts3tiGyMRYV4Dnjqvz5hYKJnaCzAPn96YF9E3W1Nnylf5tV9Mlvfxm5PdtrAXshTrjRgsikSrIWy8FQ6YfTgxuLoS09//9woFzSRZ7d7K7jXPP8AgVU9TvEMe/xkpjdR/epLL0=
+X-MS-Office365-Filtering-Correlation-Id: d7498057-ab51-499e-822a-08d3f1f33209
+X-Microsoft-Exchange-Diagnostics:
+	1;SN1PR04MB2061;2:ZkgOYFsCjPiBRmGbku2G2PKZMsuRZl6u88GacYzP8DdIwvIdW8HUryFK08vzxV+BVwjH/HU3F9RX+NwnnJyZQ3C2Oe3AT/nPHlNxEqIhAEqiQNrCS4dBBC6CE5mXVcxmGxN0h94fJfRCexHJa/pwAeXWJYof1ntOFzlFBywTZ2XcWtZ9kov1CHo9vfewIlKFBXtE2xaMezTPpKWIQYswkg==;3:d5nNb8tRgDSo7yyoiZ2XG7dxcnzHogwGrCEE3ev/JejKyYtQ2P1ZC/n9uUZRzAVL9Lsmw1rL0ohyGmVkTHiVKxWLxounTDmW03XBdF4qO32U1EMLNp29iYwnG16lnljUl45kK5oCUDWtHCxuSEg5GXkpbHziM/4xp8zakDcs+05NEVameb/0U88Nxj/u82xWmEBVCE8YEougG0a6xTgAO1LJCWgP59NsN4IuS2f18TSmN8vQQL+cT9YLurdQD+wh;25:k6wwHXQp8Ktca6ruPpiTeyBrF5RoDQ9xRuDdqmpITtTsi4PptGG6bXKV/BXflhCtxUrUkJcxR4mRF523dtfAFwX7Ws+QwgEnrZBhyoLMsu7nMSPakdSL5C6jBVhVzJsoRNjYt5Gid9xC1WLOCXieuF8Twz3bu4/YiSiXn9v76VKhMAxQV+MWn/YGo2VAZs1aJaC4WElbhiO7IQ2ix6uEkCr9taXdHMpmbOGaIHVufbhSWm7vConjgu8NlTn3l/lu0QnS+mCXcxEF28OpGeLWHbabYt6e6ZGxJNipD782aHdUvIUJ4AeeJ9E8/5ZMOsH35yRMmY0wTIPfKOqLEmpOrO+oEjwstdIKa3Fg59c3uJb54ednkQAS3mqemXW8q2FF/jQXA3oXpKnYEy/vjdD3ExwMYkUQPVqG9SvuQRZEamDg7FQZBICqYiSDgax8HA1B
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:SN1PR04MB2061;
+X-Microsoft-Exchange-Diagnostics:
+	1;SN1PR04MB2061;31:StMJvgWp41eM6jeASjRpiRxbiRq/vFzebfWNfUtkUCkyJUfz1sXZKaUQE6ENWgYmQkjU1U9jrIGZxaB22nCnJ7nTzZ6cR4BFd6gIrXGmO1xUWk4eMgg0aVG5LXRvi38EOVfn3njtP8R4s0IbhGLzqgfXT7uPA/X2mGsipetLW9Lh6g6CCjmIx1grrzrzQZqgCiqcwVtWTHN32ieZ9wUTbvnbbdGqfqnZ+Qp6ZDxOReGM8Tpyx/8tzI3J+FDA1mbp;20:vCP7W+NQ+rsELhs+WN+dRIsK80mYrpj8wJobH4MEQW2egS2WZaVfW7q5/kBhLRPKBE+TbDRN783ZXbAZCaZc1x3Leydh/uOEvw5aN2nuP1dQLToIx9WnsIddImZRUw4+hXnGDcvD3W6cX9/uqsOqiaBGLC44TQOkJz2N3MokDdjLkvWSmn5Tv6SSYV38FNpF4PJjL+FLrU+R0pJi1ChHrvbTrpWSC1E/MWlbjc0urhNAuT9gCDO40Lm2iSQdLKFa7J5fE67EszeonhcHM23bphJJ6LZhdPpDnpDnWq1pyYxdWdOTmxymEKOmhD1TrDyuYOnS9qlF2KO/JGFYqpYyqdYN20rt1XnOytKnyMiveuWH1o0DBDpSnFZAqnZE7eZrTKDqA0rzi8iJGSslwDKFOhcpPBbmOGwC87RlbnOBbLRMX1QkXVxR6el3LN6L0Khb3xk3rYuSya8dU5XUvFmnYFy9J/M75Y1ICuXuluM8wDkQ3JJEOJaGDMHAt8wDNxwt
+X-Microsoft-Antispam-PRVS:
+	<SN1PR04MB20611B7F8A6950084945F245E1DA0@SN1PR04MB2061.namprd04.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(13012025)(13020025)(5005006)(8121501046)(3002001)(10201501046)(6055026);SRVR:SN1PR04MB2061;BCL:0;PCL:0;RULEID:;SRVR:SN1PR04MB2061;
+X-Microsoft-Exchange-Diagnostics:
+	1;SN1PR04MB2061;4:i1DLUgjDkMbZNTn6k6fTNZYSe5CUkmQjgJ6iNHl2EzIYdVqiVwGMy2Vyeb7Mg2pmweN3VD9vPdOf5uhDkbeodf83sGXa7yL+uh7nvNi80F1Gn/cgVQLRMg11Ayw1LfvQc/PB2PepaBN7f5KxcjDQZdEictPcb85xw2JLZIkaAODlZaCz/L+iyX7h3H6q3+c+DCv7eYW/TDAlWmSR9oGN9znZNHQZ624B9b56mNDwt+r/z1s54XhEFN812lLcPR5tb1vGZ1aAO82d9w1ehcgeBAR2hvKLIg3LsXMm30Ru3TvwCJMJqpqHSyxC2mYCmwd2NoAfVKxFSgzWVmtOPpoe5gdmn5JtPyCe832oGsa6xlbxpjhRbmkbtt5O6sBKbNeIrLgn0CvE5G4sVeAJqt+Fybfd9vg22olLndq+NAfzuv0aPwh9g5nAN9xuHSsQynSy4+MhPCRkNXL/98PbzZ3xgQ==
+X-Forefront-PRVS: 00922518D8
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;SN1PR04MB2061;23:T3rDBY8a8vJWlWjIHC8fJjMqWJY+kA7xw2qFF7QkQ?=
+ =?us-ascii?Q?qHAhfQh0qYliqJc5dx7mrt0P473OCPUsbr1WPXnzX32FKeHIKQlu4ud/ziiE?=
+ =?us-ascii?Q?5oWkRtNkBVQJJJaY4PdxyV5YPa9t5IcJ/9eXJiDoacyk0JLvvVRuwCUfIEfG?=
+ =?us-ascii?Q?ii0OoXZbNnNYHCeuHxpbuo7vu26Bqq8ji31bUTk4Ntoyyew0FHiBXe5QNpZh?=
+ =?us-ascii?Q?KwX/t6sklfKZKLtSTBdm+fOLaqSMGHeIo6MBx0buMQv8Fs9ATvTzn3p0dvpt?=
+ =?us-ascii?Q?xZazb7ceOPDdWxV+J40xo7GFfzJd8YFWP0CW4Tuv0YU/G4ngfm7UVU2/pHuR?=
+ =?us-ascii?Q?l+vT4RcwOOvYyXC8TfBsTLdju2ykCF68Q5Uv8IUdDQwmqqgIK1o1qDmaukpC?=
+ =?us-ascii?Q?X5yiTSeZ0T9CwQmr3ICsP4tJTOv66bR2yk7Z7114+btgBVMqm3yc1OjltGR/?=
+ =?us-ascii?Q?YTVjQlZ3IGzxYogVaeSXtAZGaYdcbuV1RSx1jXhTk/W+jYC/VLYWjnS2bZ+M?=
+ =?us-ascii?Q?OMqtjegKJ3l2sJZac2h6SkXmiVuRNfkYHFjBQaMgluZZf7mXSCY0W0ungxMX?=
+ =?us-ascii?Q?loBxjLS6xy6/zEy8I/hZjXEVnJ7iXukH1yzS4roZOrRhAchE0j/MecuFY5P2?=
+ =?us-ascii?Q?luyeG6Ajas9HUh9S9e/zkj1zspA+c0ekmoOv0IM/oRR32S5BTkf00JbxSxQL?=
+ =?us-ascii?Q?RbfaymiSjSYzSjsY0aojuVuZq3mPlSabJTm8LSKVocWAxDPeBlRdN/YM/NFr?=
+ =?us-ascii?Q?5Hujex0Yp0JYOtkbx1jWhZ2/9vr3xMm228ID4dBI8oCxDOmrZLk9e+sfAasN?=
+ =?us-ascii?Q?lNokxFPjHKE67yuRCLjxOBkBlgn1U4ZgbFgbCFXtUU9zOkLwPLA/EgXZzzYb?=
+ =?us-ascii?Q?IGp1seH5+/gA16SgkJ+Z8PD0CJSUJXbQgz2cJPhArdYwKUoNH6q9tcMLYiAX?=
+ =?us-ascii?Q?n8rYjEBGE+IaM6ONHpOqiuzpadMHNHOAzBNQLfRJRlaAKCTqsbKBwMEPYXDd?=
+ =?us-ascii?Q?xz2vn9fs4+Hpyi3aIAUafQfTRpKQnd1q3lKzBMm7DE62c4v7zLvLk+BjlSQf?=
+ =?us-ascii?Q?2JEGuBU1OUMIODOyfF+eU/C4XlHBX6u9vRE5bCjieZLonc3MOlGWC4SyZqAc?=
+ =?us-ascii?Q?7BfkZEFeg1LbQGzkM2jhuzpq0Sn/uixH1eZ3x6JtlcF49w8fbLGYqHEFYbby?=
+ =?us-ascii?Q?++GrJS8aS/l453uA43FlMFIqBDekDLv/nzXoU1oihxeAyGmSlKQhxexOprJF?=
+ =?us-ascii?Q?83CSJDnyB4nCk9iIXu/HU0Z6dE9bQFqcczkkf3SrLwwzquA/8jf5yfgdmQgL?=
+ =?us-ascii?Q?quDSZ9Nrgg1JBYxBSbI119W8MCy6LvEsX40r+Dk0WdcIxRHLz/iUxUjIxejt?=
+ =?us-ascii?Q?7KgFA/IBXE1CzR/gWoGYHoV3o/4urjV0LH45WR1X0FBQK4havVy3lihJDEGb?=
+ =?us-ascii?Q?QXEcPb8e4PNOkKAwh06iZ8SBbUeYlO/xst3Y5E8pYl4FXpMXK2+?=
+X-Microsoft-Exchange-Diagnostics:
+	1;SN1PR04MB2061;6:VpR88b0erAbsPcQ5ZdGNh7uLX7xbeZN1wgFFlEfwKlQwn2G0D5uxvLy2S+W0dthwmV/gu9JcSRFMwHI8WD+gUptNP8nVm2nqQyzgVkLMamsrXvv9PboO5w703VzuhMUm+k2dBK/cBLG6WJD6GHQjIim3zYTPL9LSawb4tBMY6KYVKkt3cUEBA4XmUuEZL+o18zuSXvCgVDS/htoPUWsJsa2e/ED3VMQFtqS7UZn+hnHbw5UK0oUVVvWEdGv7jOcE2j5WF9Jj9M8cekJVKteX02qGC2WXJ/1b74IKpk5M3cclF6Xn0BDs1L6m+SSnR/UpxyoJC2fopzXKjBe7E8KoAldqkpNvxbq8z5/r5AeLoow=;5:YWecyEC7+KOtne03W++6Xy19D8ybaoohBITx0TDLi2MZMgCesoSZZE6aw5fV9lltVP1/JHQPKdb53Q/XRq079324BUFDYemFDZudlu+zv128q6Ti/pqgDtp9uaNX5tcdF81z8E4kKBJDw2luDfZOtw==;24:zzbeR0grQhmpUfcIuFw9m4x5khiehELyzs9poBH4pqbNuZKX7GkCos/CnNkmsVaNTcX0if+v/q6dMPwPZ784JgIXciuHfLHR7F+e+pxqAmo=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics:
+	1;SN1PR04MB2061;7:Pzz1P0lGJNr346tEbNT6hmhpQk45zsQubZjuPqZ/DIwFFguyZ/3hw9X9Xweund9mZgHoIxP/6wLFcxBtrmdxhuv1jCDcLOx31FpYiFeBm2L4oSPGUj4GfaW/BN5laYXbYjEnjjMeyePqi3UfX6y/xqfo08RlU7ZoIIJRD/Sx5uXvQybRH/cLp1CFJMUA1rLPGp8f0HpYoQ9XrU3+w5szsb23moEz9FKtBEBAx6jolOaoI8jM6V4QXz7w1YAZU1z9OIPQQytU0lyXBylF4+AggtxCWAnsmMAFeU7iylyt9m2A7KWG51M379So95TEgHP89/WTWoxO9/m1aat817Fyo60R/NzO81xq2cBlvJgz3e4=
+X-OriginatorOrg: rona.ca
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Oct 2016 16:25:20.5706
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: f0f705ff-3d3e-4c24-854c-6d0b20b2b10c
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=f0f705ff-3d3e-4c24-854c-6d0b20b2b10c;Ip=[199.188.60.44];Helo=[outlook.rona.ca]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR04MB2061
+
+------=_Part_1068_19128540.1476203002783
+Content-Type: multipart/related;
+	boundary="----=_Part_1069_8367341.1476203002783"
+
+------=_Part_1069_8367341.1476203002783
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<!-- Generated by Oracle BI Publisher 10.1.3.4.2 -->
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+<title>Impression Ch=C3=A8que</title>
+<style type=3D"text/css" id=3D"internalStyle">
+.c0 {height: 11.56pt;}
+.c1 {width:23.076%;background-color: #ffffff;}
+.c2 {line-height: 27.744pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 5.4pt;margin-right: 5.399pt;}
+.c3 {font-family: 'Times New Roman';font-size: 24.0pt;color: #000000;backgr=
+ound-color: #ffffff;}
+.c4 {width:36.923%;background-color: #ffffff;}
+.c5 {text-align: center;line-height: 11.56pt;margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;}
+.c6 {font-family: 'Times New Roman';font-size: 9.0pt;color: #000000;backgro=
+und-color: #ffffff;}
+.c7 {font-family: 'Times New Roman';font-size: 10.0pt;color: #000000;backgr=
+ound-color: #ffffff;}
+.c8 {width:18.461%;background-color: #ffffff;}
+.c9 {text-align: right;line-height: 11.56pt;margin-top: 0.0pt;margin-bottom=
+: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;}
+.c10 {width:21.538%;background-color: #ffffff;}
+.c11 {line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 5.399pt;margin-right: 5.4pt;}
+.c12 {height: 16.184pt;}
+.c13 {margin-top: 0.0pt;margin-bottom: 0.0pt;}
+.c14 {height: 13.872pt;}
+.c15 {width:100.0%;background-color: #ffffff;}
+.c16 {text-align: center;line-height: 13.872pt;margin-top: 0.0pt;margin-bot=
+tom: 0.0pt;}
+.c17 {font-family: 'Times New Roman';font-size: 12.0pt;color: #000000;backg=
+round-color: #ffffff;}
+.c18 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-righ=
+t: auto;width: 585.0pt;border-collapse: collapse;}
+.c19 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-righ=
+t: 5.9pt;}
+.c20 {text-align: center;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 6.0pt;margin-right: 5.9pt;}
+.c21 {height: 31.212pt;}
+.c22 {width:18.237%;background-color: #ffffff;}
+.c23 {line-height: 10.404pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 3.5pt;margin-right: 3.45pt;}
+.c24 {font-family: 'Times New Roman';font-size: 9.0pt;color: #000000;}
+.c25 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 3.5pt;margin-righ=
+t: 3.45pt;}
+.c26 {width:81.762%;background-color: #ffffff;}
+.c27 {text-align: justify;line-height: 10.404pt;margin-top: 0.0pt;margin-bo=
+ttom: 0.0pt;margin-left: 3.55pt;margin-right: 2.5pt;}
+.c28 {font-family: 'Arial';font-size: 9.0pt;color: #000000;}
+.c29 {height: 9.0pt;}
+.c30 {text-align: center;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 3.5pt;margin-right: 3.45pt;}
+.c31 {text-align: center;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 3.55pt;margin-right: 2.5pt;}
+.c32 {line-height: 10.404pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 3.55pt;margin-right: 2.5pt;}
+.c33 {text-align: -moz-center;}
+.c34 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-right: auto;margin-left=
+: auto;width: 576.0pt;border-collapse: collapse;}
+.c35 {line-height: 10.404pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 6.0pt;margin-right: 5.9pt;}
+.c36 {height: 10.404pt;}
+.c37 {font-family: 'Courier New';font-size: 8.0pt;color: #000000;}
+.c38 {line-height: 10.404pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 3.55pt;}
+.c39 {width:39.062%;background-color: #ffffff;}
+.c40 {line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 3.5pt;margin-right: 3.5pt;}
+.c41 {font-family: 'Courier New';font-size: 10.0pt;color: #000000;}
+.c42 {width:25.0%;background-color: #ffffff;}
+.c43 {text-align: right;line-height: 11.56pt;margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 9.0pt;margin-right: 3.5pt;}
+.c44 {width:35.937%;background-color: #ffffff;}
+.c45 {text-align: right;line-height: 11.56pt;margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 3.5pt;margin-right: 3.5pt;}
+.c46 {height: 25.682pt;}
+.c47 {border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bottom=
+-style: solid;width:18.75%;background-color: #ffffff;}
+.c48 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 3.5pt;margin-righ=
+t: 3.5pt;}
+.c49 {border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bottom=
+-style: solid;width:10.937%;background-color: #ffffff;}
+.c50 {text-indent: -1.15pt;line-height: 13.872pt;margin-top: 0.0pt;margin-b=
+ottom: 0.0pt;margin-left: 3.5pt;margin-right: 3.5pt;}
+.c51 {border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bottom=
+-style: solid;width:14.062%;background-color: #ffffff;}
+.c52 {text-align: right;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left:=
+ 3.5pt;margin-right: 3.5pt;}
+.c53 {border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bottom=
+-style: solid;width:15.625%;background-color: #ffffff;}
+.c54 {border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bottom=
+-style: solid;width:26.562%;background-color: #ffffff;}
+.c55 {height: 9.248pt;}
+.c56 {width:18.75%;background-color: #ffffff;}
+.c57 {line-height: 9.248pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 3.5pt;margin-right: 3.5pt;}
+.c58 {width:10.937%;background-color: #ffffff;}
+.c59 {width:14.062%;background-color: #ffffff;}
+.c60 {text-align: right;line-height: 9.248pt;margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 3.5pt;margin-right: 3.5pt;}
+.c61 {width:15.625%;background-color: #ffffff;}
+.c62 {width:26.562%;background-color: #ffffff;}
+.c63 {height: 10.0pt;}
+.c64 {height: 11.81pt;}
+.c65 {border-top-width: 0.5pt;border-top-color: #000000;border-top-style: s=
+olid;width:18.75%;background-color: #ffffff;}
+.c66 {border-top-width: 0.5pt;border-top-color: #000000;border-top-style: s=
+olid;width:10.937%;background-color: #ffffff;}
+.c67 {border-top-width: 0.5pt;border-top-color: #000000;border-top-style: s=
+olid;width:14.062%;background-color: #ffffff;}
+.c68 {border-top-width: 0.5pt;border-top-color: #000000;border-top-style: s=
+olid;width:15.625%;background-color: #ffffff;}
+.c69 {border-top-width: 0.5pt;border-top-color: #000000;border-top-style: s=
+olid;width:26.562%;background-color: #ffffff;}
+.c70 {height: 16.0pt;}
+.c71 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-righ=
+t: 5.4pt;}
+.c72 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-righ=
+t: auto;width: 576.0pt;border-collapse: collapse;}
+</style>
+</head>
+<body>
+<table class=3D"c18">
+<tr class=3D"c0">
+<td valign=3D"top" rowspan=3D"2" class=3D"c1"><p class=3D"c2"><span class=
+=3D"c3"><b>RONA</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c4"><p class=3D"c5"><span class=3D"c6"><b>Insta=
+nce</b></span><span class=3D"c7">: SEBSPRD</span></p>
+</td>
+<td valign=3D"top" class=3D"c8"><p class=3D"c9"><span class=3D"c7"><b>Run D=
+ate:</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c10"><p class=3D"c11"><span class=3D"c7">11-Oct=
+-2016 12:23</span></p>
+</td>
+</tr>
+<tr class=3D"c12">
+<td valign=3D"top" class=3D"c4"><p class=3D"c13"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c8"><p class=3D"c9"><span class=3D"c7"><b>Page:=
+</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c10"><p class=3D"c11"><span class=3D"c7">1</spa=
+n><span class=3D"c7"> of </span><span class=3D"c7">1</span></p>
+</td>
+</tr>
+<tr class=3D"c14">
+<td valign=3D"top" colspan=3D"4" class=3D"c15"><p class=3D"c16"><span class=
+=3D"c17"><b>Send Separate Remittance Advices</b></span></p>
+</td>
+</tr>
+</table>
+<p class=3D"c19"><br/></p>
+<p class=3D"c19"><br/></p>
+<div class=3D"c33" start =3D "center"><table class=3D"c34">
+<tr class=3D"c21">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Fr=
+om</b></span></p>
+<p class=3D"c25"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c27"><span class=3D"c28">RONA =
+inc.</span></p>
+<p class=3D"c27"><span class=3D"c28">220, chemin du Tremblay</span></p>
+<p class=3D"c27"><span class=3D"c28">Boucherville&nbsp; Canada J4B 8H7</spa=
+n></p>
+</td>
+</tr>
+<tr class=3D"c29">
+<td valign=3D"top" class=3D"c22"><p class=3D"c30"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c31"><br/></p>
+</td>
+</tr>
+<tr class=3D"c21">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>To=
+ the order of</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">CHAIN=
+ SAW CLINIC LTD</span></p>
+<p class=3D"c32"><span class=3D"c28">2598 WESTON ROAD (S.OF HWY 401)</span>=
+</p>
+<p class=3D"c32"><span class=3D"c28">WESTON ON Canada M9N 2A9</span></p>
+</td>
+</tr>
+</table>
+</div><p class=3D"c19"><br/></p>
+<p class=3D"c35"><span class=3D"c28">The following payment was issued</span=
+></p>
+<p class=3D"c19"><br/></p>
+<div class=3D"c33" start =3D "center"><table class=3D"c34">
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Pa=
+yment number</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">00102=
+7436</span></p>
+</td>
+</tr>
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Pa=
+yment date</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">2016-=
+10-13</span></p>
+</td>
+</tr>
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Ba=
+nk</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">BANK =
+OF MONTREAL</span><span class=3D"c37"> </span></p>
+</td>
+</tr>
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Ac=
+count</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c38"><span class=3D"c28">10049=
+77</span></p>
+</td>
+</tr>
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Pa=
+yment currency</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">CAD</=
+span></p>
+</td>
+</tr>
+<tr class=3D"c36">
+<td valign=3D"top" class=3D"c22"><p class=3D"c23"><span class=3D"c24"><b>Pa=
+yment amount</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c26"><p class=3D"c32"><span class=3D"c28">395.0=
+8</span></p>
+</td>
+</tr>
+</table>
+</div><p class=3D"c19"><br/></p>
+<p class=3D"c19"><br/></p>
+<p class=3D"c19"><br/></p>
+<table class=3D"c72">
+<tr class=3D"c0">
+<td valign=3D"top" colspan=3D"3" class=3D"c39"><p class=3D"c40"><span class=
+=3D"c41"><b>Supplier</b></span><span class=3D"c41">: CHAIN SAW CLINIC LTD</=
+span></p>
+</td>
+<td valign=3D"top" colspan=3D"3" class=3D"c42"><p class=3D"c43"><span class=
+=3D"c41"><b>Date</b></span><span class=3D"c41">: 2016-10-13</span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c44"><p class=3D"c45"><span class=
+=3D"c41"><b>Payment number</b></span><span class=3D"c41">: 001027436</span>=
+</p>
+</td>
+</tr>
+<tr class=3D"c46">
+<td valign=3D"top" class=3D"c47"><p class=3D"c48"><br/></p>
+<p class=3D"c40"><span class=3D"c41"><b>Invoice</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c49"><p class=3D"c50"><br/></p>
+<p class=3D"c40"><span class=3D"c41"><b>Date</b></span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c51"><p class=3D"c52"><br/></p>
+<p class=3D"c45"><span class=3D"c41"><b>Gross</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c51"><p class=3D"c52"><br/></p>
+<p class=3D"c45"><span class=3D"c41"><b>Discount</b></span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c53"><p class=3D"c52"><br/></p>
+<p class=3D"c45"><span class=3D"c41"><b>Net</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c54"><p class=3D"c48"><br/></p>
+<p class=3D"c40"><span class=3D"c41"><b>Description</b></span></p>
+</td>
+</tr>
+<tr class=3D"c55">
+<td valign=3D"top" class=3D"c56"><p class=3D"c57"><span class=3D"c37">2903<=
+/span></p>
+</td>
+<td valign=3D"top" class=3D"c58"><p class=3D"c57"><span class=3D"c37">2016-=
+05-25</span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c59"><p class=3D"c60"><span class=
+=3D"c37">147.47</span></p>
+</td>
+<td valign=3D"top" class=3D"c59"><p class=3D"c60"><span class=3D"c37">0.00<=
+/span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c61"><p class=3D"c60"><span class=
+=3D"c37">147.47</span></p>
+</td>
+<td valign=3D"top" class=3D"c62"></td>
+</tr>
+<tr class=3D"c55">
+<td valign=3D"top" class=3D"c56"><p class=3D"c57"><span class=3D"c37">2906<=
+/span></p>
+</td>
+<td valign=3D"top" class=3D"c58"><p class=3D"c57"><span class=3D"c37">2016-=
+05-24</span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c59"><p class=3D"c60"><span class=
+=3D"c37">45.20</span></p>
+</td>
+<td valign=3D"top" class=3D"c59"><p class=3D"c60"><span class=3D"c37">0.00<=
+/span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c61"><p class=3D"c60"><span class=
+=3D"c37">45.20</span></p>
+</td>
+<td valign=3D"top" class=3D"c62"></td>
+</tr>
+<tr class=3D"c55">
+<td valign=3D"top" class=3D"c56"><p class=3D"c57"><span class=3D"c37">3023<=
+/span></p>
+</td>
+<td valign=3D"top" class=3D"c58"><p class=3D"c57"><span class=3D"c37">2016-=
+07-26</span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c59"><p class=3D"c60"><span class=
+=3D"c37">157.21</span></p>
+</td>
+<td valign=3D"top" class=3D"c59"><p class=3D"c60"><span class=3D"c37">0.00<=
+/span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c61"><p class=3D"c60"><span class=
+=3D"c37">157.21</span></p>
+</td>
+<td valign=3D"top" class=3D"c62"></td>
+</tr>
+<tr class=3D"c55">
+<td valign=3D"top" class=3D"c56"><p class=3D"c57"><span class=3D"c37">3087<=
+/span></p>
+</td>
+<td valign=3D"top" class=3D"c58"><p class=3D"c57"><span class=3D"c37">2016-=
+09-08</span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c59"><p class=3D"c60"><span class=
+=3D"c37">45.20</span></p>
+</td>
+<td valign=3D"top" class=3D"c59"><p class=3D"c60"><span class=3D"c37">0.00<=
+/span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c61"><p class=3D"c60"><span class=
+=3D"c37">45.20</span></p>
+</td>
+<td valign=3D"top" class=3D"c62"></td>
+</tr>
+<tr class=3D"c63">
+<td valign=3D"top" class=3D"c56"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c58"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c59"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c59"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c61"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" class=3D"c62"><p class=3D"c48"><br/></p>
+</td>
+</tr>
+<tr class=3D"c64">
+<td valign=3D"top" class=3D"c65"><p class=3D"c40"><span class=3D"c41"><b>To=
+tal</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c66"><p class=3D"c48"><br/></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c67"><p class=3D"c60"><span class=
+=3D"c37"><b>395.08</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c67"><p class=3D"c60"><span class=3D"c37"><b>0.=
+00</b></span></p>
+</td>
+<td valign=3D"top" colspan=3D"2" class=3D"c68"><p class=3D"c60"><span class=
+=3D"c37"><b>395.08</b></span></p>
+</td>
+<td valign=3D"top" class=3D"c69"><p class=3D"c48"><br/></p>
+</td>
+</tr>
+<tr class=3D"c70">
+<td valign=3D"top" colspan=3D"8" class=3D"c15"><p class=3D"c71"><br/></p>
+<p class=3D"c71"><br/></p>
+</td>
+</tr>
+</table>
+<p class=3D"c19"><br/></p>
+<p class=3D"c20"><br/></p>
+<p class=3D"c20"><br/></p>
+</body>
+</html>
+
+------=_Part_1069_8367341.1476203002783--
+
+------=_Part_1068_19128540.1476203002783--

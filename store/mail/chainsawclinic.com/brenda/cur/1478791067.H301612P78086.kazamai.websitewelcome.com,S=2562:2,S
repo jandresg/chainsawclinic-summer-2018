@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 10 Nov 2016 09:17:47 -0600
+Received: from mailnull by kazamai.websitewelcome.com with local (Exim 4.87)
+	id 1c4r6p-000KJM-61
+	for brenda@chainsawclinic.com; Thu, 10 Nov 2016 09:17:47 -0600
+X-Failed-Recipients: katja@freststartclean.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@kazamai.websitewelcome.com>
+To: brenda@chainsawclinic.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1478791067-eximdsn-1958919231
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1c4r6p-000KJM-61@kazamai.websitewelcome.com>
+Date: Thu, 10 Nov 2016 09:17:47 -0600
+
+--1478791067-eximdsn-1958919231
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  katja@freststartclean.com
+    host cm.websitewelcome.com [108.167.139.16]
+    SMTP error from remote mail server after RCPT TO:<katja@freststartclean.com>:
+    550 5.1.1 <katja@freststartclean.com> recipient rejected
+
+--1478791067-eximdsn-1958919231
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; kazamai.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;katja@freststartclean.com
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <katja@freststartclean.com> recipient rejected
+
+--1478791067-eximdsn-1958919231
+Content-type: text/rfc822-headers
+
+Return-path: <brenda@chainsawclinic.com>
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:50080 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1c4r6Z-000KEm-UE
+	for katja@freststartclean.com; Thu, 10 Nov 2016 09:17:45 -0600
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <katja@freststartclean.com>
+Subject: Snow blowers repaired balance due $237.61
+Date: Thu, 10 Nov 2016 10:17:30 -0500
+Message-ID: <003501d23b65$8ebe2f50$ac3a8df0$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0036_01D23B3B.A5ED3060"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdI7Y4lqvIj0f03NR7GI2cI72DgjNQ==
+Content-Language: en-ca
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1478791067-eximdsn-1958919231--

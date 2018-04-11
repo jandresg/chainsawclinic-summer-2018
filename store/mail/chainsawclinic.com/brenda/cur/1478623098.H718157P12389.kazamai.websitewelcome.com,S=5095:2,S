@@ -1,0 +1,145 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 08 Nov 2016 10:38:18 -0600
+Received: from mailnull by kazamai.websitewelcome.com with local (Exim 4.87)
+	id 1c49Pe-0003Di-IK
+	for brenda@chainsawclinic.com; Tue, 08 Nov 2016 10:38:18 -0600
+X-Failed-Recipients: ashley_vandenbrink@ch.honda.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@kazamai.websitewelcome.com>
+To: brenda@chainsawclinic.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1478623098-eximdsn-201625281
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1c49Pe-0003Di-IK@kazamai.websitewelcome.com>
+Date: Tue, 08 Nov 2016 10:38:18 -0600
+
+--1478623098-eximdsn-201625281
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ashley_vandenbrink@ch.honda.ca
+    host cm.websitewelcome.com [108.167.139.16]
+    SMTP error from remote mail server after RCPT TO:<ashley_vandenbrink@ch.honda.ca>:
+    550 5.1.1 <ashley_vandenbrink@ch.honda.ca> recipient rejected
+
+--1478623098-eximdsn-201625281
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; kazamai.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;ashley_vandenbrink@ch.honda.ca
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <ashley_vandenbrink@ch.honda.ca> recipient rejected
+
+--1478623098-eximdsn-201625281
+Content-type: message/rfc822
+
+Return-path: <brenda@chainsawclinic.com>
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:59995 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1c49Pc-0003D0-Vr
+	for ashley_vandenbrink@ch.honda.ca; Tue, 08 Nov 2016 10:38:17 -0600
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <ashley_vandenbrink@ch.honda.ca>
+Subject: Debit # 9017598284 Sep 2 2016 $80.00
+Date: Tue, 8 Nov 2016 11:38:13 -0500
+Message-ID: <000001d239de$804a4680$80ded380$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01D239B4.9776AF80"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdI53jqpPU9F0B00Tx2bKwV9SDNjpQ==
+Content-Language: en-ca
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01D239B4.9776AF80
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Good morning Ashley,
+
+I have this debit to our account, I can not figure out why.
+
+Could I bother you to let me know what it pertains too.
+
+It says Generator Retail Rebate for EU3000 EAVJ 1136836
+
+Thanks
+
+Brenda
+
+
+------=_NextPart_000_0001_01D239B4.9776AF80
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-CA link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Good =
+morning Ashley,<o:p></o:p></p><p class=3DMsoNormal>I have this debit to =
+our account, I can not figure out why.<o:p></o:p></p><p =
+class=3DMsoNormal>Could I bother you to let me know what it pertains =
+too.<o:p></o:p></p><p class=3DMsoNormal>It says Generator Retail Rebate =
+for EU3000 EAVJ 1136836<o:p></o:p></p><p =
+class=3DMsoNormal>Thanks<o:p></o:p></p><p =
+class=3DMsoNormal>Brenda<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0001_01D239B4.9776AF80--
+
+
+--1478623098-eximdsn-201625281--

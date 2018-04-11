@@ -1,0 +1,810 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201003 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2532                
+POS_VISITOR 12204               
+POS_DAY 21965               
+POS_DOMAIN 3352                
+POS_LOGIN 3724                
+POS_ROBOT 3879                
+POS_WORMS 4327                
+POS_EMAILSENDER 4458                
+POS_EMAILRECEIVER 4601                
+POS_SESSION 22849               
+POS_SIDER 23062               
+POS_FILETYPES 4736                
+POS_OS 4870                
+POS_BROWSER 5052                
+POS_SCREENSIZE 5401                
+POS_UNKNOWNREFERER 5475                
+POS_UNKNOWNREFERERBROWSER 5966                
+POS_ORIGIN 6492                
+POS_SEREFERRALS 6638                
+POS_PAGEREFS 6856                
+POS_SEARCHWORDS 7519                
+POS_KEYWORDS 9855                
+POS_MISC 2194                
+POS_ERRORS 10920               
+POS_CLUSTER 3580                
+POS_SIDER_404 11017               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100401000326 293 77711 25454354218
+FirstTime 0
+LastTime 20100331224826
+LastUpdate 20100401085146 293 0 292 0 0
+TotalVisits 440                 
+TotalUnique 236                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 241                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 148 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 31 182614 16 25 32743
+1 24 64 242717 16 19 17929
+2 8 8 30663 18 22 26305
+3 10 48 473548 18 19 16528
+4 6 17 188503 22 24 45234
+5 25 57 301262 50 57 54267
+6 38 150 927318 46 52 171553
+7 218 375 1238560 19 19 29890
+8 249 666 2973419 15 16 11893
+9 137 354 2466176 11 12 0
+10 178 563 4260735 17 17 26402
+11 130 416 2891174 23 25 13665
+12 214 653 4681168 14 14 31038
+13 138 436 2174836 14 15 34305
+14 166 475 2959944 10 11 19173
+15 202 619 4004466 33 33 65378
+16 101 315 2272004 10 11 14195
+17 75 300 2035856 8 10 48011
+18 46 244 2361185 18 19 17304
+19 44 197 1832353 13 13 26585
+20 60 364 3270740 32 32 87422
+21 27 175 1591980 6 6 16030
+22 69 314 2328967 32 33 66148
+23 18 18 76229 11 14 17929
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ca 1832 5946 38298496
+us 240 665 5680733
+ru 62 72 265469
+de 37 37 208978
+gb 10 63 718353
+cn 5 22 145336
+mx 5 34 168668
+fr 1 8 88353
+br 0 11 156257
+my 0 1 35774
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 86 87064 20100331200103 0
+bot[+:,\.\;\/\\-] 67 292464 20100331201254 0
+slurp 44 176633 20100329054808 0
+jeeves 35 119441 20100328074129 0
+msnbot 23 85484 20100330162011 0
+crawl 9 47868 20100329171116 0
+no_user_agent 6 20184 20100331004450 0
+netcraft 6 18802 20100311200924 0
+robot 5 12489 20100305124921 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 647 1189656 0 0
+jpg 2082 30435576 0 0
+htm 1545 3416559 0 0
+gif 2585 10724626 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxsuse 2
+winlong 890
+winxp 4482
+win2000 20
+win98 2
+linuxfedora 10
+linux 13
+macosx 489
+win16 54
+win2003 14
+wince 22
+Unknown 118
+win2008 743
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 886
+firefox3.0.18 12
+firefox3.6 428
+chrome 108
+opera 22
+firefox3.0 2
+firefox3.6.2 114
+curl 2
+firefox3.5.2 32
+firefox3.5.3 10
+firefox1.5.0.1 2
+msie8.0 2142
+firefox3.0.3 2
+mozilla 74
+firefox1.0 9
+firefox3.5.8 444
+msie7.0 2187
+netscape4.0 2
+firefox2.0.0.2 2
+firefox1.6 1
+Unknown 96
+safari 282
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+BlackBerry8330/4.3.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/104 20100309145613
+BlackBerry8900/4.6.1.250_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/107 20100313155502
+Mozilla/4.0_(compatible;) 20100325030834
+PHP/5.2.8 20100320180353
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20100303072310
+CMS_Survey 20100324143325
+Mozilla/4.0 20100301112618
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+BlackBerry8330/4.3.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/104 20100309145613
+BlackBerry8900/4.6.1.250_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/107 20100313155502
+PHP/5.2.8 20100320180353
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20100303072310
+Yandex/1.01.001_(compatible;_Win16;_I) 20100331085751
+CMS_Survey 20100324143325
+Yandex/1.01.001_(compatible;_Win16;_H) 20100326023955
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 645 731
+From1 3 3
+From2 163 164
+From3 30 57
+From4 1351 5904
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 133 133
+search 6 6
+google_image 3 4
+yandex 2 2
+ask 1 1
+yahoo 18 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://www.lawnmowerdealers.net/display.php/6680 13 13
+http://www.ariens.com/corporate/pages/dealerlocator.aspx 7 7
+http://www.bing.com/search 5 5
+http://www.verizon.net/central/appmanager/portal/vzcentral 1 1
+http://www.yellowpages.ca/search/si/1/snowblowers/Toronto%2C+ON 1 1
+http://www.ariens.com/Corporate/Pages/DealerLocator.aspx 1 1
+http://www.skweezer.com/bellmobility/s.aspx 1 17
+http://www.yellowpages.ca/search/si/1/chainsaw+clinic/weston%2C+on 1 1
+http://translate.googleusercontent.com/translate_c 0 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 82
+chainsaw+clinic+toronto 25
+chain+saw+clinic 19
+chainsaw+clinic 12
+chain+saw+clinic+ltd 10
+chain+saw+clinic+toronto 6
+stihl+power+broom 4
+stihl+power+broom+attachments 3
+chain+saw+clinic+ltd. 3
+the+chainsaw+clinic 2
+toronto+chainsaw 2
+chainm+saw+clinic 2
+facts+about+the+blower+for+the+kombie+system+for+stihl 1
+cahinsaw+clinic 1
+honda+chainsaw 1
+chainsaw+for+concrete+toronto 1
+stihl+dealer+toronto 1
+the+chainsaw+clinic%5c 1
+mississauga+chainsaw 1
+stihl+kombisystem 1
+stihl+pole+saw 1
+2.5.7002.477 1
+chainsaw+used+toronto 1
+stihl+concrete+saw+supplier+toronto 1
+saw+clinic+outdoor+power+products 1
+stihl+mini+cultivator. 1
+unbelievable+chainsaw+in+toronto 1
+rental+generators 1
+chainsaw+clippers 1
+chain+saw+toronto 1
+power+broom+stihl 1
+%e4%e8%f1%ea%ee%ed%f2%e8%f0%ee%e2%e0%ed%e8%e5 1
+toronto+garden+centres 1
+toronto+stihl+chainsaw+retailers 1
+toronto+chain+saw+sales 1
+chain+saws+toronto 1
+stihl+pole+pruning+saw 1
+garden+stores 1
+2010-01-28t11+01+00+0000 1
+three+days+grace 1
+chain+saw+clinic+in+etobicoke 1
+stihl+gas+pole+saws 1
+chainsaw+rentals+guelph 1
+stihl+chain+saw+service.+toronto 1
+chainsaws+pickering+on 1
+lawn+equipment+rental 1
+stihl+gas+pruning+saws 1
+chain+saw+weston+toronto 1
+lawnmower+sales+toronto 1
+kombi+dethatcher 1
+chain+saw+rental+toronto 1
+chain+saw+clinic+ltd.address+%e2%80%8e 1
+commercial+power+brooms 1
+28+chainsaw+rental+toronto 1
+stihl+mm+mf+dethatcher 1
+www.chain+saw+clinic+on+weston+rd.ca 1
+chain+aw+toronto 1
+saw+chain+dealer 1
+chain+saw+clinic+toronto+on 1
+rent+saws+toronto 1
+honda+lawn+and+garden+equipment+in+toronto 1
+chainsaw+hamilton+ontario 1
+the+chainsaw+clinic+toronto 1
+gardening+stores+in+toronto 1
+husqvarna+chain+saws+toronto 1
+stihl+gas+pole+pruning+saw 1
+chain+saw+shops+ontario 1
+stihl+kombi+attachments 1
+powerequipment.ca 1
+chainsaw+courses+toronto 1
+buy+stihl+chainsaw+toronto 1
+lawn+equipment+in+toronto 1
+chain+saw+m9w+6y6 1
+backpack+commercial+pole+pruning+saws 1
+chain+saw+rental+aurora+ontario 1
+www.chainsaw+clinic.ca 1
+husqvarna+chainsaw+retail+store+in+toronto 1
+stihl+chainsaw+toronto 1
+chainsaw+repair+shop+toronto 1
+stihl+kombi+power+broom 1
+husqvarna+chainsaw+dealers+in+toronto 1
+toro+1914 1
+chainsaw+clininc 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 102
+clinic 86
+toronto 62
+chainsaw 60
+saw 58
+chain 53
+stihl 25
+power 11
+ltd 10
+broom 9
+in 7
+the 6
+saws 6
+rental 5
+pole 5
+pruning 4
+attachments 4
+gas 3
+ontario 3
+garden 3
+on 3
+lawn 3
+for 3
+kombi 3
+equipment 3
+ltd. 3
+outdoor 1
+mm 1
+clippers 1
+sales 2
+buy 1
+dealers 1
+m9w 1
+facts 1
+clinic.ca 1
+products 1
+www.chainsaw 1
+01 1
+2.5.7002.477 1
+service. 1
+guelph 1
+mf 1
+chainsaws 1
+gardening 1
+00 1
+used 1
+concrete 2
+and 1
+hamilton 1
+rentals 1
+retailers 1
+kombie 1
+unbelievable 1
+system 1
+rd.ca 1
+%e4%e8%f1%ea%ee%ed%f2%e8%f0%ee%e2%e0%ed%e8%e5 1
+etobicoke 1
+weston 2
+toro 1
+cahinsaw 1
+aw 1
+repair 1
+grace 1
+days 1
+brooms 1
+aurora 1
+dealer 2
+backpack 1
+courses 1
+centres 1
+honda 2
+mini 1
+chainm 2
+stores 2
+retail 1
+shops 1
+about 1
+clinic%5c 1
+1914 1
+6y6 1
+28 1
+commercial 2
+blower 1
+www.chain 1
+%e2%80%8e 1
+2010-01-28t11 1
+lawnmower 1
+mississauga 1
+three 1
+powerequipment.ca 1
+rent 1
+husqvarna 3
+supplier 1
+0000 1
+pickering 1
+store 1
+kombisystem 1
+ltd.address 1
+dethatcher 2
+generators 1
+clininc 1
+cultivator. 1
+shop 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 4 29498
+404 233 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 36
+/robots.txt 195 -
+/cgi/sqlsetup.cgi 1 -
+/apple-touch-icon.png 1 -
+/sales/sqlsetup.cgi 1 -
+/Scripts/sqlsetup.cgi 1 -
+/course/config-dist.php 1 -
+/cgi-bin/tickets/sqlsetup.cgi 1 -
+/MSOffice/cltreq.asp 1 -
+/tt/sqlsetup.cgi 1 -
+HTTP/1.1 2 -
+/supportticket/sqlsetup.cgi 1 -
+/cgi-bin/support/sqlsetup.cgi 1 -
+/cgi/scripts/sqlsetup.cgi 1 -
+/ttx/sqlsetup.cgi 1 -
+/m/ 1 -
+/cgi-bin/helpdesk/sqlsetup.cgi 1 -
+/cgi-bin/ttx/sqlsetup.cgi 1 -
+/crossdomain.xml 2 -
+/iphone/ 1 -
+/sqlsetup.cgi 1 -
+/config-dist.php 1 -
+/_vti_bin/owssvr.dll 1 -
+/favicon.gif 1 -
+/courses/config-dist.php 1 -
+/mobile/ 1 -
+/support/sqlsetup.cgi 1 -
+/scripts/sqlsetup.cgi 1 -
+/class/config-dist.php 1 -
+/contact/sqlsetup.cgi 1 -
+/cgi-bin/contact/sqlsetup.cgi 1 -
+/cgi-bin/sqlsetup.cgi 2 -
+/helpdesk/sqlsetup.cgi 1 -
+/scripts/ttx/sqlsetup.cgi 1 -
+/elearning/config-dist.php 1 -
+/mobi/ 1 -
+/moodle/config-dist.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 241
+99.234.221.147 1064 1165 380683 20100331175244
+89.149.244.240 35 35 200450 20100322232519
+95.108.150.235 28 28 119392 20100326023955
+206.196.111.204 27 27 84609 20100330171621
+87.250.252.240 26 26 90702 20100331085751
+205.203.134.197 16 16 37604 20100310224010
+72.53.145.147 16 103 751763 20100311184718
+70.54.110.228 16 88 310171 20100323212104
+130.63.188.141 15 91 460998 20100310150355
+173.206.242.226 12 63 543860 20100321081915
+76.66.10.191 11 64 718353 20100320174704
+38.100.41.66 11 11 51208 20100309220209
+69.58.178.29 11 11 54101 20100303072359
+174.113.81.112 11 51 192241 20100305074524
+99.227.153.192 11 96 776242 20100330131207
+76.64.141.41 11 97 1231748 20100315120622
+86.129.251.129 10 63 718353 20100327123051
+96.31.166.254 10 10 46944 20100321190725
+173.35.224.152 10 63 718353 20100317104151
+131.137.245.199 10 63 638038 20100325152020
+70.53.92.116 10 73 518074 20100328220118
+207.219.210.220 10 63 718353 20100331123623
+174.91.24.125 10 44 290672 20100318074248
+142.107.23.191 9 60 655824 20100326082209
+174.117.247.139 9 74 380408 20100330172154
+216.66.141.133 4 20 95884 20100313070645
+174.112.188.133 3 18 80315 20100330212857
+66.148.67.100 2 2 4264 20100322232617
+174.117.185.38 3 17 78567 20100304085802
+64.229.14.30 4 26 168668 20100323082106
+99.226.199.31 5 37 333503 20100314172038
+174.91.8.191 4 29 245150 20100329160931
+159.39.40.177 1 12 166029 20100317114718
+66.207.215.146 5 22 145336 20100319104142
+206.130.174.42 6 52 576344 20100326105510
+75.236.234.76 1 12 166029 20100319220920
+99.233.2.10 5 22 145336 20100327091450
+205.189.194.252 2 8 94721 20100329123955
+208.80.193.34 2 2 9682 20100323195420
+24.138.104.213 1 12 166029 20100328220010
+67.202.38.74 2 2 4264 20100322235443
+75.119.241.74 3 18 80315 20100305170513
+115.132.94.1 0 1 35774 
+99.226.24.66 6 42 379807 20100330223227
+174.90.240.53 3 18 80315 20100329050017
+68.28.137.226 1 12 166029 20100317181525
+173.35.199.122 4 21 142844 20100328124934
+70.52.234.234 4 19 82807 20100329080357
+24.238.66.141 1 2 38266 20100330122432
+99.225.241.170 3 18 80315 20100319224645
+174.91.95.188 7 35 145336 20100303130438
+64.231.153.113 5 44 502505 20100329202545
+208.80.193.27 6 6 26738 20100331202633
+187.146.127.37 5 34 168668 20100329095203
+165.130.136.208 4 22 146965 20100322062058
+70.52.198.211 3 18 80315 20100325100251
+68.179.113.97 4 21 142844 20100318110244
+71.60.33.42 1 12 166029 20100318192015
+174.91.11.250 1 12 166029 20100316102819
+208.80.193.29 4 4 17056 20100329004428
+65.92.124.102 4 29 245150 20100310200946
+70.109.134.176 1 12 166029 20100331094954
+75.101.176.92 2 2 8528 20100304222629
+161.184.13.233 4 29 245150 20100308222647
+99.234.97.24 6 36 160630 20100311224642
+173.32.85.184 4 31 337670 20100306200814
+67.98.222.15 2 13 175801 20100323185438
+70.50.225.105 5 21 98376 20100317130812
+173.34.185.180 8 52 333072 20100331001840
+70.48.248.240 1 4 98303 20100322190559
+69.156.209.248 5 30 247642 20100318114818
+69.156.125.67 3 18 80315 20100307162124
+208.80.193.31 1 1 4264 20100309161028
+96.54.46.29 1 12 166029 20100329153535
+70.52.196.122 5 39 277670 20100329155717
+99.234.125.120 4 29 245150 20100328131331
+70.52.175.197 7 38 293671 20100308202403
+79.165.187.185 2 2 8528 20100325083352
+74.127.220.50 4 33 228352 20100304081350
+69.156.211.62 9 60 655824 20100316140808
+208.80.193.42 4 4 20518 20100327020129
+208.80.193.30 9 9 42992 20100330025348
+99.253.213.72 1 1 4264 20100319150512
+216.66.134.144 4 31 337670 20100311205354
+72.94.249.38 1 1 4264 20100329042943
+97.83.71.103 1 12 166029 20100320155757
+70.54.176.225 4 29 245150 20100327154539
+187.8.210.110 0 11 156257 
+68.171.235.46 3 18 80315 20100309145613
+64.229.30.94 4 25 127220 20100303161738
+99.226.62.31 4 20 95884 20100321204634
+99.232.134.139 8 58 245150 20100331082706
+24.101.240.199 1 12 166029 20100319200307
+99.227.74.9 4 21 142844 20100306093917
+184.73.23.37 1 1 5418 20100301143649
+99.234.103.133 4 21 142844 20100322173021
+208.80.193.58 3 3 9401 20100326232440
+99.235.84.32 3 18 80315 20100314115439
+174.91.99.46 6 43 504997 20100310164515
+165.130.136.210 1 1 2492 20100302055502
+205.189.194.249 2 7 66447 20100329123953
+74.125.75.17 1 1 9772 20100327094502
+75.152.155.189 3 18 80315 20100315014123
+174.113.65.166 3 18 80315 20100305131002
+99.226.49.166 3 18 80315 20100331150345
+207.49.66.19 4 22 146965 20100301112631
+99.232.250.63 4 26 168668 20100319144349
+24.235.177.155 4 31 337670 20100310185749
+174.118.160.7 1 7 46905 20100330070611
+12.197.245.93 1 12 166029 20100328200255
+72.69.221.101 3 18 80315 20100318144344
+89.178.93.74 3 13 37446 20100331012809
+76.68.81.218 6 33 310171 20100317144117
+142.107.14.117 6 35 402691 20100322105410
+76.70.113.56 6 33 310171 20100320113723
+99.243.174.191 5 22 145336 20100316200543
+71.86.23.38 4 29 245150 20100303105819
+99.233.226.50 5 22 147108 20100313095255
+74.59.102.163 1 12 166029 20100306095213
+68.171.235.223 4 21 142844 20100313155502
+70.49.182.202 6 40 335995 20100302153330
+75.117.144.4 1 12 166029 20100325102643
+99.225.151.167 3 18 80315 20100323012001
+65.248.232.253 1 12 166029 20100323093735
+72.39.86.240 4 29 245150 20100324211928
+192.75.239.190 5 22 145336 20100322121216
+208.115.138.254 8 8 27330 20100319100531
+38.116.192.93 6 40 396032 20100310101618
+216.13.106.197 2 2 6756 20100310013841
+64.68.164.196 1 12 166029 20100311112735
+69.165.175.162 4 21 142844 20100323140454
+208.80.193.37 6 6 26738 20100330104304
+76.64.185.226 5 30 247642 20100308123653
+174.116.219.27 7 51 593350 20100314103839
+99.235.148.152 4 31 337670 20100319161911
+70.80.19.151 1 14 262293 20100304110556
+74.100.140.232 1 12 166029 20100318195837
+69.196.138.95 3 18 80315 20100303061351
+24.141.182.62 4 29 245150 20100331224826
+99.242.33.156 5 22 145336 20100309084909
+131.104.247.136 3 18 80315 20100317092458
+174.91.96.249 4 21 142844 20100330075046
+76.66.43.150 4 26 168668 20100315194440
+99.244.15.72 3 18 80315 20100324085757
+174.117.45.80 9 56 416310 20100313150343
+99.225.167.27 4 29 245150 20100328193755
+70.50.230.18 5 37 333503 20100324113420
+24.244.250.30 1 12 166029 20100329160058
+69.64.73.245 4 22 146965 20100319084008
+70.53.50.171 2 10 109434 20100330171946
+174.132.239.74 3 3 9220 20100309183957
+74.52.245.146 9 9 28203 20100320173143
+76.11.70.200 4 19 82807 20100330123919
+207.236.90.177 3 18 80315 20100311101415
+99.254.48.202 4 21 142844 20100320072840
+76.70.112.86 7 30 192241 20100318075314
+74.241.146.112 1 12 166029 20100331203923
+207.164.221.18 8 42 142844 20100308141834
+64.231.19.233 7 41 398524 20100316203921
+65.94.103.40 5 32 307679 20100329161956
+65.55.109.185 1 1 5418 20100313030230
+99.230.113.12 4 26 168668 20100310134615
+205.189.194.251 0 1 1724 
+76.19.12.249 1 12 166029 20100319034540
+67.81.233.102 1 8 88353 20100326201634
+128.100.203.160 8 51 260719 20100318130127
+74.15.68.143 5 21 98376 20100320125614
+99.254.153.92 5 36 400199 20100321134548
+173.206.46.48 1 8 88353 20100331212706
+173.206.45.248 3 18 80315 20100331223550
+173.33.243.171 3 18 80315 20100317204647
+208.80.193.36 3 3 12792 20100309202311
+99.232.193.119 4 21 142844 20100325085109
+99.226.60.115 5 30 247642 20100322120045
+70.29.76.70 6 35 402691 20100317194901
+74.198.8.57 5 22 145336 20100321060720
+208.80.193.35 4 4 18210 20100325190410
+173.53.75.19 1 12 166029 20100313144735
+192.206.151.130 4 19 82807 20100317123914
+208.80.193.43 4 4 17056 20100328202617
+70.29.60.8 9 61 702784 20100313184348
+142.214.158.176 1 12 166029 20100301092855
+99.234.213.185 4 29 245150 20100304151457
+78.47.55.25 1 1 4264 20100302182554
+70.108.29.159 1 12 166029 20100321071039
+208.80.193.40 7 7 33310 20100328162652
+67.226.153.161 5 36 226933 20100315140747
+212.198.241.195 1 8 88353 20100313111031
+65.55.104.74 3 3 9401 20100306062915
+67.71.227.82 4 21 142844 20100317154526
+15.195.201.87 4 22 146965 20100321201228
+192.75.118.46 4 31 337670 20100316091629
+99.247.48.23 7 30 197659 20100310155621
+99.234.229.78 4 25 127220 20100323165841
+204.40.1.129 3 18 80315 20100317085325
+70.53.49.30 4 29 245150 20100330170959
+69.11.49.54 1 12 166029 20100318115527
+76.67.75.146 4 26 168668 20100319083903
+95.108.220.94 3 3 9401 20100318112844
+24.141.139.57 5 22 145336 20100330051838
+74.14.2.119 3 18 80315 20100310172802
+72.11.87.75 1 1 4264 20100319173252
+70.25.67.11 5 32 349436 20100301154707
+99.243.130.246 9 60 655824 20100304213828
+70.33.254.71 1 1 4264 20100320180353
+99.248.34.185 3 18 80315 20100306065142
+205.189.194.250 0 5 45282 
+76.70.73.127 3 18 80315 20100302105105
+99.234.231.184 4 21 142844 20100319090753
+217.29.33.131 1 1 4264 20100324143325
+72.11.87.61 1 1 4264 20100329204150
+208.80.193.28 3 3 15100 20100330062903
+206.186.8.130 4 19 82807 20100326132404
+67.72.98.45 1 12 166029 20100319045902
+199.175.111.250 9 51 311512 20100330151206
+142.245.193.11 4 20 86928 20100319100539
+122.234.200.65 5 22 145336 20100308194207
+67.55.20.175 4 31 337670 20100328153029
+70.27.88.203 7 32 264819 20100319160016
+208.80.193.33 1 1 4264 20100311053506
+70.51.149.19 3 18 80315 20100330171107
+174.91.9.64 4 21 142844 20100330085035
+208.80.193.39 3 3 16254 20100311015028
+76.66.45.4 3 18 80315 20100314105512
+76.10.154.223 5 32 307679 20100316150135
+174.117.162.155 1 12 166029 20100307152554
+24.141.50.241 6 50 590858 20100307222129
+174.89.116.184 1 1 4264 20100329193058
+99.229.121.169 4 26 168668 20100320114039
+99.248.47.105 4 20 95884 20100329192901
+99.237.251.40 4 26 168668 20100311121248
+99.235.155.207 7 42 449596 20100331190416
+173.29.80.162 1 12 166029 20100326194349
+70.54.211.51 5 32 307679 20100329141038
+74.205.209.239 3 18 80315 20100326200909
+142.240.200.10 6 37 294547 20100330122450
+208.80.193.41 3 3 13946 20100331162436
+76.69.93.234 4 31 337670 20100315100811
+151.197.50.69 3 18 80315 20100316140204
+38.116.192.92 6 36 160630 20100305112619
+205.189.194.208 0 8 36976 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20100301 81 167 772280 16
+20100302 53 102 423066 8
+20100303 68 157 678860 15
+20100304 87 242 1676373 12
+20100305 67 144 351981 14
+20100306 22 107 834784 10
+20100307 19 106 1000748 7
+20100308 88 220 1092572 12
+20100309 89 143 477221 12
+20100310 119 378 2440113 18
+20100311 82 257 1471299 15
+20100312 66 66 13946 7
+20100313 38 217 1998850 10
+20100314 24 130 1110830 8
+20100315 82 263 2067808 14
+20100316 111 308 2135731 11
+20100317 101 365 2695205 23
+20100318 66 216 1391100 16
+20100319 103 326 2291086 23
+20100320 56 235 1995978 15
+20100321 43 180 1159485 10
+20100322 84 193 1246345 17
+20100323 91 248 1424174 15
+20100324 57 144 689689 15
+20100325 84 229 1511941 16
+20100326 64 183 1418330 13
+20100327 28 134 1312091 8
+20100328 33 212 1840408 11
+20100329 86 360 2662621 21
+20100330 120 518 3371566 27
+20100331 80 309 2209936 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 32
+5mn-15mn 17
+30s-2mn 28
+2mn-5mn 15
+0s-30s 314
+15mn-30mn 11
+30mn-1h 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 647 1189656 353 81
+/main.htm 554 612171 7 135
+/contents.htm 550 351130 8 15
+/stihl.htm 101 918568 29 55
+/contactus.htm 74 165088 2 50
+/aboutus.htm 64 149520 6 17
+/toro.htm 59 308826 25 29
+/husqvarna.htm 55 301950 5 23
+/honda.htm 46 517704 4 16
+/lawnboy.htm 35 82005 1 13
+/echo.htm 7 9597 0 6
+END_SIDER

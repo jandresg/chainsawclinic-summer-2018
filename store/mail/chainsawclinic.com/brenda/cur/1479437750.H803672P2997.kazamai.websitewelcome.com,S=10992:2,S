@@ -1,0 +1,171 @@
+Return-path: <rfranske@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 17 Nov 2016 20:55:50 -0600
+Received: from mail-yb0-f193.google.com ([209.85.213.193]:34258)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <rfranske@gmail.com>)
+	id 1c7ZLC-0000j9-NU
+	for brenda@chainsawclinic.com; Thu, 17 Nov 2016 20:55:50 -0600
+Received: by mail-yb0-f193.google.com with SMTP id h184so9225065ybb.1
+        for <brenda@chainsawclinic.com>; Thu, 17 Nov 2016 18:55:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=oBE9d0GlkN4BuaklVwZiU2NXUBzKMwo91W/zBeqEC7M=;
+        b=kTVHttd/B595uq7Z3EWbioTjd8p/2lI3XDY4mvOLzPHDylBCevK2cXDG+isZn/Opbs
+         +PD+stcw5J75fY8yZVPC7lOEyZyScaKGycOeFPcVRUSD+ZOJhAe5JInQblkCdkujSROo
+         k+gbJzlze75wlXovi1mB5lBqvBLxxIdfq2NSfuZv1I4ngHvfmFGOvBhxWszLWNdkZ47p
+         Z7sLjU1+kr5Oe6oRsibvAGS1alsv1t2em8FiwGSM+9lTGUrtExQM4Gdq+8kbTMDnhKo/
+         C0LIlbzf8wexEVmI1PmZeNqsvRbv3UUQNAUWIWjpynOQwXVAP/li/grhQsOWpaavNHvs
+         07Dg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=oBE9d0GlkN4BuaklVwZiU2NXUBzKMwo91W/zBeqEC7M=;
+        b=ETp57qyfZ6I9pIDvvFJEsJLgf3C+U8pAb5UTaMT1TTTPGdvfHHUUK2oKJTmYRX1hgC
+         0o9OarGGCGMIZQPMotL9DZAn8ZMse6P4wIvbKwLrJbyQXaiD6ID2t0kjdJS/fGacZbiT
+         4QcFcxZm8wvnZAcwIZz+i2LCT/qzFv6WquIIA4MCVP9AtY3sF5uDqgchzmPpjGPGe37g
+         pWNlUm2DYstENDGtb8G6mClH066O6X2L50OsmyrEddZd40jRIU6fp9PRfK0L/grUQkjn
+         clAbSqpwngZtJ5QI7dfF4scpnAQOqMryAGjr29bIJB+MEx0RodLQtlt/sP+ZvWG1E1O8
+         8XHA==
+X-Gm-Message-State: AKaTC00zhFBl5fLIeQKiwIyq82uyPO5hGxemIGNs9NDA+pSgRlyJMZmtJN07MeRQkz53a+Ijouc2Tqs3dMgy8w==
+X-Received: by 10.37.83.134 with SMTP id h128mr3444338ybb.122.1479437740251;
+ Thu, 17 Nov 2016 18:55:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.83.12.214 with HTTP; Thu, 17 Nov 2016 18:55:39 -0800 (PST)
+From: Randall Franske <rfranske@gmail.com>
+Date: Thu, 17 Nov 2016 21:55:39 -0500
+Message-ID: <CAFGvh3JrEN6LQHEmy4wY4129=u_STJnQa+sgKms6XZgyGTX4Ow@mail.gmail.com>
+Subject: Pre -Circuit Assembly cleaning:
+To: Alessandro Vorobyov <alexvorobyov@hotmail.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Bernie Marchio <Bmarchio@hotmail.com>, Bill Ariko <margaretariko@gmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Casavant Laura <laura.casavant@gmail.com>, 
+	Caterina Zambri <zamfilcat@hotmail.com>, Darrin Hollmann <dvhollmann@gmail.com>, 
+	Dave Fowler <uniteddave@aol.com>, Dave Junnola <Junnolahomes@gmail.com>, 
+	Derick Smerchansky <smerchansky@hotmail.com>, Dino Vilardo <dinovilardo@yahoo.com>, 
+	Dinuzzo Elvi <edinuzzo@alumni.uoguelph.ca>, Filippo Zambri <zamfilippo@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, Frank Stalteri <stalteri_f@hotmail.com>, 
+	Franske RS <rsfranske@gmail.com>, Franske S <sfranske@yahoo.com>, 
+	Franske S wtbts <SFranske@jw.org>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	John Parete <john.parete@gmail.com>, Joseph Yu <josephydw@gmail.com>, 
+	Julio Pace <gppp_us@yahoo.com>, Lucy Blunt <lucyablunt@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	Nina Junnola <njunnola@gmail.com>, Panaroni Marisa <mpanaroni@gmail.com>, 
+	Paul Losacco <plosacco@rogers.com>, Peter Rothman <rothmanspainting@gmail.com>, 
+	Pierluca Belsito <pierluca.belsito@gmail.com>, Ron Robinson <brenda@chainsawclinic.com>, 
+	Rose Lommano <roselommano@yahoo.ca>, Stephanie Rucchetta <srucchetta@yahoo.com>, 
+	Teneson Floro <tenesonfloro@gmail.com>, Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, 
+	Tony Alcamo <talcamo@gmail.com>, Tony Fiorellino <tony@insureitgroup.com>, 
+	Wally Mabayoje <amabayoje@yahoo.com>, Walter Panaroni <wpanaroni@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113e5d10f9a6ea05418a70a1
+
+--001a113e5d10f9a6ea05418a70a1
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers
+We have just received a late request to share in some pre-assembly light
+cleaning.  Only one or two from our congregation have been requested.  It
+is for t*omorrow** Friday, **November 18**th*. The Start time is 9:30 and
+will go to 3 pm if possible.  A full noon meal will be provided for the
+volunteers.  Even if you can only come for a portion of this time -it would
+be appreciated very much.   If you can help please
+* let me know tonight. *Your Brother,
+ Randall
+
+--001a113e5d10f9a6ea05418a70a1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Brothers<br><div><font face=3D"Arial, sans-serif"><fo=
+nt style=3D"font-size:11pt" size=3D"2"><span style=3D"font-variant:normal">=
+<font color=3D"#000000"><span style=3D"text-decoration:none"><font style=3D=
+"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:=
+normal"><span style=3D"font-weight:normal"><span style=3D"background:transp=
+arent none repeat scroll 0% 0%">We
+have just received a late request to share</span></span></span></span></fon=
+t></span></font></span><span style=3D"font-variant:normal"><font color=3D"#=
+000000"><span style=3D"text-decoration:none"><font style=3D"font-size:10pt"=
+ size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><span st=
+yle=3D"font-weight:normal"><span style=3D"background:transparent none repea=
+t scroll 0% 0%"></span></span></span></span></font></span></font></span><sp=
+an style=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"tex=
+t-decoration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"=
+en-GB"><span style=3D"font-style:normal"><span style=3D"font-weight:normal"=
+><span style=3D"background:transparent none repeat scroll 0% 0%">
+in some pre-assembly light cleaning.=C2=A0 Only one or two from our congreg=
+ation have been requested.=C2=A0 It is for t<u>omorrow</u></span></span></s=
+pan></span></font></span></font></span><span style=3D"font-variant:normal">=
+<font color=3D"#000000"><span style=3D"text-decoration:none"><font style=3D=
+"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:=
+normal"><u><span style=3D"font-weight:normal"><span style=3D"background:tra=
+nsparent none repeat scroll 0% 0%"></span></span></u></span></span></font><=
+/span></font></span><span style=3D"font-variant:normal"><font color=3D"#000=
+000"><span style=3D"text-decoration:none"><font style=3D"font-size:10pt" si=
+ze=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><u><span st=
+yle=3D"font-weight:normal"><span style=3D"background:transparent none repea=
+t scroll 0% 0%">
+Friday, </span></span></u></span></span></font></span></font></span><span s=
+tyle=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"text-de=
+coration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-G=
+B"><span style=3D"font-style:normal"><u><b><span style=3D"background:transp=
+arent none repeat scroll 0% 0%">November 18</span></b></u></span></span></f=
+ont></span></font></span><span style=3D"font-variant:normal"><font color=3D=
+"#000000"><span style=3D"text-decoration:none"><font style=3D"font-size:10p=
+t" size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><u><b>=
+<span style=3D"background:transparent none repeat scroll 0% 0%">th</span></=
+b></u></span></span></font></span></font></span><span style=3D"font-variant=
+:normal"><font color=3D"#000000"><span style=3D"text-decoration:none"><font=
+ style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span style=3D"fo=
+nt-style:normal"><span style=3D"font-weight:normal"><span style=3D"backgrou=
+nd:transparent none repeat scroll 0% 0%">.</span></span></span></span></fon=
+t></span></font></span><span style=3D"font-variant:normal"><font color=3D"#=
+000000"><span style=3D"text-decoration:none"><font style=3D"font-size:10pt"=
+ size=3D"2"><span lang=3D"en-GB"><span style=3D"font-style:normal"><span st=
+yle=3D"font-weight:normal"><span style=3D"background:transparent none repea=
+t scroll 0% 0%">
+ </span></span></span></span></font></span></font></span><span style=3D"fon=
+t-variant:normal"><font color=3D"#000000"><span style=3D"text-decoration:no=
+ne"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span st=
+yle=3D"font-style:normal"><span style=3D"font-weight:normal"><span style=3D=
+"background:transparent none repeat scroll 0% 0%">The Start time is 9:30 an=
+d will go to 3 pm if possible.=C2=A0  A full noon meal will be provided for=
+ the
+volunteers.=C2=A0 </span></span></span></span></font></span></font></span><=
+span style=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"t=
+ext-decoration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=
+=3D"en-GB"><span style=3D"font-style:normal"><span style=3D"font-weight:nor=
+mal"><span style=3D"background:transparent none repeat scroll 0% 0%">Even
+if you can only come for a portion of this time -it would be
+appreciated very much. =C2=A0 </span></span></span></span></font></span></f=
+ont></span><span style=3D"font-variant:normal"><font color=3D"#000000"><spa=
+n style=3D"text-decoration:none"><font style=3D"font-size:10pt" size=3D"2">=
+<span lang=3D"en-GB"><span style=3D"font-style:normal"><span style=3D"font-=
+weight:normal"><span style=3D"background:transparent none repeat scroll 0% =
+0%">
+ </span></span></span></span></font></span></font></span><span style=3D"fon=
+t-variant:normal"><font color=3D"#000000"><span style=3D"text-decoration:no=
+ne"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><span st=
+yle=3D"font-style:normal"><span style=3D"font-weight:normal"><span style=3D=
+"background:transparent none repeat scroll 0% 0%">If
+you can help please<b> let me know tonight. <br></b>Your Brother,<br></span=
+></span></span></span></font></span></font></span></font></font></div><div>=
+<font face=3D"Arial, sans-serif"><font style=3D"font-size:11pt" size=3D"2">=
+<span style=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"=
+text-decoration:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=
+=3D"en-GB"><span style=3D"font-style:normal"><span style=3D"font-weight:nor=
+mal"><span style=3D"background:transparent none repeat scroll 0% 0%">=C2=A0=
+Randall</span></span></span></span></font></span></font></span><span style=
+=3D"font-variant:normal"><font color=3D"#000000"><span style=3D"text-decora=
+tion:none"><font style=3D"font-size:10pt" size=3D"2"><span lang=3D"en-GB"><=
+span style=3D"font-style:normal"><b><span style=3D"background:transparent n=
+one repeat scroll 0% 0%"></span></b></span></span></font></span></font></sp=
+an></font></font>
+
+
+<p style=3D"margin-bottom:0in;line-height:100%" align=3D"left"><br></p><p s=
+tyle=3D"margin-bottom:0in;line-height:100%" align=3D"left">=C2=A0</p>
+</div></div>
+
+--001a113e5d10f9a6ea05418a70a1--

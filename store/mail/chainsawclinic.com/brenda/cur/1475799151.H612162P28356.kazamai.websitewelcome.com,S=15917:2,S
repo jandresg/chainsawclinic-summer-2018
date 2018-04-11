@@ -1,0 +1,246 @@
+Return-path: <ltiangco@MetroSCG.com>
+Envelope-to: Brenda@chainsawclinic.com
+Delivery-date: Thu, 06 Oct 2016 19:12:31 -0500
+Received: from mail-bn3nam01on0125.outbound.protection.outlook.com ([104.47.33.125]:29644 helo=NAM01-BN3-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.86_1)
+	(envelope-from <ltiangco@MetroSCG.com>)
+	id 1bsIm7-0007GF-Cm; Thu, 06 Oct 2016 19:12:31 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=3ELogistics.onmicrosoft.com; s=selector1-MetroSCG-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=lj1+lgtrozEplc7uFSbDsvtexupT/HjlV5shhQGBoLg=;
+ b=ggjCdeMTbJ3YTPrXMbRZv+pz4x4BfmI/SLK+bc31mh+KPAjO7No9+dMwcLvampO7Zy/aHyIxvuNDz0pviORQXg/jpRrkLGYsiknCfEoGxvgzPB57+7fNDmBmINuyRy0JTql3PLOrJgO2AFa1U+1WG45yqYTXFkO/x+peJm/PbGo=
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com (10.163.121.151) by
+ BLUPR0501MB1843.namprd05.prod.outlook.com (10.163.121.153) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.659.8; Fri, 7 Oct
+ 2016 00:12:08 +0000
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) by
+ BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) with mapi id
+ 15.01.0659.014; Fri, 7 Oct 2016 00:12:08 +0000
+From: "Tiangco, LuAnne" <ltiangco@MetroSCG.com>
+To: "sales@chainsawclinic.com" <sales@chainsawclinic.com>,
+	"Brenda@chainsawclinic.com" <Brenda@chainsawclinic.com>,
+	"ron@chainsawclinic.com" <ron@chainsawclinic.com>
+Subject: Dealer Ship Notification _Honda   05787
+Thread-Topic: Dealer Ship Notification _Honda   05787
+Thread-Index: AdIgL26gg7aqywUKRoixSscA8lDI1w==
+Importance: high
+X-Priority: 1
+Date: Fri, 7 Oct 2016 00:12:08 +0000
+Message-ID: <BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60@BLUPR0501MB1841.namprd05.prod.outlook.com>
+Accept-Language: en-CA, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=ltiangco@MetroSCG.com; 
+x-originating-ip: [69.159.24.89]
+x-ms-office365-filtering-correlation-id: be61dacc-bc63-43d2-7784-08d3ee4693f7
+x-microsoft-exchange-diagnostics: 1;BLUPR0501MB1843;6:OZdou3ow8/Zw7UsN/zD4yD/sWyARi3c6l6iqE973hQjZYTgqVGXHam8PgamLS0oqgYFiLjHH3IQ8kWvx2QideqOIF6BKUuENo7eG387BIE+h4V8fQQkge8X9JxJ7BqMPuU2vqCRohJy1HlbMe5YdjFd3ImUIa78i+ZvCkEx+dfprh6rlkhYVF0iLRVpmshynvXn4M9tMasb16g49Qhory54fvs+a/fyZhOK5GNlKjh7b4qCip1OQL7Dg7zrRDPhzqetHwd1J/cJHDr8+DQ4L/mDC55/WGnODOxTGrk0z3Pfo5tQpnNKs1ijHXMmYLtdA;5:JG+sDC+5zHEp955WrD+xHgq6yjgukjK0MVncR0wcScECIf5DKWhBCGBygrBhCG3WjzUF0FPcNoUj8jIZERJ1Eb+IzMcuzxXJyG168EPeAJ0btUmviAOFZmjALejtPBwP/aeZ05VJ2P0/zN0jr4Zn+A==;24:gY5gbrRufMR9D9CljstklKXx9QwNOeMidRi59pOXKAnTHK2xziqyIy7mBQuhPHKYJx8zeS5VbCE7UTYBJFA5RE7xMWofUH3iXdf8RK5pTh8=;7:CZ2XDu/YMTVK1KaR2vP2wjaZCmHRt+/ox7cyWmncMSz65xyFAtGGZVJ+oa9lvct5zweJHWeYIDsctgJafTJQX/cnRVCY9nnsRo/ReuupvdxGfJ6WpQjB+8LmgM781Oeavs6oJ+UWurc/OM4Der55JZXAtPsidHjO+CqCWxgUGIC415KvBG9qgKEwooAhAWP14/XPEMSNQcpCYeMhxzYwqc88YGbY6HDytmRaRivkIygyxkV7t5kW9ivgACTPDJblO8nxMDLvfhBRy8yXCp2fOwnEORMWxTc4/XFqOYtxZtfBTeewOrg3VUs4j1gdrO55
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0501MB1843;
+x-microsoft-antispam-prvs: <BLUPR0501MB18438F91BAB9125A1D235ED3B6C60@BLUPR0501MB1843.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(158342451672863);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415321)(6040176)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:BLUPR0501MB1843;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0501MB1843;
+x-forefront-prvs: 0088C92887
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(199003)(40224003)(189002)(450100001)(122556002)(5660300001)(106356001)(2900100001)(16236675004)(77096005)(76576001)(99286002)(229853001)(33656002)(105586002)(107886002)(189998001)(5001770100001)(97736004)(6116002)(3846002)(102836003)(586003)(7846002)(2501003)(8936002)(9686002)(15650500001)(68736007)(3660700001)(19580395003)(19580405001)(3280700002)(7696004)(92566002)(5890100001)(11100500001)(99936001)(66066001)(2201001)(7736002)(5002640100001)(54356999)(10400500002)(50986999)(81686999)(86362001)(2906002)(87936001)(81166006)(101416001)(81156014)(74316002)(8676002)(14943795004);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR0501MB1843;H:BLUPR0501MB1841.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:fr;
+received-spf: None (protection.outlook.com: MetroSCG.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/mixed;
+	boundary="_004_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_"
+MIME-Version: 1.0
+X-OriginatorOrg: MetroSCG.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Oct 2016 00:12:08.5340
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: fdbb3d32-4b18-4512-8e39-1acfc2b8f6b7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR0501MB1843
+
+--_004_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_"
+
+--_000_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi
+
+Please print the shipment notification attached and refer to it when receiv=
+ing the shipment. It contains the shipment reference numbers, shipment deta=
+ils, and the corresponding Honda release numbers..
+
+Please advise if you are unable to open the attached excel document or if t=
+his should be sent to someone else. Send your changes or concerns to Priyan=
+ka at pjhurry@metroscg.com.
+
+SVP imprimer la notification d'exp=E9dition ci-joint et s'y r=E9f=E9rer lor=
+s de la r=E9ception de l'exp=E9dition.  Il contient les num=E9ros d'exp=E9d=
+ition de r=E9f=E9rence, d=E9tails de l'exp=E9dition, et les num=E9ros de re=
+lease  Honda correspondant.
+
+SVP aviser si vous ne parvenez pas =E0 ouvrir le document Excel ci-joint ou=
+ si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'autre. Envoyer vos changem=
+ents ou vos questions =E0 Priyanka au pjhurry@metroscg.com
+
+Dispatch                    Carrier                     ETA                =
+             Release#         Ship_ID               Serial Number          =
+           Model
+
+2016/10/06      GENERAL CARTAGE 10/07/2016      027956  SID2491762      EAA=
+T      1064410       EU1000ITC-0
+
+Thanks,
+LuAnne
+
+
+--_000_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"MS Exchange Server version rmj.rmm.rup.=
+rpr">
+<title></title>
+</head>
+<body>
+<!-- Converted from text/rtf format -->
+<p><font face=3D"Calibri">Hi </font></p>
+<p><font face=3D"Calibri">Please print the shipment notification attached a=
+nd refer to it when receiving the shipment. It contains the shipment refere=
+nce numbers, shipment details, and the corresponding Honda release numbers.=
+.</font></p>
+<p><font face=3D"Calibri">Please advise if you are unable to open the attac=
+hed excel document or if this should be sent to someone else. Send your cha=
+nges or concerns to Priyanka at pjhurry@metroscg.com.</font></p>
+<p><font face=3D"Calibri">SVP imprimer la notification d'exp=E9dition ci-jo=
+int et s'y r=E9f=E9rer lors de la r=E9ception de l'exp=E9dition.&nbsp; Il c=
+ontient les num=E9ros d'exp=E9dition de r=E9f=E9rence, d=E9tails de l'exp=
+=E9dition, et les num=E9ros de release&nbsp; Honda correspondant.</font></p=
+>
+<p><font face=3D"Calibri">SVP aviser si vous ne parvenez pas =E0 ouvrir le =
+document Excel ci-joint ou si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'=
+autre. Envoyer vos changements ou vos questions =E0 Priyanka au pjhurry@met=
+roscg.com</font></p>
+<p><font face=3D"Calibri">Dispatch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C=
+arrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ETA&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R=
+elease#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ship_ID&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se=
+rial Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model&nbsp;&nbsp;
+</font></p>
+<p><font face=3D"Calibri">2016/10/06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL =
+CARTAGE 10/07/2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 027956&nbsp; SID2491762&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1064410&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+</p>
+<p><font face=3D"Calibri">Thanks,</font> <br>
+<font face=3D"Calibri">LuAnne</font> </p>
+<br>
+</body>
+</html>
+
+--_000_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_--
+
+--_004_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_
+Content-Type: application/vnd.ms-excel; name="Honda05787-06102016.xls"
+Content-Description: Honda05787-06102016.xls
+Content-Disposition: attachment; filename="Honda05787-06102016.xls";
+	size=4608; creation-date="Fri, 07 Oct 2016 00:12:03 GMT";
+	modification-date="Fri, 07 Oct 2016 00:12:03 GMT"
+Content-Transfer-Encoding: base64
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAAAgAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+/////v////7///8EAAAABQAAAAYAAAAHAAAA/v//////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDtm24vINIB
+AwAAAAAJAAAAAAAAQgBvAG8AawAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAoAAgD///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA3AgAAAAAAABDAG8AbQBwAE8AYgBqAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAQEAAAADAAAA/////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///8AAAAAAAAAAFMAdQBtAG0AYQByAHkASQBu
+AGYAbwByAG0AYQB0AGkAbwBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAAIA////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v///wAAAAAAAAAAAQAA
+AAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAA
+EAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAABoAAAAbAAAAHAAAAB0AAAAe
+AAAAHwAAACAAAAAhAAAAIgAAACMAAAD+////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////8JCAgA
+AAUFAPkMygdcACAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiAAIAAADhAAAAwQAC
+AAAAvwAAAMAAAADiAAAAGQACAAAAEgACAAAAEwACAAAAPQASAHgAPADbM10bOAAAAAAAAQCWADEA
+FADIAAAACACQAQAAAAAAAAVBcmlhbDEAFgDcAAEACACQAQAAAAAAAAdDYWxpYnJpMQAWANwAAAAI
+AJABAAAAAAAAB0NhbGlicmkxABYA3AAAAAgAkAEAAAAAAAAHQ2FsaWJyaTEAFADIAAAACACQAQAA
+AAAAAAVBcmlhbB4EGgAFABciJCIjLCMjMF8pO1woIiQiIywjIzBcKR4EHwAGABwiJCIjLCMjMF8p
+O1tSZWRdXCgiJCIjLCMjMFwpHgQgAAcAHSIkIiMsIyMwLjAwXyk7XCgiJCIjLCMjMC4wMFwpHgQl
+AAgAIiIkIiMsIyMwLjAwXyk7W1JlZF1cKCIkIiMsIyMwLjAwXCkeBDUAKgAyXygiJCIqICMsIyMw
+Xyk7XygiJCIqIFwoIywjIzBcKTtfKCIkIiogIi0iXyk7XyhAXykeBCwAKQApXygqICMsIyMwXyk7
+XygqIFwoIywjIzBcKTtfKCogIi0iXyk7XyhAXykeBD0ALAA6XygiJCIqICMsIyMwLjAwXyk7Xygi
+JCIqIFwoIywjIzAuMDBcKTtfKCIkIiogIi0iPz9fKTtfKEBfKR4ENAArADFfKCogIywjIzAuMDBf
+KTtfKCogXCgjLCMjMC4wMFwpO18oKiAiLSI/P18pO18oQF8pHgQWAA8AE2RkZGQsIG1tbW0gZGQs
+IHl5eXngABAAAAAAAPX/IADAIAAAAAAAAOAAEAAAAAAA9f8g9MAgAAAAAAAA4AAQAAAAAAD1/yD0
+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
+
+--_004_BLUPR0501MB18412BFA7B00CACA5D0EFC47B6C60BLUPR0501MB1841_--

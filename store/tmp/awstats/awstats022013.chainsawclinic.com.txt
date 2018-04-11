@@ -1,0 +1,847 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201302 will be lost/reset.
+# Last config file used to build this data file was /home/chainsaw/tmp/awstats/awstats.chainsawclinic.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2682                
+POS_VISITOR 13897               
+POS_DAY 24376               
+POS_DOMAIN 3547                
+POS_LOGIN 4053                
+POS_ROBOT 4208                
+POS_WORMS 4764                
+POS_EMAILSENDER 4895                
+POS_EMAILRECEIVER 5038                
+POS_SESSION 25167               
+POS_SIDER 25379               
+POS_FILETYPES 5173                
+POS_DOWNLOADS 5342                
+POS_OS 5390                
+POS_BROWSER 5594                
+POS_SCREENSIZE 6604                
+POS_UNKNOWNREFERER 6678                
+POS_UNKNOWNREFERERBROWSER 7439                
+POS_ORIGIN 7762                
+POS_SEREFERRALS 7907                
+POS_PAGEREFS 8106                
+POS_SEARCHWORDS 9573                
+POS_KEYWORDS 10722               
+POS_MISC 2344                
+POS_ERRORS 11244               
+POS_CLUSTER 3909                
+POS_SIDER_404 11351               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130301000207 392 84850 8880267738417
+FirstTime 0
+LastTime 20130228231759
+LastUpdate 20130301082131 392 0 391 0 0
+TotalVisits 373                 
+TotalUnique 243                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 269                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 172 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 107 854680 30 62 298219
+1 6 24 155998 12 38 204478
+2 17 63 342338 54 81 280199
+3 7 34 121157 31 80 328295
+4 5 20 321259 136 158 634732
+5 36 126 1069549 42 81 307186
+6 21 72 507272 34 65 173729
+7 92 467 1713250 94 150 769321
+8 139 578 2616466 53 93 373337
+9 83 352 2376669 61 135 731322
+10 119 613 3562190 27 63 127402
+11 158 541 3331392 101 152 756085
+12 132 601 3117589 32 64 122097
+13 101 491 3500887 43 79 142895
+14 104 412 2348025 45 70 155552
+15 86 398 2920150 36 77 296671
+16 73 440 3438184 147 225 981772
+17 56 307 1826971 166 206 925330
+18 44 201 1582531 54 81 177471
+19 48 305 2522431 40 115 809650
+20 43 234 1263846 35 59 210826
+21 28 198 1727121 42 80 336926
+22 41 175 1365025 123 171 749016
+23 16 103 732372 43 77 357705
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+ca 1224 6310 38939374
+us 164 389 3296261
+ru 24 24 81202
+fr 15 15 56832
+gb 13 58 358411
+cn 10 10 51901
+gh 4 20 87433
+lt 4 4 13456
+de 4 4 15277
+nl 2 2 8528
+jp 1 1 4264
+tw 1 1 11338
+kr 1 1 4264
+au 1 7 150402
+ro 1 2 40038
+si 1 8 88353
+br 1 1 4264
+ph 0 1 45331
+mx 0 1 3384
+id 0 2 27650
+hr 0 1 29389
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 1015 4731278 20130228234609 0
+slurp 288 4022280 20130218013329 0
+spider 159 572358 20130228091546 0
+googlebot 148 309366 20130228160616 0
+msnbot\-media 48 183869 20130228082109 0
+crawl 29 131338 20130226125205 0
+[\s_+:,\.\;\/\\-]bot 25 109969 20130228044937 0
+robot 15 37587 20130228222327 0
+no_user_agent 14 56096 20130214045101 0
+checker 14 59696 20130226005606 0
+ia_archiver 1 2041 20130212212351 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 252 887334 0 0
+html 438 1355952 0 0
+jpg 1532 22395401 0 0
+htm 1033 3097658 0 0
+gif 3607 15581007 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+linuxandroid 211
+blackberry 20
+winlong 293
+winxp 3206
+java 4
+linuxubuntu 10
+winvista 119
+linux 37
+win7 1737
+winme 5
+macosx 958
+winunknown 32
+win2003 15
+Unknown 215
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 64
+safari5.0.3 1
+firefox14.0 1
+msie6.0 23
+firefox5.0 2
+firefox15.0 20
+safari4.1.3 38
+firefox10.0 1
+android 211
+firefox3.6.11 2
+chrome12.0.742.91 1
+firefox18.0 275
+firefox4.0 2
+firefox9.0 1
+lynx 4
+chrome12.0.742.112 5
+firefox3 3
+chrome23.0.1271.95 19
+opera9.80 23
+safari6.0.1 60
+links 1
+msie8.0 2920
+firefox2.0.0.14 1
+firefox0.10.1 1
+chrome24.0.1312.56 5
+chrome24.0.1312.57 614
+msie7.0 209
+firefox16.0 3
+firefox9.0.1 21
+msie9.0 933
+chrome16.0.912.63 1
+Unknown 22
+chrome14.0.835.202 1
+firefox3.6.7 2
+blackberry 1
+chrome11.0.696.68 2
+firefox2.0.0.20 4
+firefox3.0.4 1
+chrome10.0.648.133 1
+libwww 1
+safari7.1.0.523 19
+safari7.2.1.0 52
+adobeair 1
+safari6.0 420
+firefox12.0 61
+safari5.1.7 138
+nokia 1
+firefox1.0 3
+mozilla 126
+safari5.0.4 1
+firefox14.0.1 11
+safari5.1.2 38
+msie10.0 87
+firefox5.0.1 1
+chrome13.0.782.20 1
+msie9 1
+safari5.1 7
+safari6.0.2 223
+firefox19.0 73
+chrome25.0.1364.97 114
+firefox3.0.10 4
+chrome10.0.642.0 1
+firefox3.6.8 1
+safari 41
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Google/2.5.1.13455_CFNetwork/609.1.4_Darwin/13.0.0 20130215235544
+Nokia3110c/2.0_(06.60)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20130211100054
+Zend_Http_Client 20130203082110
+MSIE9 20130202085138
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130228081600
+panscient.com 20130202114111
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML,_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20130206152849
+libwww-perl/5.805 20130224020640
+findlinks/2.6_(_http://wortschatz.uni-leipzig.de/findlinks/) 20130227061031
+Mozilla/4.0_(compatible;) 20130228105703
+Mozilla/5.0_(Android;_Mobile;_rv:19.0)_Gecko/19.0_Firefox/19.0 20130226164107
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Google/2.5.1.13455_CFNetwork/609.1.4_Darwin/13.0.0 20130215235544
+Zend_Http_Client 20130203082110
+Java/1.7.0_15 20130225143546
+Java/1.6.0_20 20130228231758
+Apache-HttpClient/UNAVAILABLE_(java_1.4) 20130211053529
+panscient.com 20130202114111
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 406 527
+From1 1 1
+From2 138 154
+From3 45 46
+From4 881 6134
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 115 119
+bing 8 16
+yandex 6 6
+ask 2 2
+yahoo 7 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 20
+http://www.husqvarna.com/ca/en/dealers/dealer-locator/ 7 7
+http://www.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 6 6
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./ 4 4
+http://www.toro.com/en-ca/locator/pages/default.aspx 4 4
+http://www.yellowpages.ca/search/si/1/Garden+Centres/toronto 3 3
+http://www.husqvarna.com/ca/en/forest/dealers/dealer-locator/ 3 3
+http://www.powerequipment.ca 3 3
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./chainsaws.html 2 2
+http://www.finddotcom.com 2 2
+http://www.lawnmowerdealers.net/display.php/6680 2 2
+http://www.husqvarna.com/ca/en/products/lawn-mowers/7021r-523988/ 1 1
+http://www.canpages.ca/website/business/3478571 1 1
+http://www.yellowpages.ca/search/si/1/Garden+Centres/Toronto+ON 1 1
+http://canada411.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 1 1
+http://www.yellowpages.ca/search/si/20/a/Toronto%2C+ON 1 1
+http://evuln.com/tools/malware-scanner/chainsawclinic.com/ 1 1
+http://www.husqvarna.com/ca/en/products/snow-throwers/1830exlt/ 1 1
+http://mobile.yp.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 1 1
+http://www.ariensstore.com/locator/default.aspx 1 1
+http://www.mp3ye.eu/default.php 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 40
+chainsaw+clinic 16
+chain+saw+clinic 14
+chainsaw+clinic+weston 10
+chainsaw+clinic+toronto 8
+chainsawclinic.com 7
+the+chainsaw+clinic+toronto 4
+chainsaw+toronto 4
+chain+saw+clinic+ltd 3
+the+chain+saw+clinic 2
+husqvarna+chainsaw 2
+chainsaw+clinic+weston+rd 2
+the+chainsaw+clinic 2
+www.chainsawclinic.com 2
+chain+saw+clinic+toronto 2
+chainsaw+clinic+weston+road 1
+chain+saw+clinic+woodbridge 1
+chainsaw+rental+toronto 1
+honda+chainsaw 1
+chain+saw+clinic+limited 1
+chainsaw+clinic+ltd 1
+world-wide+761+over+80+years 1
+chainsaw+stores+toronto 1
+chain+saw+dealers+toronto 1
+chainsaws+toronto 1
+chain+saw+clicic+westong 1
+chain+saw+toronto 1
+saw+clinic 1
+landscaping 1
+does+honda+make+a+chain+saw%3f 1
+snow+blowers+toronto 1
+chainsaw+stores+in+toronto 1
+chain+saw 1
+husqvarna+chain+saw+toronto 1
+stihl+kombi+pole+saw+attachment 1
+husqvarna+snow+blowers+toronto 1
+map+of+401+exits 1
+chain+saw+husqvarna+244 1
+chainsaw+supplies+in+toronto+canada 1
+demolition+companies+in+rexdale 1
+chain+saw+clinic+ltd. 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 50
+clinic 69
+chainsaw 55
+saw 32
+chain 31
+toronto 28
+weston 13
+the 8
+chainsawclinic.com 7
+husqvarna 5
+ltd 4
+in 3
+honda 2
+stores 2
+blowers 2
+snow 2
+www.chainsawclinic.com 2
+rd 2
+a 1
+demolition 1
+80 1
+world-wide 1
+401 1
+map 1
+dealers 1
+244 1
+years 1
+does 1
+rental 1
+canada 1
+761 1
+supplies 1
+kombi 1
+clicic 1
+chainsaws 1
+ltd. 1
+woodbridge 1
+over 1
+westong 1
+exits 1
+of 1
+limited 1
+landscaping 1
+attachment 1
+make 1
+pole 1
+companies 1
+rexdale 1
+saw%3f 1
+road 1
+stihl 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 8 34112
+406 1 226
+404 525 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 65
+/robots.txt 436 -
+/mysqladmin/scripts/setup.php 1 -
+/home.aspx 1 -
+//wordpress/wp-login.php 1 http://chainsawclinic.com//wordpress/wp-login.php
+//blog/wp-login.php 1 http://chainsawclinic.com//blog/wp-login.php
+/mysqladminconfig/scripts/setup.php 1 -
+/w00tw00t.at.blackhats.romanian.anti-sec:) 1 -
+/admin.php 1 -
+/welcome.html 1 -
+/localstart.asp 1 -
+/echo%20header.gif 1 -
+/3rdparty/phpMyAdmin/scripts/setup.php 1 -
+/MySQLAdmin/scripts/setup.php 1 -
+/_Global/css/light/layout.css 3 http://powerequipment.honda.ca/
+/.google-analytics.com/ga.js 2 -
+/index.aspx 1 -
+/mydatadmin/scripts/setup.php 1 -
+/MyAdmin/scripts/setup.php 1 -
+/defaut.aspx 1 -
+/blog/wp-trackback.php 1 -
+/welcome.htm 1 -
+/index.html 1 -
+/index.htm 1 -
+/phpmyadmin/scripts/setup.php 2 http://CHAINSAWCLINIC.COM/phpmyadmin/scripts/setup.php
+/_Global/css/pe/backgrounds.css 1 http://powerequipment.honda.ca/snowblowers/hss622tc
+/_Global/css/common/fr/layout.css 2 http://powerequipment.honda.ca/
+/home.html 1 -
+/81/phpmyadmin/scripts/setup.php 1 -
+/my/scripts/setup.php 1 -
+/phpmyadmin/scripts/stp.php 1 -
+/_Global/css/common/reset.css 3 http://powerequipment.honda.ca/
+/main.html 1 -
+/404.html 2 http://whois.domaintools.com/chainsawclinic.com
+/index.asp 1 -
+/main.aspx 1 -
+/default.html 1 -
+/_Global/css/common/layout.css 3 http://powerequipment.honda.ca/
+/_Global/css/sections/product-details.css 1 http://powerequipment.honda.ca/snowblowers/hss622tc
+/administrator/index.php 1 -
+/_Global/swf/preloader.swf 9 http://powerequipment.honda.ca/
+/home.asp 1 -
+/pb-750.gif 1 -
+/main.asp 1 -
+/_Global/css/common/ie.css 3 http://powerequipment.honda.ca/
+/wp-trackback.php 1 -
+/home.htm 1 -
+/main.htm 1 -
+/my/phpmyadmin/scripts/setup.php 1 -
+/_Global/css/pe/layout.css 1 http://powerequipment.honda.ca/snowblowers/hss622tc
+/default.htm 1 -
+/myadmin/scripts/setup.php 2 http://CHAINSAWCLINIC.COM/myadmin/scripts/setup.php
+/wordpress/wp-trackback.php 1 -
+/mysql-admin/scripts/setup.php 1 -
+/wp/wp-trackback.php 1 -
+/news/wp-trackback.php 1 -
+/Entrada.asp 1 -
+/index.php 2 -
+/_Global/css/sections/landing.css 2 http://powerequipment.honda.ca/
+/default.php 1 -
+/default.asp 1 -
+/parked.php 1 -
+/wp-login.php 2 -
+/iisstart.asp 2 -
+/home.php 1 -
+/mysqlmanager/scripts/setup.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 269
+99.234.173.186 544 2064 5761967 20130228142101
+8.28.16.254 17 17 59643 20130228105705
+99.226.136.74 16 81 686915 20130217210903
+96.224.208.225 16 16 77917 20130202114111
+208.80.194.150 13 13 55432 20130227150122
+173.230.186.75 11 82 719932 20130227170105
+69.58.178.56 11 11 56296 20130201223745
+99.234.101.39 11 57 196867 20130211183431
+99.226.40.16 11 83 765717 20130211161632
+38.100.21.62 11 11 53403 20130210184730
+174.113.245.9 11 71 175786 20130222204325
+198.199.134.100 10 44 234510 20130215150856
+113.205.225.179 9 9 47637 20130214081432
+65.93.217.177 9 56 636192 20130219052616
+108.162.163.252 9 63 722053 20130207224255
+205.189.94.12 9 61 662016 20130228155151
+206.130.174.61 9 45 302054 20130213065039
+99.225.82.202 8 44 420285 20130208182855
+207.164.79.50 8 42 244344 20130214134629
+174.91.83.211 8 60 659524 20130209190420
+208.80.194.149 8 8 34112 20130226111352
+99.234.173.115 7 31 211742 20130209183423
+99.248.86.219 7 44 467299 20130222165017
+70.50.194.28 7 49 336283 20130207150945
+209.82.61.8 7 41 363268 20130228111911
+70.53.13.146 4 22 147470 20130215103320
+175.180.167.6 1 1 11338 20130205111245
+66.97.29.2 1 4 98303 20130207111410
+216.220.35.2 5 35 173294 20130214132409
+99.243.158.150 4 30 251342 20130217145904
+99.234.141.236 3 19 84941 20130208121509
+74.198.9.116 1 4 98303 20130212113917
+207.219.69.150 6 39 345734 20130210112547
+75.119.243.206 1 4 98303 20130202135843
+207.245.236.98 4 27 173294 20130207103731
+96.24.65.199 5 38 339695 20130217005121
+69.64.51.97 1 1 4264 20130213200810
+70.48.89.121 1 5 134077 20130221132529
+5.135.125.180 4 4 15280 20130208051553
+99.235.170.90 4 21 100510 20130206071700
+198.103.167.20 1 6 0 20130214061826
+216.26.220.75 5 30 235823 20130208090949
+199.192.178.164 5 38 339695 20130226115443
+99.225.238.242 5 21 91158 20130210101311
+173.34.11.143 4 21 100510 20130216083812
+67.211.114.82 5 30 235823 20130204111235
+72.35.30.159 5 21 93469 20130228231759
+204.101.16.241 4 22 147470 20130211142721
+99.179.16.151 0 2 23611 
+209.20.83.229 4 4 17056 20130223151114
+99.232.181.18 4 30 251342 20130205190453
+70.54.78.72 3 19 84941 20130227122142
+72.140.154.20 5 23 149962 20130210103719
+174.117.109.191 6 41 402224 20130217093553
+109.169.55.112 3 21 87435 20130214113446
+208.80.194.142 1 1 4264 20130218111553
+74.14.232.148 4 22 147470 20130226123509
+65.55.210.217 3 3 10030 20130202065646
+76.69.85.215 1 1 4264 20130226125442
+195.60.76.78 1 1 4264 20130214095839
+173.206.206.25 1 4 98303 20130209082452
+68.171.231.86 3 11 34133 20130201085233
+209.20.27.50 4 28 177415 20130228105705
+121.54.44.140 0 1 45331 
+64.56.230.234 1 6 138500 20130215184308
+99.226.139.0 4 22 147470 20130211143814
+99.254.37.212 5 29 194375 20130211145519
+65.55.218.46 1 1 11338 20130223064644
+65.55.215.244 1 1 3725 20130203205523
+182.9.117.154 0 1 24266 
+178.138.35.32 0 1 35774 
+139.18.2.17 1 1 2485 20130227061031
+199.212.27.245 5 38 339695 20130226123112
+78.46.145.199 1 1 4264 20130201115006
+109.151.38.143 3 19 84941 20130219054448
+95.221.64.5 3 3 10030 20130213152040
+209.29.196.10 3 19 84941 20130214103752
+99.248.28.98 6 24 149962 20130209140138
+93.92.217.228 1 1 2464 20130225143546
+68.36.34.252 1 14 262293 20130217132319
+173.219.131.64 3 19 84941 20130213234829
+198.27.74.9 1 1 4264 20130211013726
+207.164.79.33 5 41 127719 20130215000907
+206.196.111.204 3 3 10030 20130213152707
+201.171.209.144 0 1 3384 
+46.73.47.214 3 3 10030 20130215224139
+218.38.16.234 1 1 4264 20130224020640
+184.144.11.6 4 27 173294 20130217025647
+199.19.171.6 1 4 98303 20130225094239
+207.134.63.105 1 14 175766 20130219060655
+74.198.9.195 1 4 98303 20130224094543
+65.55.211.206 1 1 3725 20130204115033
+74.90.197.62 0 1 3384 
+206.210.106.35 4 22 147470 20130204095958
+5.135.125.181 5 5 17744 20130223055242
+12.51.221.130 1 4 98303 20130225121725
+99.234.193.118 1 5 134077 20130209092834
+70.48.10.240 6 47 477554 20130210103539
+99.232.189.185 2 15 119692 20130216110420
+108.222.175.5 1 12 167595 20130221161216
+174.91.121.28 1 1 4264 20130217031503
+99.234.0.56 5 38 339695 20130207171624
+68.171.231.88 1 9 122697 20130205165818
+68.171.231.80 1 9 77241 20130205165231
+70.30.105.106 5 38 339695 20130226130625
+99.234.169.150 5 37 298247 20130228155217
+38.116.192.104 4 22 147470 20130226084209
+70.29.121.8 5 39 389201 20130217160612
+46.73.13.157 3 3 10030 20130216222414
+99.234.186.112 3 19 84941 20130220212710
+176.195.34.90 3 3 10030 20130212195544
+78.158.11.226 4 4 13456 20130228081600
+70.53.128.208 3 19 84941 20130226081926
+72.48.20.91 0 1 4279 
+69.64.32.217 1 1 4264 20130214201227
+99.233.136.252 4 26 131846 20130224180443
+119.63.193.132 1 1 4264 20130222191713
+124.188.65.222 0 1 45331 
+65.93.106.76 1 6 98303 20130214081720
+99.233.193.192 3 19 84941 20130227162453
+199.212.39.30 5 30 235823 20130226132635
+189.6.47.203 1 1 4264 20130202085138
+208.80.194.145 5 5 21320 20130228140953
+207.236.220.231 3 19 84941 20130225123830
+216.48.166.14 4 37 192642 20130227234137
+24.52.230.235 4 30 251342 20130225192517
+208.80.194.159 5 5 21320 20130228151943
+174.91.141.196 4 27 173294 20130205124924
+68.171.231.81 0 1 3889 
+99.235.30.60 6 51 597050 20130218080319
+99.247.130.247 4 32 342296 20130228192014
+76.75.122.44 4 27 173294 20130211200948
+64.231.101.246 4 20 87433 20130209175930
+74.59.241.44 3 19 84941 20130216191857
+70.29.63.51 4 32 342296 20130201140539
+99.227.128.11 5 34 220199 20130213221939
+70.26.131.22 4 30 251342 20130219193726
+23.17.52.65 0 1 20350 
+197.251.153.179 4 20 87433 20130212070317
+206.108.79.82 4 22 147470 20130206172626
+68.171.231.85 0 2 42751 
+99.234.172.227 1 4 98303 20130211125421
+99.250.178.240 5 23 149962 20130225143846
+95.221.77.169 3 3 10030 20130210043909
+173.243.41.202 4 30 251342 20130220193809
+209.162.243.49 1 4 98303 20130219073358
+154.20.164.142 4 22 147470 20130208011912
+66.252.149.8 5 40 430649 20130212112028
+70.51.165.92 4 27 173294 20130228104414
+99.240.104.250 4 22 147470 20130207172818
+70.194.67.232 1 12 167595 20130216184406
+174.113.215.146 5 23 149962 20130209061844
+99.234.195.41 5 31 234572 20130214200537
+209.239.12.139 4 21 91322 20130208071453
+99.254.37.131 3 20 114006 20130226222620
+176.9.111.204 1 1 4264 20130206072932
+184.151.63.245 4 27 173294 20130210122412
+68.171.231.83 2 12 80249 20130205165225
+142.205.241.254 4 30 251342 20130215103346
+216.254.187.43 3 19 84941 20130220090620
+216.191.206.178 4 20 87433 20130211093809
+68.171.231.84 0 9 27205 
+184.151.190.121 1 4 98303 20130209111619
+114.79.51.179 0 1 3384 
+146.135.118.4 0 1 5615 
+99.233.47.187 5 23 149962 20130211173256
+99.235.0.213 4 26 131846 20130209174206
+99.2.195.235 1 14 262293 20130222182942
+71.49.10.202 1 14 262293 20130207152851
+89.17.124.122 6 6 18440 20130212032112
+124.169.68.204 1 4 98303 20130217044552
+64.91.226.62 3 3 12792 20130214113508
+188.165.230.147 2 2 8528 20130219085433
+208.97.122.90 4 22 147470 20130222133201
+76.65.225.39 4 30 251342 20130219100426
+80.6.136.64 1 12 167595 20130202044737
+65.94.115.150 1 4 98303 20130213122033
+202.46.52.27 1 1 4264 20130222191551
+76.68.50.148 2 15 119692 20130204115659
+70.52.198.63 4 22 147470 20130227145348
+173.206.234.147 5 23 149962 20130226133156
+174.138.219.69 3 19 84941 20130228225432
+65.95.251.88 3 19 84941 20130226071235
+99.227.168.126 0 1 55642 
+199.7.156.162 5 31 262680 20130226164056
+70.51.27.40 1 4 98303 20130223085334
+69.166.28.207 1 5 134077 20130209093134
+208.80.194.140 4 4 17056 20130216132529
+216.185.254.154 4 27 173294 20130211100314
+165.130.136.210 7 43 240653 20130209135339
+37.9.53.50 1 1 4264 20130209020729
+176.213.37.180 3 3 10030 20130214111343
+75.169.84.172 0 1 29389 
+99.233.105.115 4 25 185685 20130208151607
+174.138.223.218 1 4 98303 20130211085749
+206.191.66.34 4 26 131846 20130221025227
+207.231.231.7 0 1 11959 
+99.232.176.118 4 38 324242 20130215202553
+142.54.184.18 4 4 17056 20130208053353
+99.237.100.217 4 22 147470 20130208210956
+70.27.6.141 3 19 84941 20130210172048
+99.244.132.195 7 47 402169 20130209004126
+96.51.68.250 0 1 13084 
+69.196.155.139 4 20 87433 20130208124411
+69.159.33.62 3 19 84941 20130220131101
+76.75.80.75 5 31 253834 20130220055510
+70.77.201.83 1 14 262293 20130203234935
+198.254.249.12 1 14 262293 20130222212425
+131.253.24.131 1 1 11766 20130214105441
+99.234.112.79 4 27 173294 20130207153126
+24.138.103.130 4 26 131846 20130223134017
+174.89.100.62 1 4 98303 20130202140920
+74.236.192.144 0 1 45331 
+74.52.245.146 3 3 10030 20130213155113
+70.31.2.218 5 23 149962 20130209131843
+174.115.99.72 7 47 540724 20130210091605
+67.159.44.55 1 1 4264 20130210084723
+122.107.223.237 0 1 3384 
+76.70.84.10 4 22 147470 20130227085347
+209.195.109.54 3 19 84941 20130211154638
+199.255.199.1 1 1 4264 20130224144758
+46.73.37.23 3 3 10030 20130208112537
+122.110.41.254 0 1 3384 
+216.249.2.10 4 27 173294 20130205134826
+65.55.212.79 1 1 2464 20130215020519
+209.195.120.230 5 23 149962 20130220134717
+99.238.216.210 4 30 251342 20130222170653
+178.33.178.15 4 4 15280 20130210050016
+173.45.73.18 3 3 12792 20130211150901
+99.235.59.56 3 19 84941 20130222144128
+65.55.210.248 3 3 10030 20130226024027
+98.28.65.41 1 15 273037 20130209133244
+74.198.9.31 4 22 147470 20130207193504
+64.231.241.36 3 19 84941 20130211113527
+68.171.231.82 1 9 79140 20130205165225
+70.26.76.142 5 23 149962 20130208094924
+65.93.217.192 1 4 98303 20130209102345
+50.100.200.215 0 1 55642 
+173.66.181.254 0 1 34924 
+204.138.232.236 5 21 148763 20130212091911
+68.171.231.87 0 8 95208 
+184.151.61.212 5 38 339695 20130205215100
+184.151.61.29 3 19 84941 20130210155628
+131.253.24.129 1 1 5418 20130202064647
+209.195.107.39 4 22 147470 20130209223618
+99.234.206.173 3 19 84941 20130227103705
+99.244.122.161 5 38 339695 20130225215147
+50.56.58.47 1 1 4264 20130227132843
+99.231.39.78 5 23 149962 20130226200430
+70.54.103.90 4 22 147470 20130208115947
+204.138.232.251 4 26 134157 20130211112701
+204.9.161.230 6 30 196867 20130211143454
+192.226.63.69 4 32 144614 20130225092949
+195.29.161.70 0 1 29389 
+198.27.74.12 1 1 4264 20130210131818
+174.35.237.17 5 28 179333 20130216191654
+99.227.116.247 5 43 508697 20130208110907
+213.174.154.106 2 2 8528 20130203082110
+99.251.80.201 5 23 149962 20130210082206
+207.219.69.190 1 4 98303 20130225132310
+174.93.87.233 3 19 84941 20130209030450
+188.138.110.90 1 1 4264 20130208022330
+65.95.209.154 3 19 84941 20130210211349
+92.37.123.225 1 8 88353 20130209081214
+184.147.235.110 1 4 98303 20130204152557
+178.163.89.222 1 1 4264 20130222144450
+99.234.201.151 5 23 149962 20130228121218
+75.202.16.110 0 2 48715 
+99.228.79.9 3 19 84941 20130217194857
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130201 49 184 820563 11
+20130202 31 88 923128 10
+20130203 5 18 278810 4
+20130204 46 182 1222273 11
+20130205 65 382 2171534 16
+20130206 51 201 830049 11
+20130207 61 325 2392006 16
+20130208 93 444 2641331 20
+20130209 77 408 3350290 22
+20130210 68 302 2164091 17
+20130211 110 553 3478375 26
+20130212 66 255 1495116 15
+20130213 59 249 958871 14
+20130214 88 398 1554514 21
+20130215 41 176 1145826 12
+20130216 20 101 670629 8
+20130217 37 256 2457376 11
+20130218 7 53 656956 2
+20130219 49 244 1761237 11
+20130220 49 248 1336548 13
+20130221 41 110 526987 10
+20130222 57 347 2168057 16
+20130223 14 39 272023 7
+20130224 8 33 242941 5
+20130225 56 291 1828671 14
+20130226 81 417 2674000 18
+20130227 60 203 1035058 15
+20130228 82 355 2260092 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 17
+5mn-15mn 9
+30s-2mn 39
+2mn-5mn 13
+0s-30s 270
+15mn-30mn 15
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 438 1355952 302 71
+/main.htm 357 882825 5 123
+/contents.htm 355 489840 12 7
+/contactus.htm 91 224224 34 63
+/husqvarna.htm 58 332145 3 30
+/stihl.htm 48 544224 7 27
+/aboutus.htm 42 102172 0 17
+/toro.htm 36 189630 2 14
+/honda.htm 24 282384 7 14
+/lawnboy.htm 18 44730 1 6
+/echo.htm 4 5484 0 1
+END_SIDER
